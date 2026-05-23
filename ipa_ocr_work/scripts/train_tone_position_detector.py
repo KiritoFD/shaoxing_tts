@@ -180,9 +180,9 @@ def build_model(backbone: str) -> nn.Module:
     raise ValueError(f"unknown backbone: {backbone}")
 
 
-def metrics_from_logits(logits: torch.Tensor, labels: torch.Tensor) -> dict[str, float]:
+def metrics_from_logits(logits: torch.Tensor, labels: torch.Tensor, threshold: float = 0.5) -> dict[str, float]:
     probs = torch.sigmoid(logits)
-    preds = (probs >= 0.5).long()
+    preds = (probs >= threshold).long()
     gold = labels.long()
     tp = int(((preds == 1) & (gold == 1)).sum().item())
     tn = int(((preds == 0) & (gold == 0)).sum().item())
@@ -204,7 +204,19 @@ def metrics_from_logits(logits: torch.Tensor, labels: torch.Tensor) -> dict[str,
     }
 
 
-def evaluate(model: ToneCnn, loader: DataLoader, criterion: nn.Module, device: str) -> dict[str, float]:
+def best_threshold_for_accuracy(logits: torch.Tensor, labels: torch.Tensor) -> float:
+    best_threshold = 0.5
+    best_accuracy = -1.0
+    for step in range(5, 96):
+        threshold = step / 100.0
+        metrics = metrics_from_logits(logits, labels, threshold)
+        if metrics["accuracy"] > best_accuracy:
+            best_accuracy = metrics["accuracy"]
+            best_threshold = threshold
+    return best_threshold
+
+
+def evaluate(model: ToneCnn, loader: DataLoader, criterion: nn.Module, device: str, threshold: float | None = 0.5) -> dict[str, float]:
     model.eval()
     losses = []
     all_logits = []
@@ -219,8 +231,10 @@ def evaluate(model: ToneCnn, loader: DataLoader, criterion: nn.Module, device: s
             all_labels.append(labels.cpu())
     logits = torch.cat(all_logits) if all_logits else torch.empty(0)
     labels = torch.cat(all_labels) if all_labels else torch.empty(0)
-    metrics = metrics_from_logits(logits, labels)
+    chosen_threshold = best_threshold_for_accuracy(logits, labels) if threshold is None else threshold
+    metrics = metrics_from_logits(logits, labels, chosen_threshold)
     metrics["loss"] = sum(losses) / max(1, len(losses))
+    metrics["threshold"] = chosen_threshold
     model.train()
     return metrics
 
@@ -263,15 +277,15 @@ def main() -> None:
             total += float(loss.item())
             steps += 1
         scheduler.step()
-        val = evaluate(model, val_loader, criterion, device)
+        val = evaluate(model, val_loader, criterion, device, threshold=None)
         best = ""
         if val["f1"] > best_f1:
             best_f1 = val["f1"]
             best = "*"
-            torch.save({"model": model.state_dict(), "args": vars(args)}, args.out_dir / "best.pt")
+            torch.save({"model": model.state_dict(), "args": vars(args), "threshold": val["threshold"]}, args.out_dir / "best.pt")
         if args.save_every and epoch % args.save_every == 0:
             path = args.out_dir / f"epoch_{epoch:04d}.pt"
-            torch.save({"model": model.state_dict(), "args": vars(args)}, path)
+            torch.save({"model": model.state_dict(), "args": vars(args), "threshold": val["threshold"]}, path)
             ckpts.append(path)
         row = {"epoch": epoch, "train_loss": total / max(1, steps), **{f"val_{k}": v for k, v in val.items()}, "best": best}
         history.append(row)
@@ -279,13 +293,16 @@ def main() -> None:
             writer = csv.DictWriter(f, fieldnames=list(row.keys()), delimiter="\t")
             writer.writeheader()
             writer.writerows(history)
-        print(f"epoch {epoch}: train_loss={row['train_loss']:.4f} val_acc={val['accuracy']:.4f} val_f1={val['f1']:.4f}{best}")
+        print(
+            f"epoch {epoch}: train_loss={row['train_loss']:.4f} "
+            f"val_acc={val['accuracy']:.4f} val_f1={val['f1']:.4f} threshold={val['threshold']:.2f}{best}"
+        )
 
     eval_rows = []
     for name, path in [("best.pt", args.out_dir / "best.pt")] + [(p.name, p) for p in ckpts]:
         checkpoint = torch.load(path, map_location=device, weights_only=False)
         model.load_state_dict(checkpoint["model"])
-        metrics = evaluate(model, test_loader, criterion, device)
+        metrics = evaluate(model, test_loader, criterion, device, threshold=float(checkpoint.get("threshold", 0.5)))
         eval_rows.append({"checkpoint": name, **metrics})
         target = "TARGET_MET" if metrics["accuracy"] >= args.target_accuracy else "TARGET_NOT_MET"
         print(f"{name}: test_acc={metrics['accuracy']:.4f} test_f1={metrics['f1']:.4f} {target}_{args.target_accuracy:.2f}")

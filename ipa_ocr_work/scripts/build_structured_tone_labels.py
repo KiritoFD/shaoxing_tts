@@ -166,7 +166,7 @@ def syllables_for_wupin(
     visual_hints = visual_tone_slots(image_path, syllables) if image_path else [None for _ in syllables]
     for syllable, hint in zip(syllables, visual_hints):
         tone = syllable["selected_tone"]
-        if tone_position == "both_upper_lower" and hint in {"upper", "lower"}:
+        if image_path and hint in {"upper", "lower"}:
             if hint == "lower":
                 syllable["upper_tone"] = None
                 syllable["lower_tone"] = tone

@@ -17,14 +17,14 @@ no_detected_tone_digits     191
 detector syllables: 11390
 detector labels:
 label
-1    5975
-0    5415
+0    6025
+1    5365
 
 detector split x label:
 source_split  label
-test          0         575
-              1         621
-train         0        4309
-              1        4773
-val           0         531
-              1         581
+test          0         646
+              1         550
+train         0        4804
+              1        4278
+val           0         575
+              1         537
