@@ -1,0 +1,30 @@
+trainable OCR rows: 5228
+promoted low rows: 139
+
+OCR row qualities:
+quality
+matched                4068
+weak_match             1021
+promoted_low_cer0.2     139
+
+OCR tone positions:
+tone_position
+both_upper_lower           2655
+upper_only                 1724
+lower_only                  658
+no_detected_tone_digits     191
+
+detector syllables: 11390
+detector labels:
+label
+1    5975
+0    5415
+
+detector split x label:
+source_split  label
+test          0         575
+              1         621
+train         0        4309
+              1        4773
+val           0         531
+              1         581

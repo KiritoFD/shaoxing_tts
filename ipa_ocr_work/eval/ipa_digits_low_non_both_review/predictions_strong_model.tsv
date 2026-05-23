@@ -1,0 +1,623 @@
+sample_id	variant	label	prediction	edit_distance	cer
+p124_0020_00000	original_export	hə33	muʔ1	4	1.0
+p125_0005_00001	original_export	ɦu11lu11	ɦu11lu11	0	0.0
+p125_0008_00002	original_export	sɒŋ52	sɒŋ52	0	0.0
+p125_0012_00003	original_export	ɕiʔ45	ɕiʔ45	0	0.0
+p125_0014_00004	original_export	ɕiʔ3zaʔ5tsɿ52	ɕiʔ3zə52	6	0.46153846153846156
+p126_0002_00005	original_export	fæ̃335dzɤ55tʰiẽ52	fæ̃335dzə52	7	0.4117647058823529
+p126_0004_00006	original_export	ɦɒ11læʔ1tʰæʔ1	hu2	13	1.0
+p126_0020_00007	original_export	diẽ11bæ̃52	diẽ11bæ̃55	1	0.1
+p127_0014_00008	original_export	liŋ231	liŋ231	0	0.0
+p127_0015_00009	original_export	zɤ231	zɤ23	1	0.2
+p127_0023_00010	original_export	sæ̃33iɤ55	liẽ132	8	0.8888888888888888
+p130_0013_00020	original_export	doŋ231	doŋ221	1	0.16666666666666666
+p130_0017_00021	original_export	tʰiʔ45	tʰiʔ45	0	0.0
+p130_0021_00022	original_export	kʰæ̃52	kɒŋ52	3	0.5
+p131_0000_00023	original_export	læʔ23	ɕiʔ45	4	0.8
+p131_0010_00024	original_export	væ̃231	uæ̃231	1	0.16666666666666666
+p132_0005_00025	original_export	ᴇ33tsɤ52	sɤ52	4	0.5
+p132_0013_00026	original_export	sɿ335pʰɤ55pʰɤ52	dzẽ135tʰᴇ52	11	0.7333333333333333
+p133_0005_00027	original_export	mᴇʔ1søʔ5	mᴇʔ1sᴇʔ5	1	0.125
+p133_0009_00028	original_export	doŋ11ŋæ̃11	doŋ11ŋ̃11	1	0.1
+p133_0010_00029	original_export	uɒŋ33dɒŋ55	huɒ3ɒ33kiø̃5	7	0.7
+p134_0000_00030	original_export	tsəŋ335ᴇʔ5də55tɕʰi52	səŋ335tiᴇ52	11	0.55
+p135_0004_00031	original_export	tsɿ33ʑiẽ52	tsɿ33dʑiẽ52	1	0.1
+p135_0009_00032	original_export	mᴇʔ3toʔ5	ɦuʔ3	6	0.75
+p136_0007_00033	original_export	ɦɒ115ɡᴇʔ5ɦiøʔ54	lu11sɒ552	11	0.7333333333333333
+p136_0015_00034	original_export	ȵiʔ23	ɿ33	4	0.8
+p136_0016_00035	original_export	ȵiʔ1tsɿ55	huʔ	8	0.8888888888888888
+p137_0000_00036	original_export	zaŋ115ɦa55ȵi55tsɿ52	ȵi15	16	0.8421052631578947
+p137_0002_00037	original_export	dʑiẽ11ȵi55tsɿ52	muʔ1	14	0.9333333333333333
+p137_0005_00038	original_export	di11ȵi11ȵi11	di11ȵi11ȵiɒ11	1	0.08333333333333333
+p137_0008_00039	original_export	ku33liaŋ33tʰiẽ33	ɦuʔ1	15	0.9375
+p137_0010_00040	original_export	zaŋ115liaŋ55ȵi52	piẽ15	14	0.875
+p137_0022_00041	original_export	pø̃33zaŋ33tsə33	kʰŋ333zɒŋ33tsɿ33	6	0.4
+p137_0028_00042	original_export	æ̃33ɦɒ33tsə33	pi333ɕiø33	8	0.6153846153846154
+p140_0018_00049	original_export	tsoŋ33tɕʰiə55tɕiʔ54	loŋ11oŋ55ia53	13	0.6842105263157895
+p141_0013_00050	original_export	ɕiɤ335ɕy52	hmŋ13tsoŋ5i55	11	1.1
+p141_0015_00051	original_export	mɒŋ11tsoŋ55	ɕiɤ335ɕʑy52	10	0.9090909090909091
+p141_0016_00052	original_export	ɕiɤ335mø̃52	da11ɕy11	11	1.0
+p141_0018_00053	original_export	kuoʔ3ɦy55	tɕy335ɕy52	7	0.7777777777777778
+p141_0022_00054	original_export	ɦy115sɿ52	sɒŋ33kɒŋ55	9	1.0
+p142_0024_00055	original_export	tiɤ335	tiɤ335	0	0.0
+p143_0001_00056	original_export	dzɿ115tɕi52	itɕi52	6	0.5454545454545454
+p143_0009_00057	original_export	huɒŋ33huᴇ55	ɦuʔ1	10	0.9090909090909091
+p144_0009_00058	original_export	ɦy231	ɦẽ115ŋẽ52	8	1.6
+p144_0012_00059	original_export	ȵiæ̃11ɦy52	ȵiæ̃11ɦy52	0	0.0
+p144_0013_00060	original_export	lu11ɦy52	lu1152	2	0.25
+p144_0016_00061	original_export	ɦy231	huʔ	5	1.0
+p145_0001_00062	original_export	mø̃231	mø̃231	0	0.0
+p145_0006_00063	original_export	ẽ52	iẽ335	4	1.3333333333333333
+p145_0011_00064	original_export	sᴇ52	sᴇ52	0	0.0
+p146_0010_00065	original_export	la11tsʰɿ11kᴇʔ1	la1tsʰɿ11oʔ1sɒ11	7	0.5
+p147_0000_00066	original_export	ɦə11tɕiʔ5liŋ52	ɦə115tɕiʔ52	5	0.35714285714285715
+p147_0025_00067	original_export	lɒ231	kɒʔ3	3	0.6
+p147_0026_00068	original_export	bᴇʔ1tsɿ55	tɒ33fᴇ552	8	0.8888888888888888
+p150_0030_00077	original_export	tɕʰi33sɿ33ɦᴇ33tsɿ33	hi33føŋ3333	12	0.631578947368421
+p150_0031_00078	original_export	pø̃33tɕiaʔ3lɤ33	zə13ĩ3	12	0.8
+p152_0002_00079	original_export	koʔ45	i52	5	1.0
+p152_0005_00080	original_export	ɦiʔ1sɤ52	ɦiʔ1sɤ52	0	0.0
+p152_0015_00081	original_export	tsɿ335	hi5	5	0.8333333333333334
+p152_0023_00082	original_export	sɒŋ33tsɿ55	sɒŋ33tsə55	1	0.1
+p153_0002_00083	original_export	tɤ335kuɒ55liaŋ55liə55ʑy52	piẽŋ3	23	0.92
+p154_0004_00084	original_export	tsoʔ3ɕiɤ52	muʔ3	8	0.8
+p154_0008_00085	original_export	miʔ23	miʔ23	0	0.0
+p154_0016_00086	original_export	ȵiaʔ1boŋ52	ȵiaʔ1tiə5tʰa52	7	0.7
+p155_0009_00087	original_export	dʑiaŋ11bi55huɒ52	dʑiaŋ115bi52	6	0.375
+p155_0028_00088	original_export	ɦa11tɕiɤ11tɕiɤ11	ɦa11tɕiɤ1tɕiɤ11	1	0.0625
+p156_0023_00089	original_export	tsʰɤ335tsɿ52	tsʰɤ33tʰ55tʰɿ52	4	0.3333333333333333
+p156_0027_00090	original_export	tsʰɒŋ33bu52	tsɒŋʰɒŋ35tiŋ55	7	0.6363636363636364
+p156_0029_00091	original_export	tsɿ335koʔ5tsoŋ55sɿ55tsʰɤ52	ɦuʔ1	25	0.9615384615384616
+p157_0000_00092	original_export	pʰiɤ52	biɤ22	3	0.5
+p160_0009_00097	original_export	ȵiæ̃11kʰɒŋ52	ȵiæ̃11kʰɒŋ52	0	0.0
+p160_0013_00098	original_export	tsʰᴇ33	tsʰᴇ33	0	0.0
+p160_0014_00099	original_export	tɕʰiŋ33tsʰᴇ55	tɕʰiŋ33tsy52	3	0.23076923076923078
+p160_0016_00100	original_export	ɦaʔ1ɕiŋ55lɒ55dɤ52	ɦaʔ1ɕi55	9	0.5294117647058824
+p160_0020_00101	original_export	a335huɒŋ55də52	a335ɦuɒŋ5552	3	0.21428571428571427
+p160_0021_00102	original_export	tsʰᴇ33	tsʰᴇ33hu33	4	0.6666666666666666
+p161_0006_00103	original_export	ɕiʔ3li55	ɕiʔ3li55iæ5	3	0.375
+p162_0005_00104	original_export	piẽ335	hiẽ335	1	0.16666666666666666
+p163_0015_00105	original_export	ɕiẽ33kuᴇ55ɦiø̃52	ɕiẽ33kuᴇʔ552	5	0.3125
+p164_0000_00106	original_export	ȵi11soʔ1kuɒŋ11	ȵi111so11	7	0.5
+p164_0006_00107	original_export	ta33	ti53	2	0.5
+p164_0011_00108	original_export	zɿ113	kũ3piʔ2	8	1.6
+p164_0017_00109	original_export	ɕiaŋ33ȵi33kuᴇ33tsɿ33	fi333ɕiaŋ3i3dʑiʔ53	14	0.7
+p164_0018_00110	original_export	ɕiaŋ33kuɒ33tsɿ33	tiŋ3ɕia3kuɒʔ3	11	0.6875
+p165_0001_00111	original_export	ɦa11tiẽ11ɕiŋ11	liŋ11ɦa55tiʔ52	12	0.8571428571428571
+p166_0002_00112	original_export	miẽ113	miẽ523	2	0.3333333333333333
+p166_0014_00113	original_export	tɕiŋ52	dɒ1	6	1.0
+p166_0015_00114	original_export	ɦiø̃11	li13tfi52	8	1.3333333333333333
+p167_0022_00115	original_export	kɤ52	kɤ52	0	0.0
+p167_0025_00116	original_export	ɕiaŋ335	ɕiaŋ335	0	0.0
+p167_0026_00117	original_export	ɦæ̃11ɕiaŋ55	tzẽ331	11	1.0
+p167_0028_00118	original_export	lᴇʔ1ɦy55kẽ52	lᴇʔ1ɕiaŋ52	6	0.5
+p167_0029_00119	original_export	mø̃231	mø̃11ɕiʔ55u52	10	1.6666666666666667
+p171_0021_00124	original_export	tɕiə335kᴇʔ5tɕiə52	tɕiə35tsə55toəʔ52	8	0.47058823529411764
+p172_0004_00125	original_export	ɦẽ115iẽ52	ɦɒ2	7	0.7777777777777778
+p172_0007_00126	original_export	dɒŋ231	dɒŋ231	0	0.0
+p172_0015_00127	original_export	ȵiə11bi55dɒŋ52	ȵiẽ115ə5iŋ52	6	0.42857142857142855
+p173_0015_00128	original_export	tsʰɿ33	muʔ3	5	0.8333333333333334
+p173_0022_00129	original_export	ɦə11tsɿ55	ɦə11sæ̃55	3	0.3333333333333333
+p174_0000_00130	original_export	di11loʔ1tsɒŋ11	diẽ11tɕiə555	10	0.7142857142857143
+p174_0025_00131	original_export	diẽ11miẽ55tɕiaŋ52	tʰɿ335	15	0.8823529411764706
+p174_0027_00132	original_export	tɕiaŋ33ɦə33	tɕiaŋ33ɦẽ33	1	0.09090909090909091
+p174_0031_00133	original_export	mi115tsʰu52	tsʰu33	7	0.6363636363636364
+p177_0015_00134	original_export	ɕiɤ335	ɕiɤ335la55tɤŋ52	9	1.5
+p180_0005_00144	original_export	ma11	mɤ11	1	0.25
+p180_0006_00145	original_export	ma11ɦẽ11ȵi11	hi31ɤŋʰɒ55	11	0.9166666666666666
+p180_0009_00146	original_export	tsʰɤ335ma52	tsʰɤ335mɤ52	1	0.09090909090909091
+p180_0014_00147	original_export	ȵiaʔ1ma55	ȵiaʔ1mɤ55	1	0.1111111111111111
+p180_0023_00148	original_export	nᴇʔ23	nᴇʔ23	0	0.0
+p183_0020_00149	original_export	tɕiaŋ33bu55	tɕiaŋ33tʰɿ52	4	0.36363636363636365
+p184_0014_00150	original_export	nᴇ11ɦa11	huʔ	8	1.0
+p184_0017_00151	original_export	uoʔ45	uoʔ45	0	0.0
+p185_0005_00152	original_export	kᴇʔ3væ̃55kæ̃52	liʔtᴇʔi55	11	0.7857142857142857
+p185_0026_00153	original_export	kaʔ3dʑiaŋ52	ɦuʔ1	10	0.9090909090909091
+p186_0029_00154	original_export	tɕiŋ335	tiẽ335	2	0.2857142857142857
+p186_0032_00155	original_export	tɕiŋ335tʰᴇ52	muʔ1	12	1.0
+p190_0003_00158	original_export	sæ̃33mẽ55da55dʑy52	ɦiẽ13	17	0.9444444444444444
+p190_0012_00159	original_export	zɒŋ11tɕiaʔ5dʑy52	loŋzɒ552	12	0.75
+p190_0029_00160	original_export	təŋ33zaŋ33sɿ33ɦoŋ33	lɒ15	19	1.0
+p190_0030_00161	original_export	zɒŋ11læʔ5tsoʔ54	poŋ155ɕɒ52	11	0.7333333333333333
+p192_0000_00162	original_export	di11tɕʰiʔ1tsɒŋ11	li115zaŋ2	12	0.75
+p192_0011_00163	original_export	tsẽ335tɕiŋ52	ɕiŋ52	7	0.5833333333333334
+p192_0021_00164	original_export	tsaŋ33kẽ33bɒŋ33	tiɒ33tsaŋ3ɦiø̃5kĩ55	15	1.0
+p192_0022_00165	original_export	tsʰaŋ33kẽ55bɒŋ52	tzɒ1ʰŋ3	14	0.875
+p192_0026_00166	original_export	tsʰɤ335diẽ55tsɿ52	tsʰɤ33diẽ52	6	0.35294117647058826
+p193_0000_00167	original_export	saŋ33ɦᴇʔ5ɕiɤ52	saŋ33ɦᴇ55iə52	3	0.21428571428571427
+p193_0007_00168	original_export	tsa33ŋæ̃33	ti1pæ̃5	7	0.7
+p193_0024_00169	original_export	ɦoʔ23	ɦoʔ23	0	0.0
+p193_0027_00170	original_export	ɦoʔ23	ɦuʔ1	3	0.6
+p194_0021_00171	original_export	doŋ11tiɤ55	diŋ152	6	0.6
+p194_0028_00172	original_export	uø̃335tsaʔ5ti52	hĩ35tɿẽ52	9	0.6
+p195_0001_00173	original_export	tɕiə335tsoŋ52	tɕiə335tsoʔ552	2	0.15384615384615385
+p195_0004_00174	original_export	tɕiə335hæʔ54	tɕiə3kə55kʰa52	7	0.5833333333333334
+p195_0011_00175	original_export	liẽ11tsɿ55pʰiɤ55mᴇ52	liẽ11tsɿ55biŋ52	7	0.35
+p196_0008_00176	original_export	tɕʰiʔ3zaʔ5kɒŋ52	kuŋ32	12	0.8
+p196_0009_00177	original_export	da11sɿ11kɒŋ11	kᴇʔ3zaʔ5	13	1.0
+p200_0003_00180	original_export	tsaŋ33nɤ55	tsiŋ3	6	0.6
+p200_0008_00181	original_export	sæ̃33tɕiaʔ5	hiẽ33tsᴇʔ5	6	0.5454545454545454
+p200_0013_00182	original_export	diɤ11tsə55	ɦi12	8	0.8
+p200_0019_00183	original_export	sɤ33tɕi55fẽ55tə52	sɤ33tɕi55pi52	6	0.35294117647058826
+p200_0029_00184	original_export	ɕi33biŋ52	ɦa11ɦu11	9	1.0
+p202_0002_00185	original_export	kuɒ33tsoŋ33	kuɒ33tsoŋ33	0	0.0
+p202_0006_00186	original_export	dʑiŋ115zɿ55ŋæ̃55tɕiŋ52	ɕiʔiẽ552	18	0.8181818181818182
+p202_0009_00187	original_export	tʰa33ɦaŋ33tɕiŋ33	tʰa33ɦaŋ33ɕiŋ33	1	0.0625
+p202_0030_00188	original_export	ɦu11ɕiẽ55diẽ52	fɒ33pi52	11	0.7857142857142857
+p203_0014_00189	original_export	tsoʔ3tɤ52	huʔ	8	0.8888888888888888
+p203_0027_00190	original_export	bɤ11	bɤ113	1	0.25
+p204_0005_00191	original_export	tsʰɒ33tɤ33	tsʰɒ33tsẽ53	3	0.3
+p204_0019_00192	original_export	diẽ11	tsẽ21	3	0.6
+p204_0029_00193	original_export	lə113	tɒ335tsɿ52	10	2.0
+p205_0004_00194	original_export	diẽ115lə52	diẽ115bə52	1	0.1
+p205_0018_00195	original_export	ʑiŋ231	li231	2	0.3333333333333333
+p206_0004_00196	original_export	tʰiʔ3ɕiẽ52	tʰiʔ3ɕiẽ52	0	0.0
+p206_0006_00197	original_export	tsʰᴇ33tsʰæʔ3	miʔ1so5	11	0.9166666666666666
+p206_0013_00198	original_export	sɿ52	sə52	1	0.25
+p206_0019_00199	original_export	sɿ33ȵiæ̃55ɕiɤ52	sɿ33ȵiaŋ52	7	0.4666666666666667
+p206_0026_00200	original_export	diẽ113	diẽ131	2	0.3333333333333333
+p210_0010_00205	original_export	pʰɒŋ33mẽ33	huʔ	10	1.0
+p210_0012_00206	original_export	dʑiẽ11nɤ55kʰoʔ54	fæʔ1ŋ15	14	0.875
+p210_0026_00207	original_export	pɒ33tsaŋ55	huʔ1	10	1.0
+p211_0007_00208	original_export	ŋæ̃115tɕiŋ52	ŋæ̃115tɕiŋ52	0	0.0
+p213_0015_00209	original_export	tɕiʔ3liaŋ55kuᴇʔ54	mᴇ1ɿ5	16	0.9411764705882353
+p213_0016_00210	original_export	iɤ52	iɤ52	0	0.0
+p214_0001_00211	original_export	ia33ɕi52	pʰiʔ45	7	0.875
+p214_0004_00212	original_export	doŋ11tiŋ11	loŋ111kɒ̃5	6	0.6
+p214_0006_00213	original_export	pʰi33ku33ȵiɒ33	iʔ5kuø52	11	0.7857142857142857
+p214_0010_00214	original_export	zaŋ115sə55pɒŋ52	zaŋ11sə52	6	0.4
+p214_0029_00215	original_export	hu335kʰə52	sə335pᴇ52	5	0.5
+p215_0012_00216	original_export	lɒ231	lɒ231	0	0.0
+p216_0008_00217	original_export	ɕiɤ335tɕiaʔ5tsɿ55də52	ɕiɤ33	16	0.7619047619047619
+p216_0010_00218	original_export	tɕiaʔ3tsɿ55tsɿ52	tiʔ333tɕiaʔ35tsɿ55	10	0.625
+p216_0026_00219	original_export	fi33	ɕi33	1	0.25
+p216_0030_00220	original_export	ɦᴇ11	bi231	4	1.0
+p217_0019_00221	original_export	kʰə335sɿ52	dzoŋ231	10	1.0
+p217_0026_00222	original_export	dæ̃231	pu5	6	1.0
+p220_0028_00231	original_export	ɕiẽ335	ɕiẽ335	0	0.0
+p221_0010_00232	original_export	ɦoŋ11ŋæ̃55tɕiŋ52	ɦoŋ11ŋæ̃52	6	0.375
+p221_0019_00233	original_export	tɕi33baŋ55ŋæ̃52	tiẽ3555	9	0.6
+p221_0028_00234	original_export	tɒ33dzᴇ55ŋæ̃52	t3sæʔ5væ52	8	0.5714285714285714
+p222_0004_00235	original_export	tɕiə335tsɒ55bᴇʔ54	tɕiə3tsə35tʰɿ52	8	0.47058823529411764
+p222_0008_00236	original_export	tiɤ335tsɿ55pæ̃52	piɤ335tʰə5	9	0.5625
+p222_0012_00237	original_export	tsʰɿ33	tsʰɿ33	0	0.0
+p222_0015_00238	original_export	liə231	li13	3	0.5
+p222_0018_00239	original_export	ŋæ̃11	iẽ335	5	1.0
+p222_0023_00240	original_export	tɕiaʔ3zaŋ55tiʔ5tɕi55ŋæ̃52	tɕiaʔ3tsɿ52	16	0.64
+p222_0024_00241	original_export	tɕiaʔ45	i52	6	0.8571428571428571
+p222_0027_00242	original_export	ɕiŋ33ȵiɒ55	doʔ3	9	0.9
+p223_0000_00243	original_export	ɕi33i52	ɕi33i5	1	0.14285714285714285
+p223_0012_00244	original_export	ɦaʔ1kɤ52	ɦaʔ1kɤ52	0	0.0
+p223_0028_00245	original_export	ɦaʔ1tsɒ52	huʔ	8	0.8888888888888888
+p223_0029_00246	original_export	nᴇ11zẽ52	muᴇ̃1zẽ52	3	0.375
+p224_0023_00247	original_export	ɕiɤ335ȵy55ɦᴇ52	ɦiʔ1ɤ535lʰø5	10	0.7142857142857143
+p224_0024_00248	original_export	ɕiɤ335	ɦuʔ13	5	0.8333333333333334
+p224_0029_00249	original_export	maʔ1saŋ55zẽ52	pø̃15kiᴇ55	10	0.7692307692307693
+p226_0020_00250	original_export	da11zᴇʔ1də11	dɒ11zᴇʔ1dẽ11	2	0.16666666666666666
+p226_0025_00251	original_export	tɕʰiøʔ3tsɿ55bu52	ɦuʔ1	15	0.9375
+p227_0013_00252	original_export	ɦiø̃11	muʔ1	5	0.8333333333333334
+p227_0014_00253	original_export	tɕia33	tɕia33sə33di3	7	1.1666666666666667
+p232_0009_00255	original_export	ɦiø̃11tiʔ1dzæ̃11ɦy11	psaʔ35i52	19	0.95
+p235_0013_00256	original_export	miẽ115tsʰəŋ52	ɦuʔ1	12	0.9230769230769231
+p235_0017_00257	original_export	miẽ115tsʰəŋ52	ŋə11ᴇʔ15	10	0.7692307692307693
+p235_0020_00258	original_export	tɕi33tɕʰiʔ5	mi15	9	0.8181818181818182
+p235_0022_00259	original_export	miẽ115tsʰəŋ52	hi335	11	0.8461538461538461
+p235_0023_00260	original_export	ɕiɤ335	muʔ1	6	1.0
+p235_0031_00261	original_export	dzæ̃11ɦy52	pᴇ33tʰiŋ5ᴇ5	10	1.0
+p236_0005_00262	original_export	dzoŋ11sẽ55tsɿ52	dzoŋ11sẽ52	5	0.3333333333333333
+p236_0008_00263	original_export	dzæ̃11ɦy52	ɦuʔ13	9	0.9
+p236_0018_00264	original_export	tsʰəŋ33hu52	piʔ55	10	0.9090909090909091
+p236_0027_00265	original_export	doŋ11ɦaŋ55ɕiʔ54	tsʰŋ52	13	0.8666666666666667
+p237_0000_00266	original_export	ɦu231	paʔ3pia552	9	1.8
+p237_0001_00267	original_export	ɦu11ɦu52	huʔ	7	0.875
+p237_0002_00268	original_export	ɦu231	də33	4	0.8
+p240_0006_00276	original_export	tɕiaŋ33tɕi55tɕʰiʔ54	tia1ʔʰã5tsɿ3	14	0.7368421052631579
+p242_0002_00277	original_export	zaŋ115tɕiʔ54	dzaŋ1ɒʔ11tɕi55ɕi52	9	0.75
+p242_0019_00278	original_export	ɕi335tɕiə52	ɕi335tɕiə52	0	0.0
+p242_0021_00279	original_export	ɕi335dɒŋ52	ɕi335dɒŋ52	0	0.0
+p244_0000_00280	original_export	iŋ33zə55	ẽ335ŋ3	6	0.75
+p244_0002_00281	original_export	mᴇ115væ̃52	ɕiŋ3væ̃52	5	0.5
+p244_0004_00282	original_export	sæ̃33kuø̃55su52	ɦuʔ13	14	0.9333333333333333
+p244_0015_00283	original_export	zɿ11	zɿ11	0	0.0
+p245_0025_00284	original_export	ɦᴇʔ23	ɦᴇʔ15	2	0.4
+p247_0015_00285	original_export	kuoŋ33tsɿ52	kuoŋ33də52	3	0.2727272727272727
+p247_0016_00286	original_export	ɕiŋ33sɿ55	ɕiŋ33sᴇ55	1	0.1111111111111111
+p247_0025_00287	original_export	li11	ɕi52	3	0.75
+p247_0026_00288	original_export	li11ɕiʔ1	li1115diŋ13	5	0.625
+p250_0022_00292	original_export	di11tsɿ11	pu3tsɿ52	6	0.6666666666666666
+p251_0001_00293	original_export	zaŋ115pʰɒ55lu52	liŋ155pæ̃52	9	0.6
+p251_0010_00294	original_export	sɿ33tsʰɒ33lu33kʰə33	ziʔ1siə555tɕy55lu52	19	1.0
+p252_0019_00295	original_export	diẽ11tɕy11	ɦĩ15tɕʰ55	6	0.6
+p252_0023_00296	original_export	sæ̃33lẽ55tɕy52	huʔ	14	1.0
+p254_0000_00297	original_export	di11tɕʰiʔ1tsɒŋ11	kuᴇ53	16	1.0
+p254_0001_00298	original_export	ɡuᴇ231	lu13	4	0.6666666666666666
+p254_0014_00299	original_export	mɤ231	hmɤ52	4	0.8
+p254_0016_00300	original_export	sɒŋ33ɦiʔ5fi55tɕi52	diŋ1ŋɒŋ3tɕiŋ33	15	0.8333333333333334
+p256_0021_00301	original_export	tsæ̃33sɿ33kɒŋ33piʔ3	fiʔ3iẽ5tsɿ5	18	0.9473684210526315
+p260_0002_00309	original_export	ɕiɤ52	ɕiɤ52	0	0.0
+p261_0015_00310	original_export	lɤ11zᴇʔ5	lɤ11zɿ5	2	0.25
+p262_0031_00311	original_export	fæʔ3da55	t33ɒ52	6	0.75
+p264_0011_00312	original_export	nẽ231	toŋ52	5	1.0
+p265_0003_00313	original_export	təŋ335zaŋ55də52	tɒŋ3335zɒŋ55də52	3	0.2
+p265_0017_00314	original_export	tɕia33	toʔti55	6	1.0
+p265_0021_00315	original_export	ŋa11	li113	3	0.75
+p267_0001_00316	original_export	doŋ115dzɿ52	huʔ	11	1.0
+p270_0003_00323	original_export	tʰæ̃52	tʰæ̃52	0	0.0
+p270_0005_00324	original_export	pɤ33	pa33	1	0.25
+p270_0010_00325	original_export	ɦaŋ231	ɦaŋ231	0	0.0
+p270_0011_00326	original_export	kʰẽ33	sɤ231	4	0.8
+p270_0012_00327	original_export	dɤ11ɦæ̃55	kʰẽ33	9	1.0
+p270_0014_00328	original_export	dzᴇ11	sæʔ45	5	1.0
+p270_0016_00329	original_export	ɦaŋ231	tiŋ52	5	0.8333333333333334
+p270_0017_00330	original_export	tiŋ52	loʔ23	5	1.0
+p270_0023_00331	original_export	ɕiə33	tʰiŋ33tɕia33	8	1.6
+p271_0007_00332	original_export	hæʔ45	haʔ45	1	0.2
+p271_0009_00333	original_export	tæʔ45	tsoʔ45	2	0.4
+p271_0010_00334	original_export	ɦẽ231	tæʔ45	5	1.0
+p271_0011_00335	original_export	iẽ52	hi1	4	1.0
+p271_0019_00336	original_export	tsʰɿ52	soʔ45	5	0.8333333333333334
+p271_0021_00337	original_export	tʰiẽ335	tʰiẽ335	0	0.0
+p271_0023_00338	original_export	bu231	ɤ33	4	0.8
+p272_0006_00339	original_export	ɤ33	ɤ335	1	0.3333333333333333
+p272_0012_00340	original_export	dʑiŋ231	dʑiø̃13	4	0.5714285714285714
+p272_0015_00341	original_export	sẽ52	kuoŋ32	5	1.25
+p272_0020_00342	original_export	pᴇ52	pᴇ33	2	0.5
+p273_0000_00343	original_export	tsᴇʔ45	tsᴇʔ45	0	0.0
+p273_0006_00344	original_export	hɒ335	hɒ335	0	0.0
+p273_0012_00345	original_export	tsɿ335	tʰæʔ45	4	0.6666666666666666
+p273_0013_00346	original_export	dzɒ231	nɒ231	2	0.3333333333333333
+p273_0014_00347	original_export	dø̃231	ȵiʔ2	5	0.8333333333333334
+p273_0016_00348	original_export	pʰaʔ45	pʰaʔ45	0	0.0
+p273_0020_00349	original_export	tsʰɤ52	ɕiɤ52	3	0.5
+p273_0023_00350	original_export	tsᴇʔ45	kʰæʔ45	3	0.5
+p273_0024_00351	original_export	kɤ335	kæʔ45	3	0.6
+p274_0005_00352	original_export	ẽ52	iẽ52	1	0.3333333333333333
+p274_0008_00353	original_export	hiŋ52	liŋ52	1	0.2
+p274_0010_00354	original_export	tʰᴇ52	tɒŋ335	5	1.0
+p274_0011_00355	original_export	tɒŋ335	tsʰaŋ33	4	0.6666666666666666
+p274_0016_00356	original_export	tsaʔ45	ɦiʔ23	5	0.8333333333333334
+p274_0020_00357	original_export	tɕiøʔ45	tɕiøʔ45	0	0.0
+p274_0022_00358	original_export	tøʔ45	toʔ45	1	0.2
+p274_0024_00359	original_export	kɒŋ52	kɒŋ52	0	0.0
+p274_0026_00360	original_export	pᴇ52	dʑiẽ33	6	1.5
+p275_0002_00361	original_export	tʰæ̃52	lə23	6	1.0
+p275_0007_00362	original_export	dzɒ231	dʑiʔ2	5	0.8333333333333334
+p275_0009_00363	original_export	dziʔ115552	dʑia331	8	0.8
+p275_0012_00364	original_export	kuaʔ45	kuaʔ345	1	0.16666666666666666
+p275_0015_00365	original_export	sɒŋ52	tsʰoŋ52	3	0.6
+p275_0021_00366	original_export	tɕi33	dʑiøʔ23	5	1.0
+p275_0022_00367	original_export	ɡuæ̃11	ɡuæ̃53	2	0.3333333333333333
+p275_0023_00368	original_export	tiŋ33	təŋ33	1	0.2
+p276_0005_00369	original_export	dʑiŋ231	diŋ23	2	0.2857142857142857
+p276_0012_00370	original_export	tɒ335	tɒ335	0	0.0
+p276_0013_00371	original_export	piẽ52	biẽ35	3	0.6
+p276_0022_00372	original_export	liaŋ231	liaŋ231	0	0.0
+p276_0027_00373	original_export	ku335	ku335	0	0.0
+p277_0001_00374	original_export	tɕʰiŋ33	tɕʰiŋ33	0	0.0
+p277_0002_00375	original_export	nᴇʔ23	nᴇʔ23	0	0.0
+p277_0012_00376	original_export	bẽ11	bẽ23	2	0.5
+p277_0013_00377	original_export	ᴇʔ45	ᴇʔ35	1	0.25
+p277_0014_00378	original_export	tsɤ33	tsɤ33	0	0.0
+p277_0018_00379	original_export	ȵiẽ113	dzaŋ11	5	0.8333333333333334
+p277_0019_00380	original_export	ɦiʔ23	sæʔ45	4	0.8
+p277_0025_00381	original_export	tsə335	huʔ	6	1.0
+p280_0020_00396	original_export	koʔ3diẽ52	ɦuʔ13	8	0.8888888888888888
+p281_0006_00397	original_export	tɕʰiʔ45	mɒʔ23	6	0.8571428571428571
+p281_0021_00398	original_export	sɒ335ŋæ̃52	sɒ335ŋæ̃52	0	0.0
+p281_0028_00399	original_export	ɕiə52	zɤ113	5	1.0
+p282_0002_00400	original_export	ka335	ta33	2	0.4
+p282_0008_00401	original_export	pᴇ33	tæʔ45	5	1.25
+p282_0010_00402	original_export	tsʰẽ52	huʔ	6	1.0
+p282_0019_00403	original_export	ɦɒŋ231	ɦɒŋ231	0	0.0
+p282_0020_00404	original_export	tɕʰiɤ52	tɕʰiɤ52	0	0.0
+p282_0021_00405	original_export	kuẽ335	diẽ3	4	0.6666666666666666
+p282_0027_00406	original_export	hu33	saʔ45	5	1.25
+p283_0000_00407	original_export	ɤ33	da11	4	1.3333333333333333
+p283_0006_00408	original_export	kuæ̃52	iɤ335	5	0.8333333333333334
+p283_0007_00409	original_export	ioŋ335	iʔ45	4	0.6666666666666666
+p283_0010_00410	original_export	dɤ231	diɤ313	3	0.6
+p283_0011_00411	original_export	tsʰaŋ335søʔ54	pẽ52	12	0.9230769230769231
+p284_0006_00412	original_export	sa52	ɦuʔ1	4	1.0
+p284_0007_00413	original_export	pʰẽ52	sa52	3	0.6
+p284_0010_00414	original_export	sᴇʔ45	uẽ23	5	1.0
+p284_0012_00415	original_export	tæ̃335	tæ̃335	0	0.0
+p284_0019_00416	original_export	dẽ231	dæ̃231	2	0.4
+p284_0026_00417	original_export	tɕʰi335ɦə55ku52	sɤ33tsoʔ5	12	0.8
+p285_0004_00418	original_export	mɒ231	hᴇʔ45	5	1.0
+p285_0005_00419	original_export	hᴇʔ45	ɕia52	5	1.0
+p285_0017_00420	original_export	tsɿ33	tsᴇʔ45	4	0.8
+p285_0020_00421	original_export	piʔ45	piʔ45	0	0.0
+p285_0021_00422	original_export	sø̃52	də11	5	1.0
+p286_0000_00423	original_export	ɦæ̃11koʔ1	tsæ̃335	8	0.8888888888888888
+p286_0002_00424	original_export	ȵi113	toʔ45	5	1.0
+p286_0004_00425	original_export	tiɤ52	tiɤ52	0	0.0
+p286_0005_00426	original_export	læ̃113	la13	3	0.5
+p286_0007_00427	original_export	tsoʔ45	tsoʔ45	0	0.0
+p286_0009_00428	original_export	tsɿ33	lə52	5	1.0
+p287_0005_00429	original_export	ŋɒ11tɕʰiʔ1	li1u52	9	0.9
+p287_0008_00430	original_export	ka335ɕiɤ55sə52	pɒŋ1aʔ5	13	0.9285714285714286
+p287_0012_00431	original_export	fi33tɕiʔ3	kua33tɕi55u52	8	0.8888888888888888
+p287_0013_00432	original_export	tsɤ33fi55tɕiʔ54	tsɤ33kua55tiʔ552	6	0.4
+p287_0028_00433	original_export	tə335biŋ52	fæʔ3ȵiʔ5	7	0.7
+p290_0004_00443	original_export	tɕiə33	tɕiə332	1	0.16666666666666666
+p290_0018_00444	original_export	ɦᴇʔ23	i52	4	0.8
+p292_0000_00445	original_export	di11pæʔ1tsɒŋ11	tsʰi1ɕi5tɕẽ52	13	0.9285714285714286
+p296_0004_00446	original_export	nᴇ11saŋ52	ȵiɤ1131	8	0.8888888888888888
+p296_0008_00447	original_export	iɤ52	iŋ32	2	0.5
+p296_0011_00448	original_export	ȵhiə335	a333	5	0.7142857142857143
+p296_0012_00449	original_export	tɕia33	tɕia33	0	0.0
+p296_0018_00450	original_export	dᴇʔ23	døʔ23	1	0.2
+p296_0021_00451	original_export	tsẽ33	iẽ33ɦũ	5	1.0
+p296_0022_00452	original_export	ɦiø̃231	əŋ33	6	0.8571428571428571
+p297_0011_00453	original_export	hæ̃33	hæ̃23	1	0.2
+p297_0014_00454	original_export	ə52	ɦiʔ	3	1.0
+p297_0018_00455	original_export	mɒ11	ɕiɒ52	4	1.0
+p300_0023_00459	original_export	diɤ11dʑiŋ52	muʔ3	11	1.0
+p303_0004_00460	original_export	i33	huʔ	3	1.0
+p303_0005_00461	original_export	dzə113	zə113	1	0.16666666666666666
+p304_0007_00462	original_export	tɕʰiʔ45	mɒʔ3	6	0.8571428571428571
+p306_0012_00463	original_export	iʔ3tsoŋ55tʰi55væʔ54	ɕia335zɿ52	16	0.8421052631578947
+p306_0027_00464	original_export	tsɒ33ɕi33kʰaʔ3	ɕi33ȵia1	9	0.6428571428571429
+p307_0001_00465	original_export	tsʰɤ33tsʰɤ52	daŋ11daŋ11	12	1.0
+p307_0013_00466	original_export	tsɤ33tsɤ33ɕiaŋ33	lɒŋt5	15	0.9375
+p307_0025_00467	original_export	dɒŋ11tɕʰiə11tɕʰiẽ11	ɕĩ33tsia553	16	0.8421052631578947
+p310_0019_00471	original_export	ɤ52	li12	3	1.0
+p310_0028_00472	original_export	zẽ11tᴇʔ1	tɕiʔ3də52	9	1.125
+p311_0007_00473	original_export	maŋ11	maŋ11	0	0.0
+p313_0018_00474	original_export	dʑiẽ11tɕʰiŋ55piʔ5loʔ54	kuaŋ335tɕʰiŋ5pi52	14	0.6363636363636364
+p313_0020_00475	original_export	tɕʰiŋ33dʑiẽ55sẽ52	tɕʰiŋ33kuaŋ5552	6	0.35294117647058826
+p313_0022_00476	original_export	ɦiŋ11ɦoŋ55dzɿ52	huʔ	15	1.0
+p314_0001_00477	original_export	tsɿ335tɕi52	ɦu1	11	1.0
+p314_0012_00478	original_export	ɦə113	ɦə1	2	0.4
+p314_0024_00479	original_export	fɒŋ52	fɒŋ52	0	0.0
+p314_0027_00480	original_export	piʔ45	piʔ45	0	0.0
+p314_0029_00481	original_export	dzẽ113	iʔ45	6	1.0
+p315_0000_00482	original_export	zɿ11	tiŋ3	4	1.0
+p315_0011_00483	original_export	dzəʔ23	dzəʔ23	0	0.0
+p315_0015_00484	original_export	uæ̃52	tɕʰia33	7	1.4
+p315_0016_00485	original_export	liaŋ11	liaŋ11	0	0.0
+p315_0020_00486	original_export	huɒŋ52	huɒŋ231	3	0.5
+p316_0003_00487	original_export	baʔ23	baʔ23	0	0.0
+p316_0004_00488	original_export	huᴇ52	dzoŋ113	7	1.4
+p316_0008_00489	original_export	mæ̃11	sɤ33	5	1.0
+p316_0016_00490	original_export	ɦə113	ɦə113	0	0.0
+p316_0018_00491	original_export	bɒ11	boʔ23	4	1.0
+p316_0026_00492	original_export	ɦæʔ23	ɦæʔ23	0	0.0
+p316_0033_00493	original_export	dzəʔ23	ȵiŋ11	6	1.0
+p317_0000_00494	original_export	uẽ335	tᴇʔ2	5	1.0
+p317_0001_00495	original_export	ŋᴇʔ23	ɦy113	4	0.8
+p317_0003_00496	original_export	iẽ52	iẽ52	0	0.0
+p317_0010_00497	original_export	tɕʰiŋ52	tɕʰiŋ52	0	0.0
+p317_0025_00498	original_export	tɕʰiŋ33dʑiŋ55	huʔ	13	1.0
+p320_0015_00504	original_export	hmæ̃52	øŋ3i2	5	0.8333333333333334
+p320_0022_00505	original_export	dzɤ231	zɤ231	1	0.16666666666666666
+p320_0027_00506	original_export	kʰᴇʔ45	liʔ552	5	0.8333333333333334
+p321_0001_00507	original_export	tɕʰi33hmẽ33	ɦiø̃213	9	0.8181818181818182
+p321_0002_00508	original_export	ɦiø̃11	oŋ52	6	1.0
+p321_0003_00509	original_export	tʰoŋ33	tʰoŋ52	2	0.3333333333333333
+p321_0006_00510	original_export	mɒ231	m23	2	0.4
+p321_0014_00511	original_export	ẽ33ɦɒŋ52	æẽ33ẽ33	6	0.75
+p322_0000_00512	original_export	sə33	li113	4	1.0
+p322_0001_00513	original_export	tɕiŋ52	tɕiŋ52	0	0.0
+p322_0006_00514	original_export	zoʔ23	zoʔ223	1	0.2
+p322_0007_00515	original_export	ɕy52	ti	4	1.0
+p322_0008_00516	original_export	tɕʰy52	su52	4	0.6666666666666666
+p322_0013_00517	original_export	ȵiẽ11tɕi55tɕʰiŋ52	ɕi33tɕʰiŋ52	8	0.47058823529411764
+p322_0020_00518	original_export	zaŋ115tsɤ52	zaŋ11tsa55	3	0.2727272727272727
+p322_0027_00519	original_export	ɦᴇʔ1fæ̃55	zɒ231	9	1.0
+p323_0007_00520	original_export	tɕʰiaŋ335	ua33ku	7	0.7777777777777778
+p323_0008_00521	original_export	ɦᴇʔ1iɤ55ɦᴇʔ5tᴇʔ54	huʔ	16	0.9411764705882353
+p323_0009_00522	original_export	ɦiø̃11	muʔ1	5	0.8333333333333334
+p323_0010_00523	original_export	tɕiŋ52	tɕiŋ52	0	0.0
+p324_0029_00524	original_export	haʔ3sæʔ5zẽ52	piẽ115t53	10	0.8333333333333334
+p325_0005_00525	original_export	huæ̃52	huæ̃52	0	0.0
+p325_0009_00526	original_export	ioŋ335	dʑiẽ113	6	1.0
+p326_0007_00527	original_export	ʑy231	s3	4	0.8
+p327_0002_00528	original_export	tsa52	sə33	4	0.8
+p327_0006_00529	original_export	ka33	ɦiʔ3	3	0.75
+p327_0019_00530	original_export	kʰuoŋ335	muʔ3	6	0.75
+p327_0030_00531	original_export	baʔ1baʔ5pʰɒŋ55pʰɒŋ52	ɕiʔ3baʔ55	14	0.7
+p327_0031_00532	original_export	ɕiʔ3baʔ5kuẽ55tsɒŋ52	tiẽ3ẽ55fy552	12	0.631578947368421
+p330_0003_00541	original_export	iʔ3paʔ5hiŋ55iʔ54	ti33	15	0.9375
+p330_0007_00542	original_export	iʔ3mæ̃55	liaŋ115væ52	9	1.125
+p330_0014_00543	original_export	iʔ3paʔ5mæ̃52	tiʔ3paʔ5	6	0.5
+p330_0021_00544	original_export	iʔ3ɦu55iʔ5zᴇʔ54	təŋ3z53	13	0.8666666666666667
+p330_0022_00545	original_export	tʰi335ŋɒ55lᴇ52	mi15	12	0.8571428571428571
+p331_0003_00546	original_export	kʰɤ33	kʰɤ33	0	0.0
+p332_0011_00547	original_export	ɦɒŋ113	ɦaŋ113	1	0.16666666666666666
+p333_0008_00548	original_export	tɕiʔ45	liə13	5	0.8333333333333334
+p333_0009_00549	original_export	kʰɒ52	kʰɒ52	0	0.0
+p333_0012_00550	original_export	kuø̃335	kuø̃335	0	0.0
+p333_0013_00551	original_export	dʑiøʔ23	dʑiøʔ4	2	0.2857142857142857
+p333_0014_00552	original_export	tɕy52	tɕiẽ335	5	1.0
+p333_0020_00553	original_export	boŋ231	boŋ231	0	0.0
+p333_0021_00554	original_export	hæʔ45	hæaʔ45	1	0.2
+p333_0022_00555	original_export	ŋæ̃113	ŋæ̃23	2	0.3333333333333333
+p333_0023_00556	original_export	kæʔ45	kæʔ45	0	0.0
+p334_0002_00557	original_export	di231	di231	0	0.0
+p334_0004_00558	original_export	tsɿ335ȵhiẽ55dzɒŋ55vᴇʔ54	toʔ35zɒŋ5ɒ552	15	0.6521739130434783
+p334_0007_00559	original_export	kʰæʔ45	kʰæʔ45	0	0.0
+p334_0008_00560	original_export	tᴇ52	hu52	2	0.5
+p334_0010_00561	original_export	dzẽ11	dzẽ23	2	0.4
+p334_0011_00562	original_export	da113	da113	0	0.0
+p334_0012_00563	original_export	pʰoŋ335	pʰoŋ335	0	0.0
+p334_0013_00564	original_export	diʔ23	diʔ23	0	0.0
+p334_0015_00565	original_export	doŋ113	doŋ113	0	0.0
+p334_0018_00566	original_export	tsᴇ33	tsʰᴇʔ45	4	0.8
+p334_0023_00567	original_export	miẽ113	miẽ152	2	0.3333333333333333
+p334_0026_00568	original_export	tɤ52	foŋ52	3	0.75
+p334_0027_00569	original_export	kæ̃52	huʔ1	5	1.0
+p335_0004_00570	original_export	dʑy113	dʑy113	0	0.0
+p335_0009_00571	original_export	maŋ11	loʔ23	5	1.0
+p335_0014_00572	original_export	tʰiaʔ45	i335	5	0.7142857142857143
+p335_0018_00573	original_export	ɦaŋ11	ɦaŋ11	0	0.0
+p336_0009_00574	original_export	li113	li113	0	0.0
+p337_0007_00575	original_export	liɤ231	na113	5	0.8333333333333334
+p337_0009_00576	original_export	ɦa113	ɦa113	0	0.0
+p337_0019_00577	original_export	ɦiø̃11	332	6	1.0
+p337_0023_00578	original_export	kᴇʔ45	tᴇʔ45	1	0.2
+p340_0009_00583	original_export	zɿ11ɕiẽ11	iẽ33i5tsã	10	1.1111111111111112
+p340_0017_00584	original_export	sæ̃33vᴇʔ5tsɿ55də52	ʑi11	18	1.0
+p341_0009_00585	original_export	dʑi231	ɦuʔ1	5	0.8333333333333334
+p342_0007_00586	original_export	tu52	u33	3	0.75
+p342_0014_00587	original_export	iʔ3da55saŋ52	iʔ3dɤ55sa52	2	0.16666666666666666
+p342_0020_00588	original_export	sɿ33ŋɒ33saŋ33	tsə33tzɒ55	11	0.8461538461538461
+p342_0024_00589	original_export	loŋ11tsoŋ55	huʔ	11	1.0
+p343_0002_00590	original_export	piŋ33	ɿ1zẽ52	6	1.2
+p343_0006_00591	original_export	ɦa231	ɕi32	4	0.8
+p344_0004_00592	original_export	dᴇʔ1di55	væ̃11væ̃52	8	1.0
+p344_0019_00593	original_export	sæʔ3liʔ5	sæʔ3liʔ5	0	0.0
+p344_0022_00594	original_export	hɤ335	muʔ1	5	1.0
+p344_0028_00595	original_export	da11lᴇ11	dɒŋ352	7	0.875
+p345_0001_00596	original_export	iʔ3ɕiẽ55ɕiẽ52	mæʔ55	11	0.8461538461538461
+p345_0012_00597	original_export	ɤ335mɤ52	ɤ3352	3	0.375
+p345_0020_00598	original_export	iɤ52	iɤ33	2	0.5
+p345_0026_00599	original_export	iʔ3diŋ55iɤ52	fiʔ335diŋ55	7	0.5833333333333334
+p346_0006_00600	original_export	iɤ52	fi33	4	1.0
+p346_0010_00601	original_export	ka33dzɿ33	ɦuʔ1	9	1.0
+p346_0018_00602	original_export	ɦi231	ɦuʔ1	3	0.6
+p347_0000_00603	original_export	maŋ11	maŋ11	0	0.0
+p347_0003_00604	original_export	tᴇ33	muʔ3	3	0.75
+p347_0012_00605	original_export	ɦə231	ɦə231	0	0.0
+p347_0022_00606	original_export	mæ̃11	tɕiɤ33	6	1.2
+p350_0007_00613	original_export	hn33kɤ52	ɦø̃1	8	1.0
+p350_0008_00614	original_export	hɤ52	ɦɒ231	5	1.25
+p350_0011_00615	original_export	ə52	diŋ1	4	1.3333333333333333
+p350_0012_00616	original_export	ə52	iɤ33	4	1.3333333333333333
+p350_0013_00617	original_export	ə33kɤ52	ɤ33vᴇʔ5	5	0.7142857142857143
+p350_0016_00618	original_export	hnɤ52	fiẽ53	4	0.8
+p350_0017_00619	original_export	hnɤ52	ɦa113	5	1.0
+p351_0000_00620	original_export	hn33ʑi55ȵi52	ɦy11a5	11	0.9166666666666666
+p351_0001_00621	original_export	ɦu231	ɤ33	4	0.8
+p128_0013_00011	original_export	hᴇ335	hᴇ235	1	0.2
+p128_0014_00012	original_export	hᴇ335du52	zɒʔ152	7	0.7777777777777778
+p128_0024_00013	original_export	pʰu335	ɦaŋ113	6	1.0
+p128_0025_00014	original_export	doʔ23	ȵi11tiʔ552	9	1.8
+p128_0026_00015	original_export	lə113	doʔ23	4	0.8
+p128_0027_00016	original_export	ɦu231	lə113	5	1.0
+p138_0010_00043	original_export	iʔ3kʰᴇʔ5tsoŋ52	ȵi11iʔ5	12	0.8571428571428571
+p138_0013_00044	original_export	liŋ11zɿ52	piẽ1pᴇ5	6	0.6666666666666666
+p138_0015_00045	original_export	iʔ3zɿ55sæ̃55kʰᴇʔ54	diẽ1111	18	1.0
+p138_0019_00046	original_export	iʔ3saŋ55iʔ5sɿ52	ɕi5	13	0.8666666666666667
+p148_0002_00069	original_export	ɕiʔ3tsɿ55	ɕiʔ3tsɿ55	0	0.0
+p148_0003_00070	original_export	tsɿ335ẽ52	ɕi335tsɿ55kʰuᴇ52	11	1.2222222222222223
+p148_0012_00071	original_export	tɕʰi52	tɕʰi52	0	0.0
+p148_0015_00072	original_export	ȵiə11maŋ52	hmaŋ332	7	0.7
+p148_0016_00073	original_export	hæʔ3maŋ52	hæʔ3hma55ȵi52	5	0.5555555555555556
+p148_0023_00074	original_export	kᴇʔ3tsɤ55	kᴇʔ3tsɤ55	0	0.0
+p158_0002_00093	original_export	lᴇ11	muʔ1	3	0.75
+p158_0026_00094	original_export	huɒŋ33də55	ɦuɒ11puɒ1551	8	0.8
+p168_0031_00120	original_export	bᴇ11uoŋ11tsʰᴇ11	bᴇ11ȵoŋ11ɕiŋ11	5	0.3333333333333333
+p168_0034_00121	original_export	tɕiaŋ33lɒ33dɤ33	tɕiaŋ3i33koɒ33	6	0.4
+p168_0037_00122	original_export	tɕiaŋ33kuɒ33	tsɒ33tsʰᴇ33	8	0.6666666666666666
+p178_0021_00135	original_export	liaŋ115tɒŋ55kʰu52	miø̃11tɤŋ5i52	9	0.5294117647058824
+p178_0024_00136	original_export	dʑiø̃231	dʑiø̃31	1	0.125
+p178_0030_00137	original_export	læʔ1tsoʔ5pa52	ɦuʔ13	11	0.8461538461538461
+p188_0000_00156	original_export	tsẽ33dʑiʔ5	di11ŋ1	10	1.0
+p188_0001_00157	original_export	ɦoŋ11sə11	huʔ	9	1.0
+p208_0015_00201	original_export	mɒ11zaʔ5tsɿ52	mɒ11zaʔ55	4	0.3076923076923077
+p208_0025_00202	original_export	sẽ33tʰi55	huʔ	9	1.0
+p218_0003_00223	original_export	ɦiø̃11tiʔ1dzæ̃11tɕiʔ1	ɦoŋ1diə52	18	0.8571428571428571
+p218_0004_00224	original_export	ŋæ̃115u52	ŋæ̃115tsɿ55pua52	7	0.7777777777777778
+p218_0005_00225	original_export	u33ŋɒ55tɕʰiʔ54	huʔ	13	0.9285714285714286
+p218_0010_00226	original_export	ɦiø̃11	ɦuʔ1	4	0.6666666666666666
+p218_0014_00227	original_export	pʰi33	ts55	5	1.0
+p218_0017_00228	original_export	lɤ115ȵi52	huʔ	9	1.0
+p228_0030_00254	original_export	loʔ1pʰaʔ5ɒ55sɿ52	dʑiaŋ31dɤ55pʰᴇ52	13	0.8125
+p238_0028_00269	original_export	ŋa11kuoŋ11	ɦi32	10	1.0
+p248_0013_00289	original_export	tsẽ33tsɿ33	təŋ335tsɿ52	5	0.5
+p248_0028_00290	original_export	tɕʰi335mɒ55hu52	lᴇ11lu55hu52	9	0.6
+p258_0001_00302	original_export	tiŋ33ɕy55tiŋ52	ti333ɕy55tiŋ52	1	0.07142857142857142
+p258_0011_00303	original_export	iʔ3paʔ5fẽ52	i133paʔ5i52	4	0.36363636363636365
+p258_0016_00304	original_export	baʔ1zɿ55	tsɒ3tɕi553	8	1.0
+p258_0017_00305	original_export	tsʰɒ33zɿ33	huʔ	10	1.0
+p258_0026_00306	original_export	mi11ȵy55	tᴇ3tʰɿ52	7	0.875
+p258_0028_00307	original_export	ɕiɤ335sᴇ55ɕy52	hmᴇ52	11	0.7857142857142857
+p268_0029_00317	original_export	ɕiaŋ52	ɦuʔ1	6	1.0
+p268_0030_00318	original_export	bu11tʰa11ɦaŋ11	sɤ52	14	1.0
+p278_0006_00382	original_export	dzɒŋ113	dzɒŋ13	1	0.14285714285714285
+p278_0008_00383	original_export	nɤ11	nɤ51	1	0.25
+p278_0012_00384	original_export	tø̃52	tø̃52	0	0.0
+p278_0022_00385	original_export	zɒ113	huʔ	5	1.0
+p288_0015_00434	original_export	y335	u335	1	0.25
+p288_0024_00435	original_export	ɦᴇ11tɕʰi11tʰoŋ11	ɦᴇ11tɕi11	7	0.4375
+p288_0030_00436	original_export	tsʰᴇʔ3mɒ55tsẽ52	təŋ33zəʔ5	12	0.8
+p298_0000_00456	original_export	tʰɤ335ɕiaŋ55mɒ52	liʔʑiɤ5iɤ5i5	13	0.8125
+p298_0031_00457	original_export	ȵiø̃11liaŋ55	ɦuʔ13	11	0.9166666666666666
+p308_0015_00468	original_export	zɿ115tɕʰiŋ55tiẽ52	fi335	15	0.8823529411764706
+p308_0026_00469	original_export	ʑiŋ231	hi1ʔ52	5	0.8333333333333334
+p318_0000_00499	original_export	di11pæʔ1tsɒŋ11	tsæ̃335	13	0.9285714285714286
+p318_0003_00500	original_export	ɦiøʔ23	ɕiʔ45	4	0.6666666666666666
+p318_0007_00501	original_export	tᴇ33	ɦuʔ1	4	1.0
+p318_0027_00502	original_export	dzẽ11ȵiẽ55paʔ5ku52	ɦuʔ13	17	0.9444444444444444
+p328_0000_00533	original_export	tsɿ335	tᴇ352	4	0.6666666666666666
+p328_0004_00534	original_export	liẽ115miẽ55pᴇʔ5kẽ55dʑiŋ52	huʔ	24	0.96
+p328_0014_00535	original_export	doŋ11diẽ52	ɦɒ1i5	7	0.7
+p328_0016_00536	original_export	tø̃33tə55hu55koʔ54	fiẽ35	16	0.8888888888888888
+p328_0018_00537	original_export	koʔ3tsᴇ55tɕʰi55kɤ52	huʔ	18	0.9473684210526315
+p328_0020_00538	original_export	ɦə115iẽ55ɕiaŋ52	li333	14	0.9333333333333333
+p328_0027_00539	original_export	sæ̃52	ȵi11	5	1.0
+p338_0026_00579	original_export	koʔ45	liẽ31	5	1.0
+p348_0004_00607	original_export	kʰɤ33	tsæ̃52	6	1.2
+p129_0000_00017	original_export	dɒŋ11	dɒŋ113	1	0.2
+p129_0004_00018	original_export	du231	du231	0	0.0
+p129_0021_00019	original_export	hᴇ335dɒŋ52	hᴇ335dɒŋ52	0	0.0
+p139_0004_00047	original_export	tsʰᴇ33	muʔ3	5	0.8333333333333334
+p139_0022_00048	original_export	zᴇʔ1ȵi55ȵiøʔ54	mi155	11	0.7857142857142857
+p149_0001_00075	original_export	li11dzæ̃55pʰoʔ54	li11dzæ̃52	7	0.4375
+p149_0008_00076	original_export	mẽ11ɕiə55	dʑi11ɕə55	4	0.4444444444444444
+p159_0006_00095	original_export	ȵy11də11	ȵy11na11	2	0.25
+p159_0010_00096	original_export	ɦaŋ11ʑy52	ɦaŋ11fẽ̃52	3	0.3333333333333333
+p169_0026_00123	original_export	su33ɦɒ33væ̃33	hiẽ33ɦaʔ33	9	0.6923076923076923
+p179_0002_00138	original_export	tɕiẽ52	tʰoʔ3tiøʔ55	8	1.3333333333333333
+p179_0003_00139	original_export	tɕiẽ52	kʰɒ33tɕiẽ33	7	1.1666666666666667
+p179_0006_00140	original_export	ʑiə11kʰə11də11	li13	12	0.8571428571428571
+p179_0012_00141	original_export	tsʰɒ52	tsyɒ33kuʔ33	8	1.3333333333333333
+p179_0017_00142	original_export	kʰu33tɕiaʔ3	ku3ku553	7	0.6363636363636364
+p179_0029_00143	original_export	ȵiə113	ȵiə1155pʰẽ52	7	1.1666666666666667
+p199_0018_00178	original_export	tɕiɤ33sɿ55ɦu52	fiŋɕiŋ33iɤ53	11	0.7857142857142857
+p199_0029_00179	original_export	ȵi115tɒ52	poʔ3335ȵiẽ52	9	1.0
+p209_0020_00203	original_export	lə11zᴇʔ1tsɿ11	ɦiø11zᴇʔ111	6	0.46153846153846156
+p209_0028_00204	original_export	sæ̃33koʔ5ŋæ̃52	tʰĩ35tɕi55	11	0.7857142857142857
+p219_0006_00229	original_export	kuᴇʔ3lɤ52	tsəŋ335kuᴇʔ54	11	1.2222222222222223
+p219_0025_00230	original_export	tsɿ335biŋ55dʑiŋ55kɤ55dzoŋ52	tɕʰi33tɕiʔ33	24	0.8888888888888888
+p239_0003_00270	original_export	ɦu113	muʔ1	3	0.6
+p239_0007_00271	original_export	piɤ335ɒ55kɒ52	li33i5t5	8	0.6153846153846154
+p239_0008_00272	original_export	piɤ335ɒ55sɤ52	tiẽ333	10	0.7692307692307693
+p239_0011_00273	original_export	piɤ335ɒ55tɕia52	tᴇ31	14	0.9333333333333333
+p239_0012_00274	original_export	pᴇ33tsʰəŋ52	iẽ3iɤ52	8	0.7272727272727273
+p239_0021_00275	original_export	tɒŋ33miẽ55tɕiɤ55miŋ55zɿ52	li333ŋ53	21	0.84
+p249_0002_00291	original_export	zɿ113	zɿ113	0	0.0
+p259_0024_00308	original_export	liɤ11	ɦɤ113	3	0.6
+p269_0018_00319	original_export	mᴇʔ23	ɦuʔ1	4	0.8
+p269_0020_00320	original_export	pʰiɤ52	pʰiɤ52	0	0.0
+p269_0021_00321	original_export	ɕiɤ33	da113	4	0.8
+p269_0025_00322	original_export	li11	piɤ52	4	1.0
+p279_0000_00386	original_export	kʰuẽ335	kʰuẽ33	1	0.14285714285714285
+p279_0003_00387	original_export	ɦiø̃11	ti33	5	0.8333333333333334
+p279_0004_00388	original_export	tsɿ335	ku33	4	0.6666666666666666
+p279_0007_00389	original_export	zẽ11iʔ5ɕiẽ55ɕiẽ52	piŋ355	14	0.8235294117647058
+p279_0012_00390	original_export	pæ̃33	pæ̃231	2	0.4
+p279_0013_00391	original_export	kaŋ52	kaŋ52	0	0.0
+p279_0014_00392	original_export	hə33	hə33	0	0.0
+p279_0015_00393	original_export	kʰᴇ52	lẽ33	5	1.0
+p279_0020_00394	original_export	vᴇ115552	iʔ34552	5	0.625
+p279_0022_00395	original_export	læʔ23	huʔ	4	0.8
+p289_0001_00437	original_export	biŋ11ȵi11	li111ȵiẽ51	4	0.4444444444444444
+p289_0004_00438	original_export	fæʔ3sæ̃55ȵi55liaŋ55də52	huʔ	22	0.9565217391304348
+p289_0005_00439	original_export	fæʔ3sɿ55ȵi55liaŋ55də52	tiẽ35	20	0.9090909090909091
+p289_0007_00440	original_export	tsʰẽ52	ɦuʔ1	6	1.0
+p289_0008_00441	original_export	saŋ33toŋ55tsoʔ54	saŋ33toŋ55tsᴇʔ5	2	0.125
+p289_0020_00442	original_export	sɒ52	bu11	4	1.0
+p299_0028_00458	original_export	lɒ11dzɿ52	ɡuæ̃11i11	9	1.0
+p309_0004_00470	original_export	iɤ52	fɤ33	3	0.75
+p319_0005_00503	original_export	tsɿ335	muʔ1	6	1.0
+p329_0001_00540	original_export	ɦu113	ɦu113	0	0.0
+p339_0003_00580	original_export	sɒ33	sɒ33lu33	4	1.0
+p339_0012_00581	original_export	mẽ113	sæʔ2	5	1.0
+p339_0016_00582	original_export	fu33dzɿ33	huʔ	8	0.8888888888888888
+p349_0000_00608	original_export	mẽ113	liʔ2	5	1.0
+p349_0009_00609	original_export	kẽ335tʰæ̃55dzɿ52	pʰᴇ33ẽ5	14	0.875
+p349_0010_00610	original_export	noʔ23	noʔ23	0	0.0
+p349_0011_00611	original_export	tsʰᴇ335	tsᴇʔ45	3	0.42857142857142855
+p349_0012_00612	original_export	tsʰᴇ335	tsʰᴇ52	3	0.42857142857142855
