@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files
+*.pdf
+!ipa_ocr_work/data/*.pdf
+
+# External reference (not part of this project)
+ocr-ipa/
+
+# Excel results - 可以选择是否排除
+*.xlsx
+!result_all_converted.xlsx
+
+# Model files (large) - 排除但保留目录结构
+*.ckpt
+*.h5
+*.pb
+*.onnx
+*.pkl
+
+# Image cache - 排除测试图片
+*.png
+!ipa_ocr_work/images/**/*.png
+
+# Debug images
+debug_images/
+ipa_ocr_work/images/*.png
+!ipa_ocr_work/images/ipa_candidates_gpu2/*.png
+!ipa_ocr_work/images/ipa_candidates_gpu/*.png
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Batch recognition results (can be regenerated)
+ipa_ocr_work/results/batch_recognition_results.txt
