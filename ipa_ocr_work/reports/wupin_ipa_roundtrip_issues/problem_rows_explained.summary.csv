@@ -1,0 +1,11 @@
+﻿source_dataset,issue_type,count
+ocr_selected_all,forward_error,112
+ocr_selected_all,roundtrip_mismatch,694
+ocr_selected_phonetic_reliable,forward_error,92
+ocr_selected_phonetic_reliable,roundtrip_mismatch,557
+source_clean,empty_wupin,30
+source_clean,forward_error,189
+source_clean,roundtrip_mismatch,1068
+trocr_direct_span_all_clean_conf70_nobracket,forward_error,86
+trocr_direct_span_all_clean_conf70_nobracket,roundtrip_mismatch,519
+trocr_direct_span_all_clean_conf70_nobracket_ipaok,roundtrip_mismatch,519

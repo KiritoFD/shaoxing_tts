@@ -1,0 +1,5 @@
+split	n	ipa_row_exact	ipa_cer	ipa_edits	ipa_chars	wupin_row_exact	wupin_cer	wupin_edits	wupin_chars
+train	4191	1.0	0.0	0	44274	1.0	0.0	0	48339
+val	491	1.0	0.0	0	5397	1.0	0.0	0	5904
+test	546	1.0	0.0	0	5737	1.0	0.0	0	6324
+all	5228	1.0	0.0	0	55408	1.0	0.0	0	60567

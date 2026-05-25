@@ -1,0 +1,683 @@
+{
+  "inputs": {
+    "csv": "G:\\shaoxing_tts\\result_all_converted.clean.csv",
+    "manifest": "G:\\shaoxing_tts\\ipa_ocr_work\\dataset\\shaoxing_pdf136_clean\\ocr_selected_all\\eval_manifest.tsv",
+    "syllables": "G:\\shaoxing_tts\\ipa_ocr_work\\dataset\\shaoxing_pdf136_clean\\syllable_ocr_all\\eval_manifest.tsv",
+    "mapping": "G:\\shaoxing_tts\\ipa_ocr_work\\config\\wupin_ipa_map.json"
+  },
+  "counts": {
+    "csv_rows": 6565,
+    "csv_has_wupin": 6535,
+    "manifest_rows": 3773,
+    "syllable_rows": 8789,
+    "manifest_split_counts": {
+      "train": 3288,
+      "test": 261,
+      "val": 224
+    },
+    "manifest_original_split_counts": {
+      "train": 1985,
+      "review": 1303,
+      "test": 261,
+      "val": 224
+    },
+    "canonicalized_full_csv_rows": 0,
+    "new_label_differs_from_legacy": 1368
+  },
+  "rule_checks": {
+    "raw_variant_counts_full_csv": {
+      "ghi": 0,
+      "ghu": 0,
+      "ieq": 0,
+      "ieh": 0
+    },
+    "conversion_bad_full_csv": 0,
+    "conversion_bad_examples": [],
+    "unknown_initial_or_final": 124,
+    "unknown_initial_or_final_examples": [
+      {
+        "wupin": "u33ciau55mhau55deu55tsheu33",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "mha33yon52",
+        "base": "mha",
+        "initial": "mh",
+        "final": "a"
+      },
+      {
+        "wupin": "mhau33da55ha52",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "mhau33wu55diaq54",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "lian11li55mhau52",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "mha52",
+        "base": "mha",
+        "initial": "mh",
+        "final": "a"
+      },
+      {
+        "wupin": "yon11mha52",
+        "base": "mha",
+        "initial": "mh",
+        "final": "a"
+      },
+      {
+        "wupin": "tshy33mha52",
+        "base": "mha",
+        "initial": "mh",
+        "final": "a"
+      },
+      {
+        "wupin": "shiau335mha52",
+        "base": "mha",
+        "initial": "mh",
+        "final": "a"
+      },
+      {
+        "wupin": "huaon33mhau55shiau55ngo52",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "mhau33mhau52",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "mhau33mhau52",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "mhau52",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "dzy115ci55mhau52",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "mhau33tsoq5",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "mhau33seen55",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      },
+      {
+        "wupin": "mha33pien55seen52",
+        "base": "mha",
+        "initial": "mh",
+        "final": "a"
+      },
+      {
+        "wupin": "soen33mhe55mhe52",
+        "base": "mhe",
+        "initial": "mh",
+        "final": "e"
+      },
+      {
+        "wupin": "soen33mhe55mhe52",
+        "base": "mhe",
+        "initial": "mh",
+        "final": "e"
+      },
+      {
+        "wupin": "baq1mhau55gho55khu55tshau52",
+        "base": "mhau",
+        "initial": "mh",
+        "final": "au"
+      }
+    ],
+    "label_contains_apical_i_ɿ": 0,
+    "label_contains_question_mark": 0,
+    "manifest_bad_conversion_status": {},
+    "missing_manifest_images": 0
+  },
+  "top_bases": {
+    "deu": 387,
+    "tsy": 373,
+    "sy": 204,
+    "di": 151,
+    "zeen": 149,
+    "gni": 135,
+    "lau": 126,
+    "zy": 124,
+    "wu": 124,
+    "shin": 114,
+    "ci": 109,
+    "da": 107,
+    "shiau": 105,
+    "chi": 104,
+    "bi": 104,
+    "huo": 103,
+    "li": 101,
+    "tsaon": 98,
+    "ku": 94,
+    "ciaq": 92,
+    "loq": 91,
+    "hu": 88,
+    "cin": 87,
+    "ciu": 83,
+    "shian": 81,
+    "seu": 81,
+    "yu": 80,
+    "san": 80,
+    "saen": 80,
+    "cia": 80,
+    "yeu": 79,
+    "dien": 78,
+    "shi": 78,
+    "to": 78,
+    "don": 74,
+    "ngo": 72,
+    "tson": 71,
+    "koq": 70,
+    "lu": 69,
+    "ciq": 69
+  },
+  "top_initials": {
+    "d": 1119,
+    "ts": 997,
+    "s": 884,
+    "l": 874,
+    "k": 825,
+    "c": 666,
+    "t": 658,
+    "sh": 571,
+    "z": 551,
+    "": 529,
+    "p": 528,
+    "m": 487,
+    "b": 480,
+    "gn": 428,
+    "tsh": 412,
+    "h": 375,
+    "<whole>": 372,
+    "th": 339,
+    "ch": 333,
+    "y": 308,
+    "dz": 295,
+    "kh": 284,
+    "j": 274,
+    "f": 250,
+    "gh": 239,
+    "v": 221,
+    "w": 202,
+    "ng": 193,
+    "ph": 167,
+    "n": 120,
+    "mh": 106,
+    "zh": 80,
+    "g": 38,
+    "nh": 16,
+    "tc": 2
+  },
+  "top_finals": {
+    "i": 1020,
+    "eu": 820,
+    "o": 777,
+    "y": 775,
+    "au": 729,
+    "u": 649,
+    "a": 598,
+    "een": 574,
+    "aen": 572,
+    "ien": 560,
+    "in": 559,
+    "e": 518,
+    "aon": 504,
+    "eq": 452,
+    "iq": 444,
+    "on": 428,
+    "an": 414,
+    "oq": 399,
+    "<whole>": 372,
+    "aeq": 330,
+    "iau": 297,
+    "ian": 295,
+    "iu": 237,
+    "aq": 225,
+    "eon": 180,
+    "ieu": 153,
+    "oen": 146,
+    "ia": 140,
+    "uo": 138,
+    "iaq": 119,
+    "uaon": 76,
+    "ioeq": 70,
+    "uoen": 67,
+    "ue": 67,
+    "uon": 62,
+    "eoq": 61,
+    "ioen": 51,
+    "en": 34,
+    "io": 34,
+    "oeq": 33,
+    "ueq": 32,
+    "uoq": 30,
+    "uen": 26,
+    "ua": 26,
+    "ion": 22,
+    "uaen": 18,
+    "ihin": 13,
+    "iaen": 12,
+    "uaeq": 12,
+    "uaq": 11,
+    "": 9,
+    "ioq": 7,
+    "iha": 6,
+    "hien": 5,
+    "ihaen": 3,
+    "ihiau": 3,
+    "iiau": 2,
+    "hieu": 2,
+    "ieen": 1,
+    "ips": 1
+  },
+  "special_examples": {
+    "sy": [
+      {
+        "hanzi": "雨毛丝",
+        "wupin": "yu115mau55sy52",
+        "label": "ɦy115mɤ55sy52",
+        "legacy_ipa_digits": "ɦy115mɤ55sɿ52",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 2
+      },
+      {
+        "hanzi": "露水",
+        "wupin": "lu11sy11",
+        "label": "lu11sy11",
+        "legacy_ipa_digits": "lu11sɿ11",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 7
+      },
+      {
+        "hanzi": "雪子",
+        "wupin": "shiq3tsy55",
+        "label": "ɕiʔ3tsy55",
+        "legacy_ipa_digits": "ɕiʔ3tsɿ55",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 13
+      },
+      {
+        "hanzi": "雪石子",
+        "wupin": "shiq3zaq5tsy52",
+        "label": "ɕiʔ3zaʔ5tsy52",
+        "legacy_ipa_digits": "ɕiʔ3zaʔ5tsɿ52",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 14
+      },
+      {
+        "hanzi": "雹子",
+        "wupin": "boq1tsy55",
+        "label": "boʔ1tsy55",
+        "legacy_ipa_digits": "boʔ1tsɿ55",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 15
+      }
+    ],
+    "zy": [
+      {
+        "hanzi": "时光",
+        "wupin": "zy11kuaon52",
+        "label": "zy11kuɒŋ52",
+        "legacy_ipa_digits": "zɿ11kuɒŋ52",
+        "source_split": "train",
+        "pdf_page": 12,
+        "row_index": 9
+      },
+      {
+        "hanzi": "时世",
+        "wupin": "zy11sy55",
+        "label": "zy11sy55",
+        "legacy_ipa_digits": "zɿ11sɿ55",
+        "source_split": "train",
+        "pdf_page": 12,
+        "row_index": 11
+      },
+      {
+        "hanzi": "晏午时",
+        "wupin": "aen33wu33zy33",
+        "label": "æ̃33ɦu33zy33",
+        "legacy_ipa_digits": "æ̃33ɦu33zɿ33",
+        "source_split": "train",
+        "pdf_page": 15,
+        "row_index": 25
+      },
+      {
+        "hanzi": "时辰",
+        "wupin": "zy11zeen52",
+        "label": "zy11zẽ52",
+        "legacy_ipa_digits": "zɿ11zẽ52",
+        "source_split": "train",
+        "pdf_page": 16,
+        "row_index": 12
+      },
+      {
+        "hanzi": "临时",
+        "wupin": "lin11zy52",
+        "label": "liŋ11zy52",
+        "legacy_ipa_digits": "liŋ11zɿ52",
+        "source_split": "train",
+        "pdf_page": 16,
+        "row_index": 13
+      }
+    ],
+    "yu": [
+      {
+        "hanzi": "鱼厣云",
+        "wupin": "yu11ieen55yoen52",
+        "label": "ɦy11iẽ55ɦiø̃52",
+        "legacy_ipa_digits": "ɦy11iẽ55ɦiø̃52",
+        "source_split": "train",
+        "pdf_page": 2,
+        "row_index": 10
+      },
+      {
+        "hanzi": "雨",
+        "wupin": "yu113",
+        "label": "ɦy113",
+        "legacy_ipa_digits": "ɦy113",
+        "source_split": "train",
+        "pdf_page": 2,
+        "row_index": 21
+      },
+      {
+        "hanzi": "大雨",
+        "wupin": "do11yu11",
+        "label": "dɒ11ɦy11",
+        "legacy_ipa_digits": "dɒ11ɦy11",
+        "source_split": "train",
+        "pdf_page": 2,
+        "row_index": 22
+      },
+      {
+        "hanzi": "呆大雨",
+        "wupin": "nge11do55yu52",
+        "label": "ŋᴇ11dɒ55ɦy52",
+        "legacy_ipa_digits": "ŋᴇ11dɒ55ɦy52",
+        "source_split": "train",
+        "pdf_page": 2,
+        "row_index": 23
+      },
+      {
+        "hanzi": "毛稍雨",
+        "wupin": "mau11sau55yu52",
+        "label": "mɤ11sɤ55ɦy52",
+        "legacy_ipa_digits": "mɤ11sɤ55ɦy52",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 0
+      }
+    ],
+    "yan": [
+      {
+        "hanzi": "养花天",
+        "wupin": "yan115huo55thien52",
+        "label": "ɦiaŋ115huɒ55tʰiẽ52",
+        "legacy_ipa_digits": "ɦaŋ115huɒ55tʰiẽ52",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 24
+      },
+      {
+        "hanzi": "羊臊臭",
+        "wupin": "yan11sau55tsheu52",
+        "label": "ɦiaŋ11sɤ55tsʰə52",
+        "legacy_ipa_digits": "ɦaŋ11sɤ55tsʰə52",
+        "source_split": "train",
+        "pdf_page": 12,
+        "row_index": 2
+      },
+      {
+        "hanzi": "重阳",
+        "wupin": "dzon11yan52",
+        "label": "dzoŋ11ɦiaŋ52",
+        "legacy_ipa_digits": "dzoŋ11ɦaŋ52",
+        "source_split": "train",
+        "pdf_page": 18,
+        "row_index": 19
+      },
+      {
+        "hanzi": "重阳节",
+        "wupin": "dzon11yan55ciq54",
+        "label": "dzoŋ11ɦiaŋ55tɕiʔ54",
+        "legacy_ipa_digits": "dzoŋ11ɦaŋ55tɕiʔ54",
+        "source_split": "train",
+        "pdf_page": 18,
+        "row_index": 20
+      },
+      {
+        "hanzi": "羊",
+        "wupin": "yan231",
+        "label": "ɦiaŋ231",
+        "legacy_ipa_digits": "ɦaŋ231",
+        "source_split": "train",
+        "pdf_page": 28,
+        "row_index": 5
+      }
+    ],
+    "wo": [
+      {
+        "hanzi": "月华",
+        "wupin": "yoeq1wo55",
+        "label": "ɦiøʔ1ɦuɒ55",
+        "legacy_ipa_digits": "ɦiøʔ1ɦɒ55",
+        "source_split": "train",
+        "pdf_page": 1,
+        "row_index": 6
+      },
+      {
+        "hanzi": "画眉",
+        "wupin": "wo11mi11",
+        "label": "ɦuɒ11mi11",
+        "legacy_ipa_digits": "ɦɒ11mi11",
+        "source_split": "train",
+        "pdf_page": 21,
+        "row_index": 21
+      },
+      {
+        "hanzi": "划水",
+        "wupin": "wo11sy55",
+        "label": "ɦuɒ11sy55",
+        "legacy_ipa_digits": "ɦɒ11sɿ55",
+        "source_split": "train",
+        "pdf_page": 23,
+        "row_index": 7
+      },
+      {
+        "hanzi": "月月红",
+        "wupin": "gnioeq1gnioeq5won52",
+        "label": "ȵiøʔ1ȵiøʔ5ɦuoŋ52",
+        "legacy_ipa_digits": "ȵiøʔ1ȵiøʔ5ɦoŋ52",
+        "source_split": "train",
+        "pdf_page": 33,
+        "row_index": 7
+      },
+      {
+        "hanzi": "映山红",
+        "wupin": "ian335saen55won52",
+        "label": "iaŋ335sæ̃55ɦuoŋ52",
+        "legacy_ipa_digits": "iaŋ335sæ̃55ɦoŋ52",
+        "source_split": "train",
+        "pdf_page": 33,
+        "row_index": 27
+      }
+    ],
+    "wu": [
+      {
+        "hanzi": "雾露",
+        "wupin": "wu11lu11",
+        "label": "ɦu11lu11",
+        "legacy_ipa_digits": "ɦu11lu11",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 5
+      },
+      {
+        "hanzi": "雾气",
+        "wupin": "wu11chi11",
+        "label": "ɦu11tɕʰi11",
+        "legacy_ipa_digits": "ɦu11tɕʰi11",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 6
+      },
+      {
+        "hanzi": "雾天",
+        "wupin": "wu11thien11",
+        "label": "ɦu11tʰiẽ11",
+        "legacy_ipa_digits": "ɦu11tʰiẽ11",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 27
+      },
+      {
+        "hanzi": "湖港",
+        "wupin": "wu11kaon55",
+        "label": "ɦu11kɒŋ55",
+        "legacy_ipa_digits": "ɦu11kɒŋ55",
+        "source_split": "train",
+        "pdf_page": 6,
+        "row_index": 21
+      },
+      {
+        "hanzi": "湖",
+        "wupin": "wu231",
+        "label": "ɦu231",
+        "legacy_ipa_digits": "ɦu231",
+        "source_split": "train",
+        "pdf_page": 6,
+        "row_index": 27
+      }
+    ],
+    "iq": [
+      {
+        "hanzi": "七簇星",
+        "wupin": "chiq3tshoq5shin52",
+        "label": "tɕʰiʔ3tsʰoʔ5ɕiŋ52",
+        "legacy_ipa_digits": "tɕʰiʔ3tsʰoʔ5ɕiŋ52",
+        "source_split": "train",
+        "pdf_page": 1,
+        "row_index": 16
+      },
+      {
+        "hanzi": "霹雳雷",
+        "wupin": "phiq3liq5le52",
+        "label": "pʰiʔ3liʔ5lᴇ52",
+        "legacy_ipa_digits": "pʰiʔ3liʔ5lᴇ52",
+        "source_split": "train",
+        "pdf_page": 2,
+        "row_index": 15
+      },
+      {
+        "hanzi": "雪",
+        "wupin": "shiq45",
+        "label": "ɕiʔ45",
+        "legacy_ipa_digits": "ɕiʔ45",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 12
+      },
+      {
+        "hanzi": "雪子",
+        "wupin": "shiq3tsy55",
+        "label": "ɕiʔ3tsy55",
+        "legacy_ipa_digits": "ɕiʔ3tsɿ55",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 13
+      },
+      {
+        "hanzi": "雪石子",
+        "wupin": "shiq3zaq5tsy52",
+        "label": "ɕiʔ3zaʔ5tsy52",
+        "legacy_ipa_digits": "ɕiʔ3zaʔ5tsɿ52",
+        "source_split": "train",
+        "pdf_page": 3,
+        "row_index": 14
+      }
+    ],
+    "yoeq": [
+      {
+        "hanzi": "月亮",
+        "wupin": "yoeq1lian55",
+        "label": "ɦiøʔ1liaŋ55",
+        "legacy_ipa_digits": "ɦiøʔ1liaŋ55",
+        "source_split": "train",
+        "pdf_page": 1,
+        "row_index": 0
+      },
+      {
+        "hanzi": "月亮婆婆",
+        "wupin": "yoeq1lian55bo55bo52",
+        "label": "ɦiøʔ1liaŋ55bɒ55bɒ52",
+        "legacy_ipa_digits": "ɦiøʔ1liaŋ55bɒ55bɒ52",
+        "source_split": "train",
+        "pdf_page": 1,
+        "row_index": 1
+      },
+      {
+        "hanzi": "蛾眉月",
+        "wupin": "ngo11mi55yoeq54",
+        "label": "ŋɒ11mi55ɦiøʔ54",
+        "legacy_ipa_digits": "ŋɒ11mi55ɦiøʔ54",
+        "source_split": "train",
+        "pdf_page": 1,
+        "row_index": 2
+      },
+      {
+        "hanzi": "月芽",
+        "wupin": "yoeq1ngo52",
+        "label": "ɦiøʔ1ŋɒ52",
+        "legacy_ipa_digits": "ɦiøʔ1ŋɒ52",
+        "source_split": "train",
+        "pdf_page": 1,
+        "row_index": 3
+      },
+      {
+        "hanzi": "月亮光",
+        "wupin": "yoeq1lian55kuaon52",
+        "label": "ɦiøʔ1liaŋ55kuɒŋ52",
+        "legacy_ipa_digits": "ɦiøʔ1liaŋ55kuɒŋ52",
+        "source_split": "train",
+        "pdf_page": 1,
+        "row_index": 4
+      }
+    ]
+  }
+}

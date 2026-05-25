@@ -38,6 +38,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--height", type=int, default=48)
     parser.add_argument("--max-width", type=int, default=640)
     parser.add_argument("--backbone", choices=["crnn", "svtr_tiny", "resnet_transformer"], default="crnn")
+    parser.add_argument("--init-checkpoint", type=Path, default=None)
+    parser.add_argument("--freeze-encoder-epochs", type=int, default=0)
     parser.add_argument("--eval-limit", type=int, default=0)
     parser.add_argument("--save-every", type=int, default=0)
     return parser.parse_args()
@@ -65,6 +67,44 @@ def load_rows(eval_dir: Path, variants: list[str], split: str, limit: int = 0) -
 def build_charset(*frames: list[dict[str, str]]) -> list[str]:
     chars = sorted({ch for rows in frames for row in rows for ch in row["label"]})
     return ["<blank>"] + chars
+
+
+def load_compatible_checkpoint(model: nn.Module, checkpoint_path: Path, charset: list[str], device: str) -> dict[str, int]:
+    checkpoint = torch.load(checkpoint_path, map_location=device, weights_only=False)
+    source_state = checkpoint["model"]
+    source_charset = checkpoint.get("charset", charset)
+    target_state = model.state_dict()
+    copied = 0
+    skipped = 0
+    for key, value in source_state.items():
+        if key not in target_state:
+            skipped += 1
+            continue
+        if target_state[key].shape != value.shape:
+            skipped += 1
+            continue
+        target_state[key] = value
+        copied += 1
+
+    # Remap CTC head rows by character when charsets differ but head shape is compatible by row.
+    head_weight = source_state.get("head.weight")
+    head_bias = source_state.get("head.bias")
+    if head_weight is not None and "head.weight" in target_state:
+        source_index = {ch: idx for idx, ch in enumerate(source_charset)}
+        copied_rows = 0
+        for target_idx, ch in enumerate(charset):
+            source_idx = source_index.get(ch)
+            if source_idx is None or source_idx >= head_weight.shape[0] or target_idx >= target_state["head.weight"].shape[0]:
+                continue
+            if head_weight.shape[1:] == target_state["head.weight"].shape[1:]:
+                target_state["head.weight"][target_idx] = head_weight[source_idx]
+                if head_bias is not None and "head.bias" in target_state:
+                    target_state["head.bias"][target_idx] = head_bias[source_idx]
+                copied_rows += 1
+        copied += copied_rows
+
+    model.load_state_dict(target_state)
+    return {"copied": copied, "skipped": skipped}
 
 
 class OcrDataset(Dataset):
@@ -413,6 +453,9 @@ def main() -> None:
     )
 
     model = build_model(args.backbone, len(charset), args.max_width).to(device)
+    if args.init_checkpoint:
+        stats = load_compatible_checkpoint(model, args.init_checkpoint, charset, device)
+        print(f"loaded init checkpoint {args.init_checkpoint}: copied={stats['copied']} skipped={stats['skipped']}")
     criterion = nn.CTCLoss(blank=0, zero_infinity=True)
     optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=1e-4)
     scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=max(1, args.epochs))
@@ -422,6 +465,10 @@ def main() -> None:
     checkpoint_paths = []
     for epoch in range(1, args.epochs + 1):
         model.train()
+        if args.freeze_encoder_epochs:
+            freeze = epoch <= args.freeze_encoder_epochs
+            for name, param in model.named_parameters():
+                param.requires_grad = not (freeze and not name.startswith("head."))
         total = 0.0
         steps = 0
         for batch in train_loader:

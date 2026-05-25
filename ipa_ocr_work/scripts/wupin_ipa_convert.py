@@ -25,6 +25,38 @@ DEFAULT_REPORT = PROJECT_ROOT / "ipa_ocr_work" / "reports" / "wupin_ipa_unknowns
 
 
 SYLLABLE_RE = re.compile(r"([a-z]+)([0-9]+)")
+ACTIVE_MAPPING: dict | None = None
+
+
+def canonicalize_wupin_base(base: str) -> str:
+    """Normalize known typing variants to the confirmed Shaoxing spelling."""
+    base = unicodedata.normalize("NFC", str(base).strip().lower())
+    mapping = ACTIVE_MAPPING or {}
+    for old, new in sorted(mapping.get("canonicalize_wupin_prefixes", {}).items(), key=lambda item: len(item[0]), reverse=True):
+        if base.startswith(old):
+            base = new + base[len(old) :]
+            break
+    for old, new in sorted(mapping.get("canonicalize_wupin_suffixes", {}).items(), key=lambda item: len(item[0]), reverse=True):
+        if base.endswith(old):
+            base = base[: -len(old)] + new
+            break
+    return base
+
+
+def canonicalize_wupin_label(text: object) -> str:
+    text = normalize(text)
+    syllables, remainder = split_syllables(text)
+    if remainder:
+        return text
+    return "".join(canonicalize_wupin_base(base) + tone for base, tone in syllables)
+
+
+def canonicalize_ipa_to_wupin_output(text: str) -> str:
+    """Normalize reverse-converted OCR spelling to the manual label style."""
+    mapping = ACTIVE_MAPPING or {}
+    if mapping.get("reverse_preferences", {}).get("rewrite_vowel_h_before_tone_to_q", False):
+        text = re.sub(r"(?<=[aeiouy])h(?=\d)", "q", text)
+    return text
 
 
 def parse_args() -> argparse.Namespace:
@@ -45,20 +77,62 @@ def normalize(text: object) -> str:
 
 
 def load_mapping(path: Path) -> dict:
+    global ACTIVE_MAPPING
     with path.open("r", encoding="utf-8") as f:
         data = json.load(f)
+    for section in [
+        "whole_syllables",
+        "initials",
+        "finals",
+        "tone_digits_to_superscript",
+        "superscript_to_tone_digits",
+        "canonicalize_wupin_prefixes",
+        "canonicalize_wupin_suffixes",
+    ]:
+        if section in data:
+            data[section] = {
+                unicodedata.normalize("NFC", str(key).strip()): unicodedata.normalize("NFC", str(value).strip())
+                for key, value in data[section].items()
+            }
+    ACTIVE_MAPPING = data
     data["initial_order"] = sorted(data["initials"], key=len, reverse=True)
     data["whole_syllables"] = data.get("whole_syllables", {})
-    data["ipa_to_wupin_units"] = sorted(
-        [
-            (ipa, wupin)
-            for wupin, ipa in {**data["whole_syllables"], **data["initials"], **data["finals"]}.items()
-            if ipa
-        ],
-        key=lambda item: len(item[0]),
-        reverse=True,
-    )
+    data["orthographic_initials"] = data.get("orthographic_initials", data.get("glide_initials", {}))
+    checked_q_finals = set(data.get("reverse_preferences", {}).get("checked_q_finals", []))
+    units = [
+        (ipa, wupin)
+        for wupin, ipa in {**data["whole_syllables"], **data["initials"], **data["finals"]}.items()
+        if ipa
+    ]
+    whole_ipa_values = set(data["whole_syllables"].values())
+    for surface_initial, rule in data["orthographic_initials"].items():
+        ipa_initial = unicodedata.normalize("NFC", str(rule.get("ipa_initial", "")).strip())
+        inserted_prefix = str(rule.get("inserted_final_prefix", "")).strip()
+        if not ipa_initial or not inserted_prefix:
+            continue
+        for final, ipa_final in data["finals"].items():
+            if not final.startswith(inserted_prefix) or not ipa_final:
+                continue
+            ipa = ipa_initial + ipa_final
+            if ipa in whole_ipa_values:
+                continue
+            units.append((ipa, surface_initial + final[len(inserted_prefix) :]))
+    # Reverse conversion is used for OCR exports. The manual Wu-pinyin labels
+    # use q for checked finals, so prefer q-spellings over legacy h-spellings
+    # when several spellings map to the same IPA unit.
+    units.sort(key=lambda item: (len(item[0]), item[1] in checked_q_finals), reverse=True)
+    data["ipa_to_wupin_units"] = units
     return data
+
+
+def build_row_ipa_lexicon(wupin_labels: list[str] | pd.Series, mapping: dict, tone_style: str = "digits") -> dict[str, str]:
+    lexicon: dict[str, str] = {}
+    for wupin in wupin_labels:
+        normalized_wupin = canonicalize_wupin_label(wupin)
+        ipa, errors = wupin_to_ipa(normalized_wupin, mapping, tone_style)
+        if not errors and ipa:
+            lexicon.setdefault(unicodedata.normalize("NFC", ipa), normalized_wupin)
+    return lexicon
 
 
 def split_syllables(wupin: str) -> tuple[list[tuple[str, str]], str]:
@@ -89,9 +163,19 @@ def tone_text(tone: str, mapping: dict, style: str) -> str:
 
 
 def wupin_syllable_to_ipa(base: str, tone: str, mapping: dict, tone_style: str) -> tuple[str, str]:
+    base = canonicalize_wupin_base(base)
     whole = mapping["whole_syllables"].get(base)
     if whole is not None:
         return whole + tone_text(tone, mapping, tone_style), ""
+    for surface_initial, rule in mapping.get("orthographic_initials", {}).items():
+        if not base.startswith(surface_initial):
+            continue
+        rest = base[len(surface_initial) :]
+        inserted_prefix = str(rule.get("inserted_final_prefix", ""))
+        final = rest if rest.startswith(inserted_prefix) else inserted_prefix + rest
+        ipa_final = mapping["finals"].get(final)
+        if ipa_final is not None:
+            return str(rule.get("ipa_initial", "")) + ipa_final + tone_text(tone, mapping, tone_style), ""
     initial, final = split_initial_final(base, mapping)
     ipa_initial = mapping["initials"].get(initial, mapping["zero_initial"] if initial == "" else None)
     ipa_final = mapping["finals"].get(final)
@@ -103,7 +187,7 @@ def wupin_syllable_to_ipa(base: str, tone: str, mapping: dict, tone_style: str) 
 
 
 def wupin_to_ipa(wupin: str, mapping: dict, tone_style: str) -> tuple[str, list[str]]:
-    wupin = normalize(wupin)
+    wupin = canonicalize_wupin_label(wupin)
     syllables, remainder = split_syllables(wupin)
     errors: list[str] = []
     parts: list[str] = []
@@ -117,10 +201,14 @@ def wupin_to_ipa(wupin: str, mapping: dict, tone_style: str) -> tuple[str, list[
     return "".join(parts), errors
 
 
-def ipa_to_wupin(ipa: str, mapping: dict) -> tuple[str, list[str]]:
+def ipa_to_wupin(ipa: str, mapping: dict, row_lexicon: dict[str, str] | None = None) -> tuple[str, list[str]]:
     text = unicodedata.normalize("NFC", str(ipa).strip())
+    if row_lexicon and text in row_lexicon:
+        return row_lexicon[text], []
     for sup, digit in mapping["superscript_to_tone_digits"].items():
         text = text.replace(sup, digit)
+    if row_lexicon and text in row_lexicon:
+        return row_lexicon[text], []
     out = []
     errors = []
     i = 0
@@ -141,7 +229,7 @@ def ipa_to_wupin(ipa: str, mapping: dict) -> tuple[str, list[str]]:
             errors.append(f"unknown_ipa:{ch}")
             out.append(f"<{ch}>")
             i += 1
-    return "".join(out), errors
+    return canonicalize_ipa_to_wupin_output("".join(out)), errors
 
 
 def exact_ipa_lexicon(df: pd.DataFrame) -> dict[str, str]:
@@ -181,7 +269,7 @@ def main() -> None:
         for _, row in df.iterrows():
             ipa = row["ipa_from_wupin"]
             ipa_norm = unicodedata.normalize("NFC", str(ipa).strip())
-            original_wupin = normalize(row.get("wupin", ""))
+            original_wupin = canonicalize_wupin_label(row.get("wupin", ""))
             if original_wupin:
                 wupin, errors = original_wupin, []
             elif ipa_norm in lexicon:

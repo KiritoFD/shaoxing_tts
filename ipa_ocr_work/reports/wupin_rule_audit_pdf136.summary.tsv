@@ -1,0 +1,18 @@
+metric	value
+counts.csv_rows	6565
+counts.csv_has_wupin	6535
+counts.manifest_rows	3773
+counts.syllable_rows	8789
+counts.manifest_split_counts	"{""train"": 3288, ""test"": 261, ""val"": 224}"
+counts.manifest_original_split_counts	"{""train"": 1985, ""review"": 1303, ""test"": 261, ""val"": 224}"
+counts.canonicalized_full_csv_rows	0
+counts.new_label_differs_from_legacy	1368
+rule_checks.raw_variant_counts_full_csv	"{""ghi"": 0, ""ghu"": 0, ""ieq"": 0, ""ieh"": 0}"
+rule_checks.conversion_bad_full_csv	0
+rule_checks.conversion_bad_examples	[]
+rule_checks.unknown_initial_or_final	124
+rule_checks.unknown_initial_or_final_examples	"[{""wupin"": ""u33ciau55mhau55deu55tsheu33"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""mha33yon52"", ""base"": ""mha"", ""initial"": ""mh"", ""final"": ""a""}, {""wupin"": ""mhau33da55ha52"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""mhau33wu55diaq54"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""lian11li55mhau52"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""mha52"", ""base"": ""mha"", ""initial"": ""mh"", ""final"": ""a""}, {""wupin"": ""yon11mha52"", ""base"": ""mha"", ""initial"": ""mh"", ""final"": ""a""}, {""wupin"": ""tshy33mha52"", ""base"": ""mha"", ""initial"": ""mh"", ""final"": ""a""}, {""wupin"": ""shiau335mha52"", ""base"": ""mha"", ""initial"": ""mh"", ""final"": ""a""}, {""wupin"": ""huaon33mhau55shiau55ngo52"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""mhau33mhau52"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""mhau33mhau52"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""mhau52"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""dzy115ci55mhau52"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""mhau33tsoq5"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""mhau33seen55"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}, {""wupin"": ""mha33pien55seen52"", ""base"": ""mha"", ""initial"": ""mh"", ""final"": ""a""}, {""wupin"": ""soen33mhe55mhe52"", ""base"": ""mhe"", ""initial"": ""mh"", ""final"": ""e""}, {""wupin"": ""soen33mhe55mhe52"", ""base"": ""mhe"", ""initial"": ""mh"", ""final"": ""e""}, {""wupin"": ""baq1mhau55gho55khu55tshau52"", ""base"": ""mhau"", ""initial"": ""mh"", ""final"": ""au""}]"
+rule_checks.label_contains_apical_i_ɿ	0
+rule_checks.label_contains_question_mark	0
+rule_checks.manifest_bad_conversion_status	{}
+rule_checks.missing_manifest_images	0

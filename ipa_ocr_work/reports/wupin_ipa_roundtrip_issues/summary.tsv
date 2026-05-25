@@ -1,0 +1,6 @@
+dataset	path	rows	forward_or_backward_errors	roundtrip_mismatches	empty_wupin
+source_clean	result_all_converted.clean.csv	6565	189	1068	30
+ocr_selected_all	ipa_ocr_work\dataset\shaoxing_pdf136_clean\ocr_selected_all\eval_manifest.tsv	3773	112	694	0
+ocr_selected_phonetic_reliable	ipa_ocr_work\dataset\shaoxing_pdf136_clean\ocr_selected_phonetic_reliable\eval_manifest.tsv	3054	92	557	0
+trocr_direct_span_all_clean_conf70_nobracket	ipa_ocr_work\dataset\shaoxing_pdf136_clean\trocr_direct_span_all_clean_conf70_nobracket\eval_manifest.tsv	2628	86	519	0
+trocr_direct_span_all_clean_conf70_nobracket_ipaok	ipa_ocr_work\dataset\shaoxing_pdf136_clean\trocr_direct_span_all_clean_conf70_nobracket_ipaok\eval_manifest.tsv	2542	0	519	0

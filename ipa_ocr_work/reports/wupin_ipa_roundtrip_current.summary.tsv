@@ -1,0 +1,5 @@
+split	n	roundtrip_exact	standalone_roundtrip_exact	forward_bad	backward_bad
+train	4191	1.0	0.9971367215461704	0	0
+val	491	1.0	1.0	0	0
+test	546	1.0	0.9981684981684982	0	0
+all	5228	1.0	0.9975133894414691	0	0

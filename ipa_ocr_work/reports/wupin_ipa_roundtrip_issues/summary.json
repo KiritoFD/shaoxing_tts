@@ -1,0 +1,328 @@
+[
+  {
+    "dataset": "source_clean",
+    "path": "result_all_converted.clean.csv",
+    "rows": 6565,
+    "forward_or_backward_errors": 189,
+    "roundtrip_mismatches": 1068,
+    "empty_wupin": 30,
+    "issue_top": [
+      [
+        "unknown_final:hau:mhau",
+        47
+      ],
+      [
+        "unknown_final:en:yen",
+        28
+      ],
+      [
+        "unknown_final:ha:mha",
+        23
+      ],
+      [
+        "unknown_final:he:mhe",
+        14
+      ],
+      [
+        "unknown_final:ihin:ihin",
+        13
+      ],
+      [
+        "unknown_final:h:nh",
+        9
+      ],
+      [
+        "unknown_final:iha:iha",
+        6
+      ],
+      [
+        "unknown_final:en:wen",
+        6
+      ],
+      [
+        "unknown_final:heq:mheq",
+        6
+      ],
+      [
+        "unknown_final:heen:mheen",
+        5
+      ],
+      [
+        "unknown_final:hien:gnhien",
+        5
+      ],
+      [
+        "unknown_final:hoq:mhoq",
+        5
+      ],
+      [
+        "unknown_final:haen:mhaen",
+        5
+      ],
+      [
+        "unknown_final:ha:nha",
+        4
+      ],
+      [
+        "unknown_final:ihaen:ihaen",
+        3
+      ],
+      [
+        "unknown_final:ihiau:ihiau",
+        3
+      ],
+      [
+        "unknown_final:hau:nhau",
+        3
+      ],
+      [
+        "unknown_final:iiau:iiau",
+        2
+      ],
+      [
+        "unknown_final:hieu:gnhieu",
+        2
+      ],
+      [
+        "unknown_final:ieen:ieen",
+        1
+      ]
+    ],
+    "files": {
+      "forward_errors": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\source_clean.forward_errors.tsv",
+      "roundtrip_mismatches": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\source_clean.roundtrip_mismatches.tsv",
+      "all_issues": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\source_clean.all_issues.tsv"
+    }
+  },
+  {
+    "dataset": "ocr_selected_all",
+    "path": "ipa_ocr_work\\dataset\\shaoxing_pdf136_clean\\ocr_selected_all\\eval_manifest.tsv",
+    "rows": 3773,
+    "forward_or_backward_errors": 112,
+    "roundtrip_mismatches": 694,
+    "empty_wupin": 0,
+    "issue_top": [
+      [
+        "unknown_final:hau:mhau",
+        37
+      ],
+      [
+        "unknown_final:en:yen",
+        21
+      ],
+      [
+        "unknown_final:ha:mha",
+        20
+      ],
+      [
+        "unknown_final:he:mhe",
+        13
+      ],
+      [
+        "unknown_final:ihin:ihin",
+        6
+      ],
+      [
+        "unknown_final:en:wen",
+        4
+      ],
+      [
+        "unknown_final:iha:iha",
+        3
+      ],
+      [
+        "unknown_final:heen:mheen",
+        2
+      ],
+      [
+        "unknown_final:ihaen:ihaen",
+        2
+      ],
+      [
+        "unknown_final:ihiau:ihiau",
+        2
+      ],
+      [
+        "unknown_final:ieen:ieen",
+        1
+      ],
+      [
+        "unknown_final:iiau:iiau",
+        1
+      ],
+      [
+        "unknown_final:heq:mheq",
+        1
+      ],
+      [
+        "unknown_final:ips:pips",
+        1
+      ],
+      [
+        "unknown_final:hien:gnhien",
+        1
+      ],
+      [
+        "unknown_final:hoq:mhoq",
+        1
+      ]
+    ],
+    "files": {
+      "forward_errors": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\ocr_selected_all.forward_errors.tsv",
+      "roundtrip_mismatches": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\ocr_selected_all.roundtrip_mismatches.tsv",
+      "all_issues": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\ocr_selected_all.all_issues.tsv"
+    }
+  },
+  {
+    "dataset": "ocr_selected_phonetic_reliable",
+    "path": "ipa_ocr_work\\dataset\\shaoxing_pdf136_clean\\ocr_selected_phonetic_reliable\\eval_manifest.tsv",
+    "rows": 3054,
+    "forward_or_backward_errors": 92,
+    "roundtrip_mismatches": 557,
+    "empty_wupin": 0,
+    "issue_top": [
+      [
+        "unknown_final:hau:mhau",
+        30
+      ],
+      [
+        "unknown_final:ha:mha",
+        19
+      ],
+      [
+        "unknown_final:en:yen",
+        16
+      ],
+      [
+        "unknown_final:he:mhe",
+        13
+      ],
+      [
+        "unknown_final:ihin:ihin",
+        4
+      ],
+      [
+        "unknown_final:iha:iha",
+        3
+      ],
+      [
+        "unknown_final:en:wen",
+        3
+      ],
+      [
+        "unknown_final:heen:mheen",
+        2
+      ],
+      [
+        "unknown_final:ihiau:ihiau",
+        2
+      ],
+      [
+        "unknown_final:ihaen:ihaen",
+        1
+      ],
+      [
+        "unknown_final:ips:pips",
+        1
+      ],
+      [
+        "unknown_final:hien:gnhien",
+        1
+      ],
+      [
+        "unknown_final:hoq:mhoq",
+        1
+      ]
+    ],
+    "files": {
+      "forward_errors": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\ocr_selected_phonetic_reliable.forward_errors.tsv",
+      "roundtrip_mismatches": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\ocr_selected_phonetic_reliable.roundtrip_mismatches.tsv",
+      "all_issues": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\ocr_selected_phonetic_reliable.all_issues.tsv"
+    }
+  },
+  {
+    "dataset": "trocr_direct_span_all_clean_conf70_nobracket",
+    "path": "ipa_ocr_work\\dataset\\shaoxing_pdf136_clean\\trocr_direct_span_all_clean_conf70_nobracket\\eval_manifest.tsv",
+    "rows": 2628,
+    "forward_or_backward_errors": 86,
+    "roundtrip_mismatches": 519,
+    "empty_wupin": 0,
+    "issue_top": [
+      [
+        "unknown_final:hau:mhau",
+        29
+      ],
+      [
+        "unknown_final:ha:mha",
+        18
+      ],
+      [
+        "unknown_final:en:yen",
+        13
+      ],
+      [
+        "unknown_final:he:mhe",
+        10
+      ],
+      [
+        "unknown_final:ihin:ihin",
+        5
+      ],
+      [
+        "unknown_final:en:wen",
+        3
+      ],
+      [
+        "unknown_final:heen:mheen",
+        2
+      ],
+      [
+        "unknown_final:ihaen:ihaen",
+        2
+      ],
+      [
+        "unknown_final:ihiau:ihiau",
+        2
+      ],
+      [
+        "unknown_final:ieen:ieen",
+        1
+      ],
+      [
+        "unknown_final:iha:iha",
+        1
+      ],
+      [
+        "unknown_final:ips:pips",
+        1
+      ],
+      [
+        "unknown_final:hien:gnhien",
+        1
+      ],
+      [
+        "unknown_final:hoq:mhoq",
+        1
+      ]
+    ],
+    "files": {
+      "forward_errors": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\trocr_direct_span_all_clean_conf70_nobracket.forward_errors.tsv",
+      "roundtrip_mismatches": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\trocr_direct_span_all_clean_conf70_nobracket.roundtrip_mismatches.tsv",
+      "all_issues": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\trocr_direct_span_all_clean_conf70_nobracket.all_issues.tsv"
+    }
+  },
+  {
+    "dataset": "trocr_direct_span_all_clean_conf70_nobracket_ipaok",
+    "path": "ipa_ocr_work\\dataset\\shaoxing_pdf136_clean\\trocr_direct_span_all_clean_conf70_nobracket_ipaok\\eval_manifest.tsv",
+    "rows": 2542,
+    "forward_or_backward_errors": 0,
+    "roundtrip_mismatches": 519,
+    "empty_wupin": 0,
+    "issue_top": [],
+    "files": {
+      "forward_errors": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\trocr_direct_span_all_clean_conf70_nobracket_ipaok.forward_errors.tsv",
+      "roundtrip_mismatches": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\trocr_direct_span_all_clean_conf70_nobracket_ipaok.roundtrip_mismatches.tsv",
+      "all_issues": "ipa_ocr_work\\reports\\wupin_ipa_roundtrip_issues\\trocr_direct_span_all_clean_conf70_nobracket_ipaok.all_issues.tsv"
+    }
+  }
+]

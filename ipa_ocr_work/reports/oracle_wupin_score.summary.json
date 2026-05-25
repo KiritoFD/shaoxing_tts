@@ -1,0 +1,56 @@
+{
+  "prediction_mode": "wupin",
+  "ipa_label_source": "label",
+  "eval_manifest": "ipa_ocr_work\\dataset\\shaoxing_dual_model\\ocr_selected\\eval_manifest.tsv",
+  "predictions": "ipa_ocr_work\\reports\\oracle_wupin_predictions.tsv",
+  "rows": [
+    {
+      "split": "train",
+      "n": 4191,
+      "ipa_row_exact": 0.0,
+      "ipa_cer": 1.0,
+      "ipa_edits": 44274,
+      "ipa_chars": 44274,
+      "wupin_row_exact": 1.0,
+      "wupin_cer": 0.0,
+      "wupin_edits": 0,
+      "wupin_chars": 48339
+    },
+    {
+      "split": "val",
+      "n": 491,
+      "ipa_row_exact": 0.0,
+      "ipa_cer": 1.0,
+      "ipa_edits": 5397,
+      "ipa_chars": 5397,
+      "wupin_row_exact": 1.0,
+      "wupin_cer": 0.0,
+      "wupin_edits": 0,
+      "wupin_chars": 5904
+    },
+    {
+      "split": "test",
+      "n": 546,
+      "ipa_row_exact": 0.0,
+      "ipa_cer": 1.0,
+      "ipa_edits": 5737,
+      "ipa_chars": 5737,
+      "wupin_row_exact": 1.0,
+      "wupin_cer": 0.0,
+      "wupin_edits": 0,
+      "wupin_chars": 6324
+    },
+    {
+      "split": "all",
+      "n": 5228,
+      "ipa_row_exact": 0.0,
+      "ipa_cer": 1.0,
+      "ipa_edits": 55408,
+      "ipa_chars": 55408,
+      "wupin_row_exact": 1.0,
+      "wupin_cer": 0.0,
+      "wupin_edits": 0,
+      "wupin_chars": 60567
+    }
+  ]
+}

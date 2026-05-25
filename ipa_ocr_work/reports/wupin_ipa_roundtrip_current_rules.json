@@ -1,0 +1,728 @@
+{
+  "source_clean": {
+    "path": "result_all_converted.clean.csv",
+    "rows": 6565,
+    "counts": {
+      "exact_same": 5278,
+      "mismatch": 1068,
+      "forward_error": 189,
+      "empty": 30
+    },
+    "issue_top": [
+      [
+        "unknown_final:hau:mhau",
+        47
+      ],
+      [
+        "unknown_final:en:yen",
+        28
+      ],
+      [
+        "unknown_final:ha:mha",
+        23
+      ],
+      [
+        "unknown_final:he:mhe",
+        14
+      ],
+      [
+        "unknown_final:ihin:ihin",
+        13
+      ],
+      [
+        "unknown_final:h:nh",
+        9
+      ],
+      [
+        "unknown_final:iha:iha",
+        6
+      ],
+      [
+        "unknown_final:en:wen",
+        6
+      ],
+      [
+        "unknown_final:heq:mheq",
+        6
+      ],
+      [
+        "unknown_final:heen:mheen",
+        5
+      ],
+      [
+        "unknown_final:hien:gnhien",
+        5
+      ],
+      [
+        "unknown_final:hoq:mhoq",
+        5
+      ],
+      [
+        "unknown_final:haen:mhaen",
+        5
+      ],
+      [
+        "unknown_final:ha:nha",
+        4
+      ],
+      [
+        "unknown_final:ihaen:ihaen",
+        3
+      ],
+      [
+        "unknown_final:ihiau:ihiau",
+        3
+      ],
+      [
+        "unknown_final:hau:nhau",
+        3
+      ],
+      [
+        "unknown_final:iiau:iiau",
+        2
+      ],
+      [
+        "unknown_final:hieu:gnhieu",
+        2
+      ],
+      [
+        "unknown_final:ieen:ieen",
+        1
+      ]
+    ],
+    "examples": [
+      {
+        "row": 6,
+        "sample_id": "",
+        "wupin": "yoeq1wo55",
+        "canon": "yoeq1wo55",
+        "ipa": "ɦiøʔ1ɦuo55",
+        "back": "yoeq1wuo55",
+        "errors": []
+      },
+      {
+        "row": 10,
+        "sample_id": "",
+        "wupin": "waon11huen55shiau52",
+        "canon": "waon11huen55shiau52",
+        "ipa": "ɦuɒŋ11huẽ55ɕiɒ52",
+        "back": "wuaon11huen55shiau52",
+        "errors": []
+      },
+      {
+        "row": 27,
+        "sample_id": "",
+        "wupin": "ciu335tseq5deu55fon52",
+        "canon": "ciu335tseq5deu55fon52",
+        "ipa": "tɕy335tseʔ5dɤ55foŋ52",
+        "back": "tciu335tseq5deu55fon52",
+        "errors": []
+      },
+      {
+        "row": 36,
+        "sample_id": "",
+        "wupin": "yu11ieen55yoen52",
+        "canon": "yu11ieen55yoen52",
+        "ipa": "ɦy11<ieen55>ɦiø̃52",
+        "errors": [
+          "unknown_final:ieen:ieen"
+        ]
+      },
+      {
+        "row": 57,
+        "sample_id": "",
+        "wupin": "yu115ciaq54",
+        "canon": "yu115ciaq54",
+        "ipa": "ɦy115tɕiaʔ54",
+        "back": "yu115tciaq54",
+        "errors": []
+      },
+      {
+        "row": 72,
+        "sample_id": "",
+        "wupin": "ciau33tsy55jin55thien52",
+        "canon": "ciau33tsy55jin55thien52",
+        "ipa": "tɕiɒ33tsɿ55dʑiŋ55tʰiẽ52",
+        "back": "tciau33tsy55jin55thien52",
+        "errors": []
+      },
+      {
+        "row": 77,
+        "sample_id": "",
+        "wupin": "yan115huo55thien52",
+        "canon": "yan115huo55thien52",
+        "ipa": "ɦiaŋ115huo55tʰiẽ52",
+        "back": "yian115huo55thien52",
+        "errors": []
+      },
+      {
+        "row": 78,
+        "sample_id": "",
+        "wupin": "waon11me55thien52",
+        "canon": "waon11me55thien52",
+        "ipa": "ɦuɒŋ11mᴇ55tʰiẽ52",
+        "back": "wuaon11me55thien52",
+        "errors": []
+      },
+      {
+        "row": 81,
+        "sample_id": "",
+        "wupin": "waon11so55thien52",
+        "canon": "waon11so55thien52",
+        "ipa": "ɦuɒŋ11so55tʰiẽ52",
+        "back": "wuaon11so55thien52",
+        "errors": []
+      },
+      {
+        "row": 92,
+        "sample_id": "",
+        "wupin": "gho11deu55sy55cian52",
+        "canon": "gho11deu55sy55cian52",
+        "ipa": "ɦo11dɤ55sɿ55tɕiaŋ52",
+        "back": "gho11deu55sy55tcian52",
+        "errors": []
+      },
+      {
+        "row": 99,
+        "sample_id": "",
+        "wupin": "dien11ciaq5",
+        "canon": "dien11ciaq5",
+        "ipa": "diẽ11tɕiaʔ5",
+        "back": "dien11tciaq5",
+        "errors": []
+      },
+      {
+        "row": 127,
+        "sample_id": "",
+        "wupin": "saen33ciq5",
+        "canon": "saen33ciq5",
+        "ipa": "sæ̃33tɕieʔ5",
+        "back": "saen33tciq5",
+        "errors": []
+      },
+      {
+        "row": 130,
+        "sample_id": "",
+        "wupin": "saen33ciaq5",
+        "canon": "saen33ciaq5",
+        "ipa": "sæ̃33tɕiaʔ5",
+        "back": "saen33tciaq5",
+        "errors": []
+      },
+      {
+        "row": 158,
+        "sample_id": "",
+        "wupin": "wan11",
+        "canon": "wan11",
+        "ipa": "ɦuaŋ11",
+        "back": "wuan11",
+        "errors": []
+      },
+      {
+        "row": 171,
+        "sample_id": "",
+        "wupin": "gho11yen52",
+        "canon": "gho11yen52",
+        "ipa": "ɦo11<yen52>",
+        "errors": [
+          "unknown_final:en:yen"
+        ]
+      },
+      {
+        "row": 177,
+        "sample_id": "",
+        "wupin": "jiau11ciaq5",
+        "canon": "jiau11ciaq5",
+        "ipa": "dʑiɒ11tɕiaʔ5",
+        "back": "jiau11tciaq5",
+        "errors": []
+      },
+      {
+        "row": 181,
+        "sample_id": "",
+        "wupin": "cien33deu33",
+        "canon": "cien33deu33",
+        "ipa": "tɕiẽ33dɤ33",
+        "back": "tcien33deu33",
+        "errors": []
+      },
+      {
+        "row": 194,
+        "sample_id": "",
+        "wupin": "ya115di52",
+        "canon": "ya115di52",
+        "ipa": "ɦia115di52",
+        "back": "yia115di52",
+        "errors": []
+      },
+      {
+        "row": 195,
+        "sample_id": "",
+        "wupin": "cin335tsy52",
+        "canon": "cin335tsy52",
+        "ipa": "tɕiŋ335tsɿ52",
+        "back": "tcin335tsy52",
+        "errors": []
+      },
+      {
+        "row": 200,
+        "sample_id": "",
+        "wupin": "cien33wu33",
+        "canon": "cien33wu33",
+        "ipa": "tɕiẽ33ɦu33",
+        "back": "tcien33wu33",
+        "errors": []
+      }
+    ]
+  },
+  "ocr_selected_all": {
+    "path": "ipa_ocr_work\\dataset\\shaoxing_pdf136_clean\\ocr_selected_all\\eval_manifest.tsv",
+    "rows": 3773,
+    "counts": {
+      "exact_same": 2967,
+      "mismatch": 694,
+      "forward_error": 112
+    },
+    "issue_top": [
+      [
+        "unknown_final:hau:mhau",
+        37
+      ],
+      [
+        "unknown_final:en:yen",
+        21
+      ],
+      [
+        "unknown_final:ha:mha",
+        20
+      ],
+      [
+        "unknown_final:he:mhe",
+        13
+      ],
+      [
+        "unknown_final:ihin:ihin",
+        6
+      ],
+      [
+        "unknown_final:en:wen",
+        4
+      ],
+      [
+        "unknown_final:iha:iha",
+        3
+      ],
+      [
+        "unknown_final:heen:mheen",
+        2
+      ],
+      [
+        "unknown_final:ihaen:ihaen",
+        2
+      ],
+      [
+        "unknown_final:ihiau:ihiau",
+        2
+      ],
+      [
+        "unknown_final:ieen:ieen",
+        1
+      ],
+      [
+        "unknown_final:iiau:iiau",
+        1
+      ],
+      [
+        "unknown_final:heq:mheq",
+        1
+      ],
+      [
+        "unknown_final:ips:pips",
+        1
+      ],
+      [
+        "unknown_final:hien:gnhien",
+        1
+      ],
+      [
+        "unknown_final:hoq:mhoq",
+        1
+      ]
+    ],
+    "examples": [
+      {
+        "row": 6,
+        "sample_id": "pdf001_p123_0006",
+        "wupin": "yoeq1wo55",
+        "canon": "yoeq1wo55",
+        "ipa": "ɦiøʔ1ɦuo55",
+        "back": "yoeq1wuo55",
+        "errors": []
+      },
+      {
+        "row": 10,
+        "sample_id": "pdf001_p123_0010",
+        "wupin": "waon11huen55shiau52",
+        "canon": "waon11huen55shiau52",
+        "ipa": "ɦuɒŋ11huẽ55ɕiɒ52",
+        "back": "wuaon11huen55shiau52",
+        "errors": []
+      },
+      {
+        "row": 27,
+        "sample_id": "pdf002_p124_0001",
+        "wupin": "ciu335tseq5deu55fon52",
+        "canon": "ciu335tseq5deu55fon52",
+        "ipa": "tɕy335tseʔ5dɤ55foŋ52",
+        "back": "tciu335tseq5deu55fon52",
+        "errors": []
+      },
+      {
+        "row": 36,
+        "sample_id": "pdf002_p124_0010",
+        "wupin": "yu11ieen55yoen52",
+        "canon": "yu11ieen55yoen52",
+        "ipa": "ɦy11<ieen55>ɦiø̃52",
+        "errors": [
+          "unknown_final:ieen:ieen"
+        ]
+      },
+      {
+        "row": 56,
+        "sample_id": "pdf003_p125_0004",
+        "wupin": "yu115ciaq54",
+        "canon": "yu115ciaq54",
+        "ipa": "ɦy115tɕiaʔ54",
+        "back": "yu115tciaq54",
+        "errors": []
+      },
+      {
+        "row": 71,
+        "sample_id": "pdf003_p125_0019",
+        "wupin": "ciau33tsy55jin55thien52",
+        "canon": "ciau33tsy55jin55thien52",
+        "ipa": "tɕiɒ33tsɿ55dʑiŋ55tʰiẽ52",
+        "back": "tciau33tsy55jin55thien52",
+        "errors": []
+      },
+      {
+        "row": 76,
+        "sample_id": "pdf003_p125_0024",
+        "wupin": "yan115huo55thien52",
+        "canon": "yan115huo55thien52",
+        "ipa": "ɦiaŋ115huo55tʰiẽ52",
+        "back": "yian115huo55thien52",
+        "errors": []
+      },
+      {
+        "row": 77,
+        "sample_id": "pdf003_p125_0025",
+        "wupin": "waon11me55thien52",
+        "canon": "waon11me55thien52",
+        "ipa": "ɦuɒŋ11mᴇ55tʰiẽ52",
+        "back": "wuaon11me55thien52",
+        "errors": []
+      },
+      {
+        "row": 80,
+        "sample_id": "pdf004_p126_0000",
+        "wupin": "waon11so55thien52",
+        "canon": "waon11so55thien52",
+        "ipa": "ɦuɒŋ11so55tʰiẽ52",
+        "back": "wuaon11so55thien52",
+        "errors": []
+      },
+      {
+        "row": 91,
+        "sample_id": "pdf004_p126_0011",
+        "wupin": "gho11deu55sy55cian52",
+        "canon": "gho11deu55sy55cian52",
+        "ipa": "ɦo11dɤ55sɿ55tɕiaŋ52",
+        "back": "gho11deu55sy55tcian52",
+        "errors": []
+      },
+      {
+        "row": 98,
+        "sample_id": "pdf004_p126_0018",
+        "wupin": "dien11ciaq5",
+        "canon": "dien11ciaq5",
+        "ipa": "diẽ11tɕiaʔ5",
+        "back": "dien11tciaq5",
+        "errors": []
+      },
+      {
+        "row": 124,
+        "sample_id": "pdf005_p127_0021",
+        "wupin": "saen33ciq5",
+        "canon": "saen33ciq5",
+        "ipa": "sæ̃33tɕieʔ5",
+        "back": "saen33tciq5",
+        "errors": []
+      },
+      {
+        "row": 127,
+        "sample_id": "pdf005_p127_0024",
+        "wupin": "saen33ciaq5",
+        "canon": "saen33ciaq5",
+        "ipa": "sæ̃33tɕiaʔ5",
+        "back": "saen33tciaq5",
+        "errors": []
+      },
+      {
+        "row": 155,
+        "sample_id": "pdf006_p128_0023",
+        "wupin": "wan11",
+        "canon": "wan11",
+        "ipa": "ɦuaŋ11",
+        "back": "wuan11",
+        "errors": []
+      },
+      {
+        "row": 168,
+        "sample_id": "pdf007_p129_0007",
+        "wupin": "gho11yen52",
+        "canon": "gho11yen52",
+        "ipa": "ɦo11<yen52>",
+        "errors": [
+          "unknown_final:en:yen"
+        ]
+      },
+      {
+        "row": 174,
+        "sample_id": "pdf007_p129_0013",
+        "wupin": "jiau11ciaq5",
+        "canon": "jiau11ciaq5",
+        "ipa": "dʑiɒ11tɕiaʔ5",
+        "back": "jiau11tciaq5",
+        "errors": []
+      },
+      {
+        "row": 178,
+        "sample_id": "pdf007_p129_0017",
+        "wupin": "cien33deu33",
+        "canon": "cien33deu33",
+        "ipa": "tɕiẽ33dɤ33",
+        "back": "tcien33deu33",
+        "errors": []
+      },
+      {
+        "row": 191,
+        "sample_id": "pdf008_p130_0003",
+        "wupin": "ya115di52",
+        "canon": "ya115di52",
+        "ipa": "ɦia115di52",
+        "back": "yia115di52",
+        "errors": []
+      },
+      {
+        "row": 192,
+        "sample_id": "pdf008_p130_0004",
+        "wupin": "cin335tsy52",
+        "canon": "cin335tsy52",
+        "ipa": "tɕiŋ335tsɿ52",
+        "back": "tcin335tsy52",
+        "errors": []
+      },
+      {
+        "row": 197,
+        "sample_id": "pdf008_p130_0009",
+        "wupin": "cien33wu33",
+        "canon": "cien33wu33",
+        "ipa": "tɕiẽ33ɦu33",
+        "back": "tcien33wu33",
+        "errors": []
+      }
+    ]
+  },
+  "trocr_all_clean_conf70_nobracket_ipaok": {
+    "path": "ipa_ocr_work\\dataset\\shaoxing_pdf136_clean\\trocr_direct_span_all_clean_conf70_nobracket_ipaok\\eval_manifest.tsv",
+    "rows": 2542,
+    "counts": {
+      "exact_same": 2023,
+      "mismatch": 519
+    },
+    "issue_top": [],
+    "examples": [
+      {
+        "row": 6,
+        "sample_id": "pdf007_p129_0013",
+        "wupin": "jiau11ciaq5",
+        "canon": "jiau11ciaq5",
+        "ipa": "dʑiɒ11tɕiaʔ5",
+        "back": "jiau11tciaq5",
+        "errors": []
+      },
+      {
+        "row": 13,
+        "sample_id": "pdf017_p139_0001",
+        "wupin": "lan115thien55cia52",
+        "canon": "lan115thien55cia52",
+        "ipa": "laŋ115tʰiẽ55tɕia52",
+        "back": "lan115thien55tcia52",
+        "errors": []
+      },
+      {
+        "row": 24,
+        "sample_id": "pdf017_p139_0019",
+        "wupin": "cieu335gnioeq54",
+        "canon": "cieu335gnioeq54",
+        "ipa": "tɕiɤ335ȵiøʔ54",
+        "back": "tcieu335gnioeq54",
+        "errors": []
+      },
+      {
+        "row": 30,
+        "sample_id": "pdf027_p149_0004",
+        "wupin": "sy33ciaq3zo33",
+        "canon": "sy33ciaq3zo33",
+        "ipa": "sɿ33tɕiaʔ3zo33",
+        "back": "sy33tciaq3zo33",
+        "errors": []
+      },
+      {
+        "row": 32,
+        "sample_id": "pdf027_p149_0013",
+        "wupin": "yon11gnieu52",
+        "canon": "yon11gnieu52",
+        "ipa": "ɦioŋ11ȵiɤ52",
+        "back": "yion11gnieu52",
+        "errors": []
+      },
+      {
+        "row": 39,
+        "sample_id": "pdf027_p149_0028",
+        "wupin": "gnio11gnio11",
+        "canon": "gnio11gnio11",
+        "ipa": "ȵiɒ11ȵiɒ11",
+        "back": "gniau11gniau11",
+        "errors": []
+      },
+      {
+        "row": 43,
+        "sample_id": "pdf037_p159_0008",
+        "wupin": "yan11gniu55na52",
+        "canon": "yan11gniu55na52",
+        "ipa": "ɦiaŋ11ȵy55na52",
+        "back": "yian11gniu55na52",
+        "errors": []
+      },
+      {
+        "row": 58,
+        "sample_id": "pdf047_p169_0007",
+        "wupin": "deu11yeu11bi11",
+        "canon": "deu11yeu11bi11",
+        "ipa": "dɤ11ɦiɤ11bi11",
+        "back": "deu11yieu11bi11",
+        "errors": []
+      },
+      {
+        "row": 60,
+        "sample_id": "pdf047_p169_0009",
+        "wupin": "mien115cin52",
+        "canon": "mien115cin52",
+        "ipa": "miẽ115tɕiŋ52",
+        "back": "mien115tcin52",
+        "errors": []
+      },
+      {
+        "row": 61,
+        "sample_id": "pdf047_p169_0010",
+        "wupin": "yeu11mien55cin52",
+        "canon": "yeu11mien55cin52",
+        "ipa": "ɦiɤ11miẽ55tɕiŋ52",
+        "back": "yieu11mien55tcin52",
+        "errors": []
+      },
+      {
+        "row": 62,
+        "sample_id": "pdf047_p169_0011",
+        "wupin": "yeu11deu55vu52",
+        "canon": "yeu11deu55vu52",
+        "ipa": "ɦiɤ11dɤ55vu52",
+        "back": "yieu11deu55vu52",
+        "errors": []
+      },
+      {
+        "row": 69,
+        "sample_id": "pdf057_p179_0007",
+        "wupin": "da11cin11",
+        "canon": "da11cin11",
+        "ipa": "da11tɕiŋ11",
+        "back": "da11tcin11",
+        "errors": []
+      },
+      {
+        "row": 70,
+        "sample_id": "pdf057_p179_0008",
+        "wupin": "shiau335cin52",
+        "canon": "shiau335cin52",
+        "ipa": "ɕiɒ335tɕiŋ52",
+        "back": "shiau335tcin52",
+        "errors": []
+      },
+      {
+        "row": 72,
+        "sample_id": "pdf057_p179_0011",
+        "wupin": "gho115ciu55deu52",
+        "canon": "gho115ciu55deu52",
+        "ipa": "ɦo115tɕy55dɤ52",
+        "back": "gho115tciu55deu52",
+        "errors": []
+      },
+      {
+        "row": 75,
+        "sample_id": "pdf057_p179_0016",
+        "wupin": "khu33ciaq3kuoen33",
+        "canon": "khu33ciaq3kuoen33",
+        "ipa": "kʰu33tɕiaʔ3kuø̃33",
+        "back": "khu33tciaq3kuoen33",
+        "errors": []
+      },
+      {
+        "row": 76,
+        "sample_id": "pdf057_p179_0018",
+        "wupin": "khu33ciaq3deu33",
+        "canon": "khu33ciaq3deu33",
+        "ipa": "kʰu33tɕiaʔ3dɤ33",
+        "back": "khu33tciaq3deu33",
+        "errors": []
+      },
+      {
+        "row": 79,
+        "sample_id": "pdf057_p179_0026",
+        "wupin": "dien11cien11",
+        "canon": "dien11cien11",
+        "ipa": "diẽ11tɕiẽ11",
+        "back": "dien11tcien11",
+        "errors": []
+      },
+      {
+        "row": 83,
+        "sample_id": "pdf067_p189_0004",
+        "wupin": "dzo11ci52",
+        "canon": "dzo11ci52",
+        "ipa": "dzo11tɕi52",
+        "back": "dzo11tci52",
+        "errors": []
+      },
+      {
+        "row": 95,
+        "sample_id": "pdf077_p199_0001",
+        "wupin": "lien115been55cia52",
+        "canon": "lien115been55cia52",
+        "ipa": "liẽ115bẽ55tɕia52",
+        "back": "lien115been55tcia52",
+        "errors": []
+      },
+      {
+        "row": 96,
+        "sample_id": "pdf077_p199_0002",
+        "wupin": "ciaq3don55",
+        "canon": "ciaq3don55",
+        "ipa": "tɕiaʔ3doŋ55",
+        "back": "tciaq3don55",
+        "errors": []
+      }
+    ]
+  }
+}

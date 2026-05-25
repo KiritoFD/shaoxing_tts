@@ -1,0 +1,1069 @@
+source_dataset	source_path	row_number_0based	sample_id	page	pdf_page	row_index	source_split	quality	hanzi	candidate_headword	wupin	canonical_wupin	current_label	ipa_conversion_status	cleaning_flags	issue_type	ipa_from_wupin	wupin_back	errors
+source_clean	result_all_converted.clean.csv	6		123					月华		yoeq1wo55	yoeq1wo55				roundtrip_mismatch	ɦiøʔ1ɦuo55	yoeq1wuo55	
+source_clean	result_all_converted.clean.csv	10		123					黄昏晓		waon11huen55shiau52	waon11huen55shiau52				roundtrip_mismatch	ɦuɒŋ11huẽ55ɕiɒ52	wuaon11huen55shiau52	
+source_clean	result_all_converted.clean.csv	27		124					鬼子头风		ciu335tseq5deu55fon52	ciu335tseq5deu55fon52				roundtrip_mismatch	tɕy335tseʔ5dɤ55foŋ52	tciu335tseq5deu55fon52	
+source_clean	result_all_converted.clean.csv	57		125					雨脚		yu115ciaq54	yu115ciaq54				roundtrip_mismatch	ɦy115tɕiaʔ54	yu115tciaq54	
+source_clean	result_all_converted.clean.csv	72		125					皎致晴天		ciau33tsy55jin55thien52	ciau33tsy55jin55thien52				roundtrip_mismatch	tɕiɒ33tsɿ55dʑiŋ55tʰiẽ52	tciau33tsy55jin55thien52	
+source_clean	result_all_converted.clean.csv	77		125					养花天		yan115huo55thien52	yan115huo55thien52				roundtrip_mismatch	ɦiaŋ115huo55tʰiẽ52	yian115huo55thien52	
+source_clean	result_all_converted.clean.csv	78		125					黄梅天		waon11me55thien52	waon11me55thien52				roundtrip_mismatch	ɦuɒŋ11mᴇ55tʰiẽ52	wuaon11me55thien52	
+source_clean	result_all_converted.clean.csv	81		126					黄沙天		waon11so55thien52	waon11so55thien52				roundtrip_mismatch	ɦuɒŋ11so55tʰiẽ52	wuaon11so55thien52	
+source_clean	result_all_converted.clean.csv	92		126					河头水脚		gho11deu55sy55cian52	gho11deu55sy55cian52				roundtrip_mismatch	ɦo11dɤ55sɿ55tɕiaŋ52	gho11deu55sy55tcian52	
+source_clean	result_all_converted.clean.csv	99		126					田脚		dien11ciaq5	dien11ciaq5				roundtrip_mismatch	diẽ11tɕiaʔ5	dien11tciaq5	
+source_clean	result_all_converted.clean.csv	127		127					山脊		saen33ciq5	saen33ciq5				roundtrip_mismatch	sæ̃33tɕieʔ5	saen33tciq5	
+source_clean	result_all_converted.clean.csv	130		127					山脚		saen33ciaq5	saen33ciaq5				roundtrip_mismatch	sæ̃33tɕiaʔ5	saen33tciaq5	
+source_clean	result_all_converted.clean.csv	158		128					㶇		wan11	wan11				roundtrip_mismatch	ɦuaŋ11	wuan11	
+source_clean	result_all_converted.clean.csv	177		129					桥脚		jiau11ciaq5	jiau11ciaq5				roundtrip_mismatch	dʑiɒ11tɕiaʔ5	jiau11tciaq5	
+source_clean	result_all_converted.clean.csv	181		129					箭头		cien33deu33	cien33deu33				roundtrip_mismatch	tɕiẽ33dɤ33	tcien33deu33	
+source_clean	result_all_converted.clean.csv	194		130					野地		ya115di52	ya115di52				roundtrip_mismatch	ɦia115di52	yia115di52	
+source_clean	result_all_converted.clean.csv	195		130					景致		cin335tsy52	cin335tsy52				roundtrip_mismatch	tɕiŋ335tsɿ52	tcin335tsy52	
+source_clean	result_all_converted.clean.csv	200		130					鉴湖		cien33wu33	cien33wu33				roundtrip_mismatch	tɕiẽ33ɦu33	tcien33wu33	
+source_clean	result_all_converted.clean.csv	201		130					金子		cin33tsy55	cin33tsy55				roundtrip_mismatch	tɕiŋ33tsɿ55	tcin33tsy55	
+source_clean	result_all_converted.clean.csv	202		130					白金		baq1cin52	baq1cin52				roundtrip_mismatch	baʔ1tɕiŋ52	baq1tcin52	
+source_clean	result_all_converted.clean.csv	217		131					水晶		sy335cin52	sy335cin52				roundtrip_mismatch	sɿ335tɕiŋ52	sy335tcin52	
+source_clean	result_all_converted.clean.csv	221		131					珍珠		tseen33ciu52	tseen33ciu52				roundtrip_mismatch	tsẽ33tɕy52	tseen33tciu52	
+source_clean	result_all_converted.clean.csv	222		131					硫黄		lieu11waon52	lieu11waon52				roundtrip_mismatch	liɤ11ɦuɒŋ52	lieu11wuaon52	
+source_clean	result_all_converted.clean.csv	281		133					迹足		ciq3tsoq5	ciq3tsoq5				roundtrip_mismatch	tɕieʔ3tsoʔ5	tciq3tsoq5	
+source_clean	result_all_converted.clean.csv	291		133					油蒿气		yeu11hau55chi52	yeu11hau55chi52				roundtrip_mismatch	ɦiɤ11hɒ55tɕʰi52	yieu11hau55chi52	
+source_clean	result_all_converted.clean.csv	294		133					恶药头气		oq3yaq5deu55chi55	oq3yaq5deu55chi55				roundtrip_mismatch	oʔ3ɦiaʔ5dɤ55tɕʰi55	oq3yiaq5deu55chi55	
+source_clean	result_all_converted.clean.csv	297		134					羊臊臭		yan11sau55tsheu52	yan11sau55tsheu52				roundtrip_mismatch	ɦiaŋ11sɒ55tsʰɤ52	yian11sau55tsheu52	
+source_clean	result_all_converted.clean.csv	331		135					今年		cin335gnien52	cin335gnien52				roundtrip_mismatch	tɕiŋ335ȵiẽ52	tcin335gnien52	
+source_clean	result_all_converted.clean.csv	343		135					前几年		zhien11ci55gnien52	zhien11ci55gnien52				roundtrip_mismatch	ʑiẽ11tɕi55ȵiẽ52	zhien11tci55gnien52	
+source_clean	result_all_converted.clean.csv	351		136					年脚		gnien11ciaq5	gnien11ciaq5				roundtrip_mismatch	ȵiẽ11tɕiaʔ5	gnien11tciaq5	
+source_clean	result_all_converted.clean.csv	365		136					日脚		gniq1ciaq5	gniq1ciaq5				roundtrip_mismatch	ȵieʔ1tɕiaʔ5	gniq1tciaq5	
+source_clean	result_all_converted.clean.csv	366		136					今朝		cin33tsau52	cin33tsau52				roundtrip_mismatch	tɕiŋ33tsɒ52	tcin33tsau52	
+source_clean	result_all_converted.clean.csv	374		136					上夜		zan115ya52	zan115ya52				roundtrip_mismatch	zaŋ115ɦia52	zan115yia52	
+source_clean	result_all_converted.clean.csv	375		137					上夜日子		zan115ya55gni55tsy52	zan115ya55gni55tsy52				roundtrip_mismatch	zaŋ115ɦia55ȵi55tsɿ52	zan115yia55gni55tsy52	
+source_clean	result_all_converted.clean.csv	390		137					夜头		ya11deu11	ya11deu11				roundtrip_mismatch	ɦia11dɤ11	yia11deu11	
+source_clean	result_all_converted.clean.csv	407		138					夜快		ya11khua11	ya11khua11				roundtrip_mismatch	ɦia11kʰua11	yia11khua11	
+source_clean	result_all_converted.clean.csv	409		138					前半夜		jien11poen55ya52	jien11poen55ya52				roundtrip_mismatch	dʑiẽ11pø̃55ɦia52	jien11poen55yia52	
+source_clean	result_all_converted.clean.csv	410		138					上半夜		zan115poen55ya52	zan115poen55ya52				roundtrip_mismatch	zaŋ115pø̃55ɦia52	zan115poen55yia52	
+source_clean	result_all_converted.clean.csv	411		138					后半夜		gheu115poen55ya52	gheu115poen55ya52				roundtrip_mismatch	ɦɤ115pø̃55ɦia52	gheu115poen55yia52	
+source_clean	result_all_converted.clean.csv	412		138					下半夜		gho115poen55ya52	gho115poen55ya52				roundtrip_mismatch	ɦo115pø̃55ɦia52	gho115poen55yia52	
+source_clean	result_all_converted.clean.csv	413		138					半夜		poen33ya33	poen33ya33				roundtrip_mismatch	pø̃33ɦia33	poen33yia33	
+source_clean	result_all_converted.clean.csv	414		138					成更半夜		dzeon11kan55poen55ya52	dzeon11kan55poen55ya52				roundtrip_mismatch	dzəŋ11kaŋ55pø̃55ɦia52	dzeon11kan55poen55yia52	
+source_clean	result_all_converted.clean.csv	432		138					暖天家		noen115thien55cia52	noen115thien55cia52				roundtrip_mismatch	nø̃115tʰiẽ55tɕia52	noen115thien55tcia52	
+source_clean	result_all_converted.clean.csv	435		139					冷天家		lan115thien55cia52	lan115thien55cia52				roundtrip_mismatch	laŋ115tʰiẽ55tɕia52	lan115thien55tcia52	
+source_clean	result_all_converted.clean.csv	450		139					稼青黄不接		cia33chin33huaon33peq3ciq3	cia33chin33huaon33peq3ciq3				roundtrip_mismatch	tɕia33tɕʰiŋ33huɒŋ33peʔ3tɕieʔ3	tcia33chin33huaon33peq3tciq3	
+source_clean	result_all_converted.clean.csv	453		139					九月		cieu335gnioeq54	cieu335gnioeq54				roundtrip_mismatch	tɕiɤ335ȵiøʔ54	tcieu335gnioeq54	
+source_clean	result_all_converted.clean.csv	467		140					春节		tsheen33ciq5	tsheen33ciq5				roundtrip_mismatch	tsʰẽ33tɕieʔ5	tsheen33tciq5	
+source_clean	result_all_converted.clean.csv	471		140					清明节		chin33meen55ciq54	chin33meen55ciq54				roundtrip_mismatch	tɕʰiŋ33mẽ55tɕieʔ54	chin33meen55tciq54	
+source_clean	result_all_converted.clean.csv	477		140					中秋节		tson33chieu55ciq54	tson33chieu55ciq54				roundtrip_mismatch	tsoŋ33tɕʰiɤ55tɕieʔ54	tson33chieu55tciq54	
+source_clean	result_all_converted.clean.csv	478		140					重阳		dzon11yan52	dzon11yan52				roundtrip_mismatch	dzoŋ11ɦiaŋ52	dzon11yian52	
+source_clean	result_all_converted.clean.csv	479		140					重阳节		dzon11yan55ciq54	dzon11yan55ciq54				roundtrip_mismatch	dzoŋ11ɦiaŋ55tɕieʔ54	dzon11yian55tciq54	
+source_clean	result_all_converted.clean.csv	480		140					三十日夜		saen33zeq5gni55ya52	saen33zeq5gni55ya52				roundtrip_mismatch	sæ̃33zeʔ5ȵi55ɦia52	saen33zeq5gni55yia52	
+source_clean	result_all_converted.clean.csv	481		140					年三十夜		gnien11saen55zeq5ya52	gnien11saen55zeq5ya52				roundtrip_mismatch	ȵiẽ11sæ̃55zeʔ5ɦia52	gnien11saen55zeq5yia52	
+source_clean	result_all_converted.clean.csv	482		140					年夜		gnien11ya55	gnien11ya55				roundtrip_mismatch	ȵiẽ11ɦia55	gnien11yia55	
+source_clean	result_all_converted.clean.csv	483		140					节头节尾		ciq3deu55ciq5mi52	ciq3deu55ciq5mi52				roundtrip_mismatch	tɕieʔ3dɤ55tɕieʔ5mi52	tciq3deu55tciq5mi52	
+source_clean	result_all_converted.clean.csv	484		140					三八节		saen33paeq5ciq54	saen33paeq5ciq54				roundtrip_mismatch	sæ̃33pæʔ5tɕieʔ54	saen33paeq5tciq54	
+source_clean	result_all_converted.clean.csv	485		140					五一节		wu115iq5ciq54	wu115iq5ciq54				roundtrip_mismatch	ɦu115ieʔ5tɕieʔ54	wu115iq5tciq54	
+source_clean	result_all_converted.clean.csv	507		141					惊蛰		cin33dzeq5	cin33dzeq5				roundtrip_mismatch	tɕiŋ33dzeʔ5	tcin33dzeq5	
+source_clean	result_all_converted.clean.csv	510		141					国庆节		kuoq3chin55ciq54	kuoq3chin55ciq54				roundtrip_mismatch	kuoʔ3tɕʰiŋ55tɕieʔ54	kuoq3chin55tciq54	
+source_clean	result_all_converted.clean.csv	511		141					儿童节		gni11don55ciq54	gni11don55ciq54				roundtrip_mismatch	ȵi11doŋ55tɕieʔ54	gni11don55tciq54	
+source_clean	result_all_converted.clean.csv	518		142					狗熊		keu335yon52	keu335yon52				roundtrip_mismatch	kɤ335ɦioŋ52	keu335yion52	
+source_clean	result_all_converted.clean.csv	519		142					野狗		ya115keu52	ya115keu52				roundtrip_mismatch	ɦia115kɤ52	yia115keu52	
+source_clean	result_all_converted.clean.csv	524		142					猢		weq23	weq23				roundtrip_mismatch	ɦueʔ23	wueq23	
+source_clean	result_all_converted.clean.csv	527		142					野猪		ya115tsy52	ya115tsy52				roundtrip_mismatch	ɦia115tsɿ52	yia115tsy52	
+source_clean	result_all_converted.clean.csv	533		142					夜老老		ya11lau11lau11	ya11lau11lau11				roundtrip_mismatch	ɦia11lɒ11lɒ11	yia11lau11lau11	
+source_clean	result_all_converted.clean.csv	542		143					雉鸡		dzy115ci52	dzy115ci52				roundtrip_mismatch	dzɿ115tɕi52	dzy115tci52	
+source_clean	result_all_converted.clean.csv	543		143					野鸡		ya115ci52	ya115ci52				roundtrip_mismatch	ɦia115tɕi52	yia115tci52	
+source_clean	result_all_converted.clean.csv	556		143					野白鸽		ya115baq5keq54	ya115baq5keq54				roundtrip_mismatch	ɦia115baʔ5keʔ54	yia115baq5keq54	
+source_clean	result_all_converted.clean.csv	562		143					画眉		wo11mi11	wo11mi11				roundtrip_mismatch	ɦuo11mi11	wuo11mi11	
+source_clean	result_all_converted.clean.csv	567		143					野鸭		ya115aeq54	ya115aeq54				roundtrip_mismatch	ɦia115æʔ54	yia115aeq54	
+source_clean	result_all_converted.clean.csv	568		143					长脚鹭		tsan335ciaq5lu52	tsan335ciaq5lu52				roundtrip_mismatch	tsaŋ335tɕiaʔ5lu52	tsan335tciaq5lu52	
+source_clean	result_all_converted.clean.csv	569		143					鲫鱼		ciq3yu52	ciq3yu52				roundtrip_mismatch	tɕieʔ3ɦy52	tciq3yu52	
+source_clean	result_all_converted.clean.csv	570		143					白鲫		baq1ciq5	baq1ciq5				roundtrip_mismatch	baʔ1tɕieʔ5	baq1tciq5	
+source_clean	result_all_converted.clean.csv	588		144					鳜花		ci33huo33	ci33huo33				roundtrip_mismatch	tɕi33huo33	tci33huo33	
+source_clean	result_all_converted.clean.csv	611		145					划水		wo11sy55	wo11sy55				roundtrip_mismatch	ɦuo11sɿ55	wuo11sy55	
+source_clean	result_all_converted.clean.csv	628		145					横甲蟹		wan11ciaq5ha52	wan11ciaq5ha52				roundtrip_mismatch	ɦuaŋ11tɕiaʔ5ha52	wuan11tciaq5ha52	
+source_clean	result_all_converted.clean.csv	642		146					青蛙田鸡		chin33uo55dien55ci52	chin33uo55dien55ci52				roundtrip_mismatch	tɕʰiŋ33uo55diẽ55tɕi52	chin33uo55dien55tci52	
+source_clean	result_all_converted.clean.csv	643		146					田鸡		dien11ci52	dien11ci52				roundtrip_mismatch	diẽ11tɕi52	dien11tci52	
+source_clean	result_all_converted.clean.csv	644		146					水鸡		sy335ci52	sy335ci52				roundtrip_mismatch	sɿ335tɕi52	sy335tci52	
+source_clean	result_all_converted.clean.csv	647		146					乌龟		u33ciu52	u33ciu52				roundtrip_mismatch	u33tɕy52	u33tciu52	
+source_clean	result_all_converted.clean.csv	648		146					甲鱼		ciaq3yu52	ciaq3yu52				roundtrip_mismatch	tɕiaʔ3ɦy52	tciaq3yu52	
+source_clean	result_all_converted.clean.csv	650		146					蛇虫百脚		zo11dzon55paq5ciaq54	zo11dzon55paq5ciaq54				roundtrip_mismatch	zo11dzoŋ55paʔ5tɕiaʔ54	zo11dzon55paq5tciaq54	
+source_clean	result_all_converted.clean.csv	654		146					茧		cien335	cien335				roundtrip_mismatch	tɕiẽ335	tcien335	
+source_clean	result_all_converted.clean.csv	661		146					长脚黄蜂		tsan335ciaq5huaon55fon52	tsan335ciaq5huaon55fon52				roundtrip_mismatch	tsaŋ335tɕiaʔ5huɒŋ55foŋ52	tsan335tciaq5huaon55fon52	
+source_clean	result_all_converted.clean.csv	665		146					灶壁鸡		tsa33piq3ci33	tsa33piq3ci33				roundtrip_mismatch	tsa33pieʔ3tɕi33	tsa33piq3tci33	
+source_clean	result_all_converted.clean.csv	666		146					绩婆婆		ciq3bo55bo52	ciq3bo55bo52				roundtrip_mismatch	tɕieʔ3bo55bo52	tciq3bo55bo52	
+source_clean	result_all_converted.clean.csv	667		147					油唧蛉		yeu11ciq5lin52	yeu11ciq5lin52				roundtrip_mismatch	ɦiɤ11tɕieʔ5liŋ52	yieu11tciq5lin52	
+source_clean	result_all_converted.clean.csv	681		147					金虫		cin33dzon52	cin33dzon52				roundtrip_mismatch	tɕiŋ33dzoŋ52	tcin33dzon52	
+source_clean	result_all_converted.clean.csv	688		147					蛀虫		ciu33dzon33	ciu33dzon33				roundtrip_mismatch	tɕy33dzoŋ33	tciu33dzon33	
+source_clean	result_all_converted.clean.csv	695		147					结蛛		ciq3ciu52	ciq3ciu52				roundtrip_mismatch	tɕieʔ3tɕy52	tciq3tciu52	
+source_clean	result_all_converted.clean.csv	697		148					结蛛罗绷		ciq3ciu55lo55pan52	ciq3ciu55lo55pan52				roundtrip_mismatch	tɕieʔ3tɕy55lo55paŋ52	tciq3tciu55lo55pan52	
+source_clean	result_all_converted.clean.csv	703		148					金苍蝇		cin33tshaon55in52	cin33tshaon55in52				roundtrip_mismatch	tɕiŋ33tsʰɒŋ55iŋ52	tcin33tshaon55in52	
+source_clean	result_all_converted.clean.csv	714		148					蛔丝		we11sy52	we11sy52				roundtrip_mismatch	ɦuᴇ11sɿ52	wue11sy52	
+source_clean	result_all_converted.clean.csv	731		149					四脚蛇		sy33ciaq3zo33	sy33ciaq3zo33				roundtrip_mismatch	sɿ33tɕiaʔ3zo33	sy33tciaq3zo33	
+source_clean	result_all_converted.clean.csv	740		149					雄牛		yon11gnieu52	yon11gnieu52				roundtrip_mismatch	ɦioŋ11ȵiɤ52	yion11gnieu52	
+source_clean	result_all_converted.clean.csv	751		149					雄驴		yon11li52	yon11li52				roundtrip_mismatch	ɦioŋ11li52	yion11li52	
+source_clean	result_all_converted.clean.csv	754		149					肉猪		gnio11tsy11	gnio11tsy11				roundtrip_mismatch	ȵiɒ11tsɿ11	gniau11tsy11	
+source_clean	result_all_converted.clean.csv	755		149					肉肉		gnio11gnio11	gnio11gnio11				roundtrip_mismatch	ȵiɒ11ȵiɒ11	gniau11gniau11	
+source_clean	result_all_converted.clean.csv	757		150					雄肉猪		yon11gnio55tsy52	yon11gnio55tsy52				roundtrip_mismatch	ɦioŋ11ȵiɒ55tsɿ52	yion11gniau55tsy52	
+source_clean	result_all_converted.clean.csv	761		150					羊		yan231	yan231				roundtrip_mismatch	ɦiaŋ231	yian231	
+source_clean	result_all_converted.clean.csv	762		150					山羊		saen33yan52	saen33yan52				roundtrip_mismatch	sæ̃33ɦiaŋ52	saen33yian52	
+source_clean	result_all_converted.clean.csv	763		150					湖羊		wu11yan52	wu11yan52				roundtrip_mismatch	ɦu11ɦiaŋ52	wu11yian52	
+source_clean	result_all_converted.clean.csv	764		150					绵羊		mien11yan52	mien11yan52				roundtrip_mismatch	miẽ11ɦiaŋ52	mien11yian52	
+source_clean	result_all_converted.clean.csv	765		150					雄咯羊		yon11koq5yan52	yon11koq5yan52				roundtrip_mismatch	ɦioŋ11koʔ5ɦiaŋ52	yion11koq5yian52	
+source_clean	result_all_converted.clean.csv	766		150					雌咯羊		tshy33koq5yan52	tshy33koq5yan52				roundtrip_mismatch	tsʰɿ33koʔ5ɦiaŋ52	tshy33koq5yian52	
+source_clean	result_all_converted.clean.csv	767		150					小羊		shiau335yan52	shiau335yan52				roundtrip_mismatch	ɕiɒ335ɦiaŋ52	shiau335yian52	
+source_clean	result_all_converted.clean.csv	769		150					雄狗		yon11keu55	yon11keu55				roundtrip_mismatch	ɦioŋ11kɤ55	yion11keu55	
+source_clean	result_all_converted.clean.csv	773		150					西洋狗		shi33yan55keu52	shi33yan55keu52				roundtrip_mismatch	ɕi33ɦiaŋ55kɤ52	shi33yian55keu52	
+source_clean	result_all_converted.clean.csv	776		150					雄猫		yon11mau52	yon11mau52				roundtrip_mismatch	ɦioŋ11mɒ52	yion11mau52	
+source_clean	result_all_converted.clean.csv	779		150					鸡		ci52	ci52				roundtrip_mismatch	tɕi52	tci52	
+source_clean	result_all_converted.clean.csv	780		150					雄鸡		yon11ci52	yon11ci52				roundtrip_mismatch	ɦioŋ11tɕi52	yion11tci52	
+source_clean	result_all_converted.clean.csv	781		150					哥哥鸡		ko33ko55ci52	ko33ko55ci52				roundtrip_mismatch	ko33ko55tɕi52	ko33ko55tci52	
+source_clean	result_all_converted.clean.csv	782		150					童子鸡		don11tsy55ci52	don11tsy55ci52				roundtrip_mismatch	doŋ11tsɿ55tɕi52	don11tsy55tci52	
+source_clean	result_all_converted.clean.csv	783		150					子鸡		tsy335ci52	tsy335ci52				roundtrip_mismatch	tsɿ335tɕi52	tsy335tci52	
+source_clean	result_all_converted.clean.csv	784		150					起骚雄鸡		chi335sau55yon55ci52	chi335sau55yon55ci52				roundtrip_mismatch	tɕʰi335sɒ55ɦioŋ55tɕi52	chi335sau55yion55tci52	
+source_clean	result_all_converted.clean.csv	785		150					线鸡		shien33ci33	shien33ci33				roundtrip_mismatch	ɕiẽ33tɕi33	shien33tci33	
+source_clean	result_all_converted.clean.csv	786		150					去势谓之		chi33sy33we33tsy33	chi33sy33we33tsy33				roundtrip_mismatch	tɕʰi33sɿ33ɦuᴇ33tsɿ33	chi33sy33wue33tsy33	
+source_clean	result_all_converted.clean.csv	787		150					半脚佬		poen33ciaq3lau33	poen33ciaq3lau33				roundtrip_mismatch	pø̃33tɕiaʔ3lɒ33	poen33tciaq3lau33	
+source_clean	result_all_converted.clean.csv	788		151					鸡婆		ci33bo52	ci33bo52				roundtrip_mismatch	tɕi33bo52	tci33bo52	
+source_clean	result_all_converted.clean.csv	789		151					雌鸡婆		tshy33ci55bo52	tshy33ci55bo52				roundtrip_mismatch	tsʰɿ33tɕi55bo52	tshy33tci55bo52	
+source_clean	result_all_converted.clean.csv	790		151					鸡娘		ci33gnian52	ci33gnian52				roundtrip_mismatch	tɕi33ȵiaŋ52	tci33gnian52	
+source_clean	result_all_converted.clean.csv	791		151					哆哆鸡		ci52	ci52				roundtrip_mismatch	tɕi52	tci52	
+source_clean	result_all_converted.clean.csv	792		151					赖孵鸡娘		la11bu11ci11gnian11	la11bu11ci11gnian11				roundtrip_mismatch	la11bu11tɕi11ȵiaŋ11	la11bu11tci11gnian11	
+source_clean	result_all_converted.clean.csv	794		151					小鸡		shiau335ci52	shiau335ci52				roundtrip_mismatch	ɕiɒ335tɕi52	shiau335tci52	
+source_clean	result_all_converted.clean.csv	795		151					火鸡		hu335ci52	hu335ci52				roundtrip_mismatch	hu335tɕi52	hu335tci52	
+source_clean	result_all_converted.clean.csv	796		151					乌骨鸡		u33kueq5ci52	u33kueq5ci52				roundtrip_mismatch	u33kueʔ5tɕi52	u33kueq5tci52	
+source_clean	result_all_converted.clean.csv	798		151					雄鸭		yon11aeq5	yon11aeq5				roundtrip_mismatch	ɦioŋ11æʔ5	yion11aeq5	
+source_clean	result_all_converted.clean.csv	809		151					雄鹅		yon11ngo52	yon11ngo52				roundtrip_mismatch	ɦioŋ11ŋo52	yion11ngo52	
+source_clean	result_all_converted.clean.csv	814		151					鸡子		ci33tsy55	ci33tsy55				roundtrip_mismatch	tɕi33tsɿ55	tci33tsy55	
+source_clean	result_all_converted.clean.csv	815		151					鸡蛋		ci33daen55	ci33daen55				roundtrip_mismatch	tɕi33dæ̃55	tci33daen55	
+source_clean	result_all_converted.clean.csv	831		152					脚爪		ciaq3tsau55	ciaq3tsau55				roundtrip_mismatch	tɕiaʔ3tsɒ55	tciaq3tsau55	
+source_clean	result_all_converted.clean.csv	841		152					槐树		wa11zhiu55	wa11zhiu55				roundtrip_mismatch	ɦua11ʑy55	wua11zhiu55	
+source_clean	result_all_converted.clean.csv	899		154					槐花		wa11huo52	wa11huo52				roundtrip_mismatch	ɦua11huo52	wua11huo52	
+source_clean	result_all_converted.clean.csv	901		154					芍药花		zoq1yaq5huo52	zoq1yaq5huo52				roundtrip_mismatch	zoʔ1ɦiaʔ5huo52	zoq1yiaq5huo52	
+source_clean	result_all_converted.clean.csv	906		155					金桂		cin33kue55	cin33kue55				roundtrip_mismatch	tɕiŋ33kuᴇ55	tcin33kue55	
+source_clean	result_all_converted.clean.csv	909		155					菊花		cioeq3huo52	cioeq3huo52				roundtrip_mismatch	tɕiøʔ3huo52	tcioeq3huo52	
+source_clean	result_all_converted.clean.csv	911		155					月月红		gnioeq1gnioeq5won52	gnioeq1gnioeq5won52				roundtrip_mismatch	ȵiøʔ1ȵiøʔ5ɦuoŋ52	gnioeq1gnioeq5wuon52	
+source_clean	result_all_converted.clean.csv	915		155					金银花		cin33gnin55huo52	cin33gnin55huo52				roundtrip_mismatch	tɕiŋ33ȵiŋ55huo52	tcin33gnin55huo52	
+source_clean	result_all_converted.clean.csv	918		155					野百合		ya115paq5keq54	ya115paq5keq54				roundtrip_mismatch	ɦia115paʔ5keʔ54	yia115paq5keq54	
+source_clean	result_all_converted.clean.csv	923		155					水芭蕉		sy335po55ciau52	sy335po55ciau52				roundtrip_mismatch	sɿ335po55tɕiɒ52	sy335po55tciau52	
+source_clean	result_all_converted.clean.csv	924		155					鸡冠花		ci33kuoen55huo52	ci33kuoen55huo52				roundtrip_mismatch	tɕi33kuø̃55huo52	tci33kuoen55huo52	
+source_clean	result_all_converted.clean.csv	931		155					映山红		ian335saen55won52	ian335saen55won52				roundtrip_mismatch	iaŋ335sæ̃55ɦuoŋ52	ian335saen55wuon52	
+source_clean	result_all_converted.clean.csv	932		155					夜姣姣		ya11ciau11ciau11	ya11ciau11ciau11				roundtrip_mismatch	ɦia11tɕiɒ11tɕiɒ11	yia11tciau11tciau11	
+source_clean	result_all_converted.clean.csv	935		156					怕痒花		pho33yan33huo33	pho33yan33huo33				roundtrip_mismatch	pʰo33ɦiaŋ33huo33	pho33yian33huo33	
+source_clean	result_all_converted.clean.csv	954		156					槿杞柳		cin335chi55lieu52	cin335chi55lieu52				roundtrip_mismatch	tɕiŋ335tɕʰi55liɤ52	tcin335chi55lieu52	
+source_clean	result_all_converted.clean.csv	959		156					芦苇		lu11we52	lu11we52				roundtrip_mismatch	lu11ɦuᴇ52	lu11wue52	
+source_clean	result_all_converted.clean.csv	967		157					活芦菩		weq1lu55bu52	weq1lu55bu52				roundtrip_mismatch	ɦueʔ1lu55bu52	wueq1lu55bu52	
+source_clean	result_all_converted.clean.csv	1030		159					芋节		gniu11ciq1	gniu11ciq1				roundtrip_mismatch	ȵy11tɕieʔ1	gniu11tciq1	
+source_clean	result_all_converted.clean.csv	1033		159					洋芋奶		yan11gniu55na52	yan11gniu55na52				roundtrip_mismatch	ɦiaŋ11ȵy55na52	yian11gniu55na52	
+source_clean	result_all_converted.clean.csv	1035		159					洋蕃薯		yan11zhiu52	yan11zhiu52				roundtrip_mismatch	ɦiaŋ11ʑy52	yian11zhiu52	
+source_clean	result_all_converted.clean.csv	1040		159					小阳生		shiau335yan55san52	shiau335yan55san52				roundtrip_mismatch	ɕiɒ335ɦiaŋ55saŋ52	shiau335yian55san52	
+source_clean	result_all_converted.clean.csv	1060		160					稻械		dau115ya52	dau115ya52				roundtrip_mismatch	dɒ115ɦia52	dau115yia52	
+source_clean	result_all_converted.clean.csv	1068		160					药性萝萄		yaq1shin55lo55dau52	yaq1shin55lo55dau52				roundtrip_mismatch	ɦiaʔ1ɕiŋ55lo55dɒ52	yiaq1shin55lo55dau52	
+source_clean	result_all_converted.clean.csv	1071		160					高脚白		kau33ciaq5baq54	kau33ciaq5baq54				roundtrip_mismatch	kɒ33tɕiaʔ5baʔ54	kau33tciaq5baq54	
+source_clean	result_all_converted.clean.csv	1079		160					卷心菜		cioen335shin55tshe52	cioen335shin55tshe52				roundtrip_mismatch	tɕiø̃335ɕiŋ55tsʰᴇ52	tcioen335shin55tshe52	
+source_clean	result_all_converted.clean.csv	1082		160					油德儿菜		yeu11teoq5gni55tshe52	yeu11teoq5gni55tshe52				roundtrip_mismatch	ɦiɤ11təʔ5ȵi55tsʰᴇ52	yieu11teoq5gni55tshe52	
+source_clean	result_all_converted.clean.csv	1083		161					油菜		yeu11tshe55	yeu11tshe55				roundtrip_mismatch	ɦiɤ11tsʰᴇ55	yieu11tshe55	
+source_clean	result_all_converted.clean.csv	1084		161					油菜		yeu11tshe55	yeu11tshe55				roundtrip_mismatch	ɦiɤ11tsʰᴇ55	yieu11tshe55	
+source_clean	result_all_converted.clean.csv	1087		161					药芹菜		yaq1jin55tshe52	yaq1jin55tshe52				roundtrip_mismatch	ɦiaʔ1dʑiŋ55tsʰᴇ52	yiaq1jin55tshe52	
+source_clean	result_all_converted.clean.csv	1095		161					一种野菜		iq3tson55ya55tshe52	iq3tson55ya55tshe52				roundtrip_mismatch	ieʔ3tsoŋ55ɦia55tsʰᴇ52	iq3tson55yia55tshe52	
+source_clean	result_all_converted.clean.csv	1096		161					韭菜		cieu335tshe52	cieu335tshe52				roundtrip_mismatch	tɕiɤ335tsʰᴇ52	tcieu335tshe52	
+source_clean	result_all_converted.clean.csv	1097		161					韭芽		cieu335ngo52	cieu335ngo52				roundtrip_mismatch	tɕiɤ335ŋo52	tcieu335ngo52	
+source_clean	result_all_converted.clean.csv	1098		161					黄芽韭菜		huaon33ngo55cieu55tshe52	huaon33ngo55cieu55tshe52				roundtrip_mismatch	huɒŋ33ŋo55tɕiɤ55tsʰᴇ52	huaon33ngo55tcieu55tshe52	
+source_clean	result_all_converted.clean.csv	1103		161					洋葱头		yan11tshon55deu52	yan11tshon55deu52				roundtrip_mismatch	ɦiaŋ11tsʰoŋ55dɤ52	yian11tshon55deu52	
+source_clean	result_all_converted.clean.csv	1104		161					生姜		san33cian52	san33cian52				roundtrip_mismatch	saŋ33tɕiaŋ52	san33tcian52	
+source_clean	result_all_converted.clean.csv	1108		161					地滑		di11waeq1	di11waeq1				roundtrip_mismatch	di11ɦuæʔ1	di11wuaeq1	
+source_clean	result_all_converted.clean.csv	1117		162					活芦		weq1lu52	weq1lu52				roundtrip_mismatch	ɦueʔ1lu52	wueq1lu52	
+source_clean	result_all_converted.clean.csv	1118		162					长虹豆		tsan335won55deu52	tsan335won55deu52				roundtrip_mismatch	tsaŋ335ɦuoŋ55dɤ52	tsan335wuon55deu52	
+source_clean	result_all_converted.clean.csv	1120		162					四季豆		sy33ci33deu33	sy33ci33deu33				roundtrip_mismatch	sɿ33tɕi33dɤ33	sy33tci33deu33	
+source_clean	result_all_converted.clean.csv	1144		162					花红		huo33won52	huo33won52				roundtrip_mismatch	huo33ɦuoŋ52	huo33wuon52	
+source_clean	result_all_converted.clean.csv	1147		163					橘子		cioeq3tsy55	cioeq3tsy55				roundtrip_mismatch	tɕiøʔ3tsɿ55	tcioeq3tsy55	
+source_clean	result_all_converted.clean.csv	1148		163					黄岩蜜橘		huaon33ngaen55miq5cioeq54	huaon33ngaen55miq5cioeq54				roundtrip_mismatch	huɒŋ33ŋæ̃55mieʔ5tɕiøʔ54	huaon33ngaen55miq5tcioeq54	
+source_clean	result_all_converted.clean.csv	1149		163					金橘		cin33cioeq5	cin33cioeq5				roundtrip_mismatch	tɕiŋ33tɕiøʔ5	tcin33tcioeq5	
+source_clean	result_all_converted.clean.csv	1156		163					洋官枣		yan11kuoen55tsau52	yan11kuoen55tsau52				roundtrip_mismatch	ɦiaŋ11kuø̃55tsɒ52	yian11kuoen55tsau52	
+source_clean	result_all_converted.clean.csv	1159		163					香蕉		shian33ciau52	shian33ciau52				roundtrip_mismatch	ɕiaŋ33tɕiɒ52	shian33tciau52	
+source_clean	result_all_converted.clean.csv	1170		163					黄金瓜		huaon33cin55kuo52	huaon33cin55kuo52				roundtrip_mismatch	huɒŋ33tɕiŋ55kuo52	huaon33tcin55kuo52	
+source_clean	result_all_converted.clean.csv	1189		164					大红袍		da11won11bau11	da11won11bau11				roundtrip_mismatch	da11ɦuoŋ11bɒ11	da11wuon11bau11	
+source_clean	result_all_converted.clean.csv	1202		164					夜饭		ya11vaen11	ya11vaen11				roundtrip_mismatch	ɦia11væ̃11	yia11vaen11	
+source_clean	result_all_converted.clean.csv	1203		165					半夜饭		poen33ya33vaen33	poen33ya33vaen33				roundtrip_mismatch	pø̃33ɦia33væ̃33	poen33yia33vaen33	
+source_clean	result_all_converted.clean.csv	1204		165					夜点心		ya11tien11shin11	ya11tien11shin11				roundtrip_mismatch	ɦia11tiẽ11ɕiŋ11	yia11tien11shin11	
+source_clean	result_all_converted.clean.csv	1205		165					半夜点心		poen33ya33tien33shin33	poen33ya33tien33shin33				roundtrip_mismatch	pø̃33ɦia33tiẽ33ɕiŋ33	poen33yia33tien33shin33	
+source_clean	result_all_converted.clean.csv	1218		165					镬焦		woq1ciau52	woq1ciau52				roundtrip_mismatch	ɦuoʔ1tɕiɒ52	wuoq1tciau52	
+source_clean	result_all_converted.clean.csv	1219		165					僵饭		cian33vaen52	cian33vaen52				roundtrip_mismatch	tɕiaŋ33væ̃52	tcian33vaen52	
+source_clean	result_all_converted.clean.csv	1225		165					养命汤		yan115min55thaon52	yan115min55thaon52				roundtrip_mismatch	ɦiaŋ115miŋ55tʰɒŋ52	yian115min55thaon52	
+source_clean	result_all_converted.clean.csv	1233		166					花卷		huo33cioen55	huo33cioen55				roundtrip_mismatch	huo33tɕiø̃55	huo33tcioen55	
+source_clean	result_all_converted.clean.csv	1242		166					饺子		ciau335tsy52	ciau335tsy52				roundtrip_mismatch	tɕiɒ335tsɿ52	tciau335tsy52	
+source_clean	result_all_converted.clean.csv	1244		166					肉		gnio11	gnio11				roundtrip_mismatch	ȵiɒ11	gniau11	
+source_clean	result_all_converted.clean.csv	1246		166					精		cin52	cin52				roundtrip_mismatch	tɕiŋ52	tcin52	
+source_clean	result_all_converted.clean.csv	1248		166					牛肉		gnieu11gnio55	gnieu11gnio55				roundtrip_mismatch	ȵiɤ11ȵiɒ55	gnieu11gniau55	
+source_clean	result_all_converted.clean.csv	1249		166					羊肉		yan11gnio55	yan11gnio55				roundtrip_mismatch	ɦiaŋ11ȵiɒ55	yian11gniau55	
+source_clean	result_all_converted.clean.csv	1252		166					猪头肉		tsy33deu55gnio52	tsy33deu55gnio52				roundtrip_mismatch	tsɿ33dɤ55ȵiɒ52	tsy33deu55gniau52	
+source_clean	result_all_converted.clean.csv	1254		166					栗子肉		liq1tsy55gnio52	liq1tsy55gnio52				roundtrip_mismatch	lieʔ1tsɿ55ȵiɒ52	liq1tsy55gniau52	
+source_clean	result_all_converted.clean.csv	1255		166					槽头肉		za11deu55gnio52	za11deu55gnio52				roundtrip_mismatch	za11dɤ55ȵiɒ52	za11deu55gniau52	
+source_clean	result_all_converted.clean.csv	1258		166					蹄筋		di11cin52	di11cin52				roundtrip_mismatch	di11tɕiŋ52	di11tcin52	
+source_clean	result_all_converted.clean.csv	1271		167					五花肉		wu115huo55gnio52	wu115huo55gnio52				roundtrip_mismatch	ɦu115huo55ȵiɒ52	wu115huo55gniau52	
+source_clean	result_all_converted.clean.csv	1272		167					瞪脯肉		teon33bu33gnio33	teon33bu33gnio33				roundtrip_mismatch	təŋ33bu33ȵiɒ33	teon33bu33gniau33	
+source_clean	result_all_converted.clean.csv	1277		167					咸肉		ghaen11gnio55	ghaen11gnio55				roundtrip_mismatch	ɦæ̃11ȵiɒ55	ghaen11gniau55	
+source_clean	result_all_converted.clean.csv	1278		167					腊肉		laeq1gnio55	laeq1gnio55				roundtrip_mismatch	læʔ1ȵiɒ55	laeq1gniau55	
+source_clean	result_all_converted.clean.csv	1280		167					风鸡		fon33ci52	fon33ci52				roundtrip_mismatch	foŋ33tɕi52	fon33tci52	
+source_clean	result_all_converted.clean.csv	1290		167					卷		cioen335	cioen335				roundtrip_mismatch	tɕiø̃335	tcioen335	
+source_clean	result_all_converted.clean.csv	1299		168					瓜卷		kuo33cioen55	kuo33cioen55				roundtrip_mismatch	kuo33tɕiø̃55	kuo33tcioen55	
+source_clean	result_all_converted.clean.csv	1304		168					晶蟹		cin33ha55	cin33ha55				roundtrip_mismatch	tɕiŋ33ha55	tcin33ha55	
+source_clean	result_all_converted.clean.csv	1307		168					珧柱		yau11jiu55	yau11jiu55				roundtrip_mismatch	ɦiɒ11dʑy55	yiau11jiu55	
+source_clean	result_all_converted.clean.csv	1308		168					开洋		khe33yan52	khe33yan52				roundtrip_mismatch	kʰᴇ33ɦiaŋ52	khe33yian52	
+source_clean	result_all_converted.clean.csv	1310		168					淮皮		wa11bi52	wa11bi52				roundtrip_mismatch	ɦua11bi52	wua11bi52	
+source_clean	result_all_converted.clean.csv	1314		168					金针菜		cin33tseen55tshe52	cin33tseen55tshe52				roundtrip_mismatch	tɕiŋ33tsẽ55tsʰᴇ52	tcin33tseen55tshe52	
+source_clean	result_all_converted.clean.csv	1328		168					酱萝萄		cian33lo33dau33	cian33lo33dau33				roundtrip_mismatch	tɕiaŋ33lo33dɒ33	tcian33lo33dau33	
+source_clean	result_all_converted.clean.csv	1331		168					酱瓜		cian33kuo33	cian33kuo33				roundtrip_mismatch	tɕiaŋ33kuo33	tcian33kuo33	
+source_clean	result_all_converted.clean.csv	1339		169					豆油皮		deu11yeu11bi11	deu11yeu11bi11				roundtrip_mismatch	dɤ11ɦiɤ11bi11	deu11yieu11bi11	
+source_clean	result_all_converted.clean.csv	1341		169					面筋		mien115cin52	mien115cin52				roundtrip_mismatch	miẽ115tɕiŋ52	mien115tcin52	
+source_clean	result_all_converted.clean.csv	1342		169					油面筋		yeu11mien55cin52	yeu11mien55cin52				roundtrip_mismatch	ɦiɤ11miẽ55tɕiŋ52	yieu11mien55tcin52	
+source_clean	result_all_converted.clean.csv	1343		169					油豆腐		yeu11deu55vu52	yeu11deu55vu52				roundtrip_mismatch	ɦiɤ11dɤ55vu52	yieu11deu55vu52	
+source_clean	result_all_converted.clean.csv	1348		169					素鸡		su33ci33	su33ci33				roundtrip_mismatch	su33tɕi33	su33tci33	
+source_clean	result_all_converted.clean.csv	1361		170					过酒配		ku33cieu33phe33	ku33cieu33phe33				roundtrip_mismatch	ku33tɕiɤ33pʰᴇ33	ku33tcieu33phe33	
+source_clean	result_all_converted.clean.csv	1370		170					扣鸡		kheu33ci33	kheu33ci33				roundtrip_mismatch	kʰɤ33tɕi33	kheu33tci33	
+source_clean	result_all_converted.clean.csv	1371		170					糟鸡		tsau33ci52	tsau33ci52				roundtrip_mismatch	tsɒ33tɕi52	tsau33tci52	
+source_clean	result_all_converted.clean.csv	1373		170					冻肉		ton33gnio55	ton33gnio55				roundtrip_mismatch	toŋ33ȵiɒ55	ton33gniau55	
+source_clean	result_all_converted.clean.csv	1374		170					扎肉		tsaq3gnio55	tsaq3gnio55				roundtrip_mismatch	tsaʔ3ȵiɒ55	tsaq3gniau55	
+source_clean	result_all_converted.clean.csv	1375		170					食用		zeoq1yon55	zeoq1yon55				roundtrip_mismatch	zəʔ1ɦioŋ55	zeoq1yion55	
+source_clean	result_all_converted.clean.csv	1378		170					烹炒猪肉		pheen33tshau55tsy55gnio52	pheen33tshau55tsy55gnio52				roundtrip_mismatch	pʰẽ33tsʰɒ55tsɿ55ȵiɒ52	pheen33tshau55tsy55gniau52	
+source_clean	result_all_converted.clean.csv	1380		170					烹炒猪肉		pheen33tshau55tsy55gnio52	pheen33tshau55tsy55gnio52				roundtrip_mismatch	pʰẽ33tsʰɒ55tsɿ55ȵiɒ52	pheen33tshau55tsy55gniau52	
+source_clean	result_all_converted.clean.csv	1381		170					菜肴		tshe33yau33	tshe33yau33				roundtrip_mismatch	tsʰᴇ33ɦiɒ33	tshe33yiau33	
+source_clean	result_all_converted.clean.csv	1386		170					白斩鸡		baq1tsaen55ci52	baq1tsaen55ci52				roundtrip_mismatch	baʔ1tsæ̃55tɕi52	baq1tsaen55tci52	
+source_clean	result_all_converted.clean.csv	1389		170					霉干菜语肉		me11keen55tshe55gniu55gnio52	me11keen55tshe55gniu55gnio52				roundtrip_mismatch	mᴇ11kẽ55tsʰᴇ55ȵy55ȵiɒ52	me11keen55tshe55gniu55gniau52	
+source_clean	result_all_converted.clean.csv	1391		170					菜肴		tshe33yau33	tshe33yau33				roundtrip_mismatch	tsʰᴇ33ɦiɒ33	tshe33yiau33	
+source_clean	result_all_converted.clean.csv	1399		171					家常便饭		cia33dzaon55bien55vaen52	cia33dzaon55bien55vaen52				roundtrip_mismatch	tɕia33dzɒŋ55biẽ55væ̃52	tcia33dzaon55bien55vaen52	
+source_clean	result_all_converted.clean.csv	1403		171					碗脚		uoen335ciaq54	uoen335ciaq54				roundtrip_mismatch	uø̃335tɕiaʔ54	uoen335tciaq54	
+source_clean	result_all_converted.clean.csv	1412		171					老酒		lau115cieu52	lau115cieu52				roundtrip_mismatch	lɒ115tɕiɤ52	lau115tcieu52	
+source_clean	result_all_converted.clean.csv	1414		171					酒合酒		cieu335keq5cieu52	cieu335keq5cieu52				roundtrip_mismatch	tɕiɤ335keʔ5tɕiɤ52	tcieu335keq5tcieu52	
+source_clean	result_all_converted.clean.csv	1415		171					新酒		shin33cieu55	shin33cieu55				roundtrip_mismatch	ɕiŋ33tɕiɤ55	shin33tcieu55	
+source_clean	result_all_converted.clean.csv	1416		171					烧酒		sau33cieu55	sau33cieu55				roundtrip_mismatch	sɒ33tɕiɤ55	sau33tcieu55	
+source_clean	result_all_converted.clean.csv	1417		171					白酒		baq1cieu55	baq1cieu55				roundtrip_mismatch	baʔ1tɕiɤ55	baq1tcieu55	
+source_clean	result_all_converted.clean.csv	1419		171					啤酒		cieu335	cieu335				roundtrip_mismatch	tɕiɤ335	tcieu335	
+source_clean	result_all_converted.clean.csv	1420		171					葡萄酒		bu11dau55cieu52	bu11dau55cieu52				roundtrip_mismatch	bu11dɒ55tɕiɤ52	bu11dau55tcieu52	
+source_clean	result_all_converted.clean.csv	1437		172					寸金糖		tsheen33cin33daon33	tsheen33cin33daon33				roundtrip_mismatch	tsʰẽ33tɕiŋ33dɒŋ33	tsheen33tcin33daon33	
+source_clean	result_all_converted.clean.csv	1441		172					鸡胗豆		ci33deu55	ci33deu55				roundtrip_mismatch	tɕi33dɤ55	tci33deu55	
+source_clean	result_all_converted.clean.csv	1443		172					红枣		won11tsau55	won11tsau55				roundtrip_mismatch	ɦuoŋ11tsɒ55	wuon11tsau55	
+source_clean	result_all_converted.clean.csv	1450		172					桂圆肉		kue33yoen33gnio33	kue33yoen33gnio33				roundtrip_mismatch	kuᴇ33ɦiø̃33ȵiɒ33	kue33yoen33gniau33	
+source_clean	result_all_converted.clean.csv	1452		172					胡桃肉		lu11dau55gnio52	lu11dau55gnio52				roundtrip_mismatch	lu11dɒ55ȵiɒ52	lu11dau55gniau52	
+source_clean	result_all_converted.clean.csv	1453		172					小胡桃肉		shiau335lu55dau55gnio52	shiau335lu55dau55gnio52				roundtrip_mismatch	ɕiɒ335lu55dɒ55ȵiɒ52	shiau335lu55dau55gniau52	
+source_clean	result_all_converted.clean.csv	1462		173					鸡骨头糕干		ci33kueq5deu55kau55keen52	ci33kueq5deu55kau55keen52				roundtrip_mismatch	tɕi33kueʔ5dɤ55kɒ55kẽ52	tci33kueq5deu55kau55keen52	
+source_clean	result_all_converted.clean.csv	1464		173					鸡蛋糕		ci33daen55kau52	ci33daen55kau52				roundtrip_mismatch	tɕi33dæ̃55kɒ52	tci33daen55kau52	
+source_clean	result_all_converted.clean.csv	1475		173					猪油年糕		tsy33yeu55gnien55kau52	tsy33yeu55gnien55kau52				roundtrip_mismatch	tsɿ33ɦiɤ55ȵiẽ55kɒ52	tsy33yieu55gnien55kau52	
+source_clean	result_all_converted.clean.csv	1476		173					油条		yeu11tiau52	yeu11tiau52				roundtrip_mismatch	ɦiɤ11tiɒ52	yieu11tiau52	
+source_clean	result_all_converted.clean.csv	1477		173					油子		yeu11tsy55	yeu11tsy55				roundtrip_mismatch	ɦiɤ11tsɿ55	yieu11tsy55	
+source_clean	result_all_converted.clean.csv	1478		173					油饼		yeu11pin55	yeu11pin55				roundtrip_mismatch	ɦiɤ11piŋ55	yieu11pin55	
+source_clean	result_all_converted.clean.csv	1480		173					春卷		tsheen33cioen55	tsheen33cioen55				roundtrip_mismatch	tsʰẽ33tɕiø̃55	tsheen33tcioen55	
+source_clean	result_all_converted.clean.csv	1484		173					艾饺		nge11ciau11	nge11ciau11				roundtrip_mismatch	ŋᴇ11tɕiɒ11	nge11tciau11	
+source_clean	result_all_converted.clean.csv	1488		174					甜酒酿		dien11cieu55gnian52	dien11cieu55gnian52				roundtrip_mismatch	diẽ11tɕiɤ55ȵiaŋ52	dien11tcieu55gnian52	
+source_clean	result_all_converted.clean.csv	1489		174					豆腐浆		deu11vu11cian11	deu11vu11cian11				roundtrip_mismatch	dɤ11vu11tɕiaŋ11	deu11vu11tcian11	
+source_clean	result_all_converted.clean.csv	1496		174					麻油		mo11yeu52	mo11yeu52				roundtrip_mismatch	mo11ɦiɤ52	mo11yieu52	
+source_clean	result_all_converted.clean.csv	1497		174					小车麻油		shiau335ciu55mo55yeu52	shiau335ciu55mo55yeu52				roundtrip_mismatch	ɕiɒ335tɕy55mo55ɦiɤ52	shiau335tciu55mo55yieu52	
+source_clean	result_all_converted.clean.csv	1498		174					麻酱		mo11cian55	mo11cian55				roundtrip_mismatch	mo11tɕiaŋ55	mo11tcian55	
+source_clean	result_all_converted.clean.csv	1499		174					生油		san33yeu52	san33yeu52				roundtrip_mismatch	saŋ33ɦiɤ52	san33yieu52	
+source_clean	result_all_converted.clean.csv	1500		174					花生油		huo33san55yeu52	huo33san55yeu52				roundtrip_mismatch	huo33saŋ55ɦiɤ52	huo33san55yieu52	
+source_clean	result_all_converted.clean.csv	1501		174					豆油		deu11yeu11	deu11yeu11				roundtrip_mismatch	dɤ11ɦiɤ11	deu11yieu11	
+source_clean	result_all_converted.clean.csv	1502		174					香油		shian33yeu52	shian33yeu52				roundtrip_mismatch	ɕiaŋ33ɦiɤ52	shian33yieu52	
+source_clean	result_all_converted.clean.csv	1503		174					菜籽油		tshe33tsy33yeu33	tshe33tsy33yeu33				roundtrip_mismatch	tsʰᴇ33tsɿ33ɦiɤ33	tshe33tsy33yieu33	
+source_clean	result_all_converted.clean.csv	1504		174					菜油		tshe33yeu33	tshe33yeu33				roundtrip_mismatch	tsʰᴇ33ɦiɤ33	tshe33yieu33	
+source_clean	result_all_converted.clean.csv	1505		174					茶油		dzo11yeu52	dzo11yeu52				roundtrip_mismatch	dzo11ɦiɤ52	dzo11yieu52	
+source_clean	result_all_converted.clean.csv	1506		174					猪油		tsy33yeu52	tsy33yeu52				roundtrip_mismatch	tsɿ33ɦiɤ52	tsy33yieu52	
+source_clean	result_all_converted.clean.csv	1510		174					豆板酱		deu11paen11cian11	deu11paen11cian11				roundtrip_mismatch	dɤ11pæ̃11tɕiaŋ11	deu11paen11tcian11	
+source_clean	result_all_converted.clean.csv	1511		174					甜面酱		dien11mien55cian52	dien11mien55cian52				roundtrip_mismatch	diẽ11miẽ55tɕiaŋ52	dien11mien55tcian52	
+source_clean	result_all_converted.clean.csv	1512		174					辣酱		laeq1cian55	laeq1cian55				roundtrip_mismatch	læʔ1tɕiaŋ55	laeq1tcian55	
+source_clean	result_all_converted.clean.csv	1513		174					酱油		cian33yeu33	cian33yeu33				roundtrip_mismatch	tɕiaŋ33ɦiɤ33	tcian33yieu33	
+source_clean	result_all_converted.clean.csv	1514		174					母子油		mu115tsy55yeu52	mu115tsy55yeu52				roundtrip_mismatch	mu115tsɿ55ɦiɤ52	mu115tsy55yieu52	
+source_clean	result_all_converted.clean.csv	1515		174					太油		tha33yeu33	tha33yeu33				roundtrip_mismatch	tʰa33ɦiɤ33	tha33yieu33	
+source_clean	result_all_converted.clean.csv	1518		174					红糖		won11daon52	won11daon52				roundtrip_mismatch	ɦuoŋ11dɒŋ52	wuon11daon52	
+source_clean	result_all_converted.clean.csv	1523		175					红砂糖		won11so55daon52	won11so55daon52				roundtrip_mismatch	ɦuoŋ11so55dɒŋ52	wuon11so55daon52	
+source_clean	result_all_converted.clean.csv	1526		175					味精		bi11cin11	bi11cin11				roundtrip_mismatch	bi11tɕiŋ11	bi11tcin11	
+source_clean	result_all_converted.clean.csv	1528		175					茴香		we11shian52	we11shian52				roundtrip_mismatch	ɦuᴇ11ɕiaŋ52	wue11shian52	
+source_clean	result_all_converted.clean.csv	1530		175					花椒		huo33ciau52	huo33ciau52				roundtrip_mismatch	huo33tɕiɒ52	huo33tciau52	
+source_clean	result_all_converted.clean.csv	1531		175					胡椒		lu11ciau52	lu11ciau52				roundtrip_mismatch	lu11tɕiɒ52	lu11tciau52	
+source_clean	result_all_converted.clean.csv	1532		175					胡椒粉		lu11ciau55feen52	lu11ciau55feen52				roundtrip_mismatch	lu11tɕiɒ55fẽ52	lu11tciau55feen52	
+source_clean	result_all_converted.clean.csv	1533		175					辣椒粉		laeq1ciau55feen52	laeq1ciau55feen52				roundtrip_mismatch	læʔ1tɕiɒ55fẽ52	laeq1tciau55feen52	
+source_clean	result_all_converted.clean.csv	1535		175					生姜丁		san33cian55tin52	san33cian55tin52				roundtrip_mismatch	saŋ33tɕiaŋ55tiŋ52	san33tcian55tin52	
+source_clean	result_all_converted.clean.csv	1540		175					甜水缸脚		dien11sy55kaon55ciaq54	dien11sy55kaon55ciaq54				roundtrip_mismatch	diẽ11sɿ55kɒŋ55tɕiaʔ54	dien11sy55kaon55tciaq54	
+source_clean	result_all_converted.clean.csv	1551		176					哔叽		piq3ci52	piq3ci52				roundtrip_mismatch	pieʔ3tɕi52	piq3tci52	
+source_clean	result_all_converted.clean.csv	1577		176					羊皮		yan11bi52	yan11bi52				roundtrip_mismatch	ɦiaŋ11bi52	yian11bi52	
+source_clean	result_all_converted.clean.csv	1606		177					卫生衫		we115san55saen52	we115san55saen52				roundtrip_mismatch	ɦuᴇ115saŋ55sæ̃52	wue115san55saen52	
+source_clean	result_all_converted.clean.csv	1610		178					卫生裤		we115san55khu52	we115san55khu52				roundtrip_mismatch	ɦuᴇ115saŋ55kʰu52	wue115san55khu52	
+source_clean	result_all_converted.clean.csv	1625		178					短脚裤		toen335ciaq5khu52	toen335ciaq5khu52				roundtrip_mismatch	tø̃335tɕiaʔ5kʰu52	toen335tciaq5khu52	
+source_clean	result_all_converted.clean.csv	1631		178					连脚裤		lien11ciaq5khu52	lien11ciaq5khu52				roundtrip_mismatch	liẽ11tɕiaʔ5kʰu52	lien11tciaq5khu52	
+source_clean	result_all_converted.clean.csv	1632		178					田鸡皮		dien11ci55bi52	dien11ci55bi52				roundtrip_mismatch	diẽ11tɕi55bi52	dien11tci55bi52	
+source_clean	result_all_converted.clean.csv	1642		179					肩		cien52	cien52				roundtrip_mismatch	tɕiẽ52	tcien52	
+source_clean	result_all_converted.clean.csv	1643		179					肩		cien52	cien52				roundtrip_mismatch	tɕiẽ52	tcien52	
+source_clean	result_all_converted.clean.csv	1647		179					大襟		da11cin11	da11cin11				roundtrip_mismatch	da11tɕiŋ11	da11tcin11	
+source_clean	result_all_converted.clean.csv	1648		179					小襟		shiau335cin52	shiau335cin52				roundtrip_mismatch	ɕiɒ335tɕiŋ52	shiau335tcin52	
+source_clean	result_all_converted.clean.csv	1651		179					下裾头		gho115ciu55deu52	gho115ciu55deu52				roundtrip_mismatch	ɦo115tɕy55dɤ52	gho115tciu55deu52	
+source_clean	result_all_converted.clean.csv	1657		179					裤脚管		khu33ciaq3kuoen33	khu33ciaq3kuoen33				roundtrip_mismatch	kʰu33tɕiaʔ3kuø̃33	khu33tciaq3kuoen33	
+source_clean	result_all_converted.clean.csv	1658		179					裤脚		khu33ciaq3	khu33ciaq3				roundtrip_mismatch	kʰu33tɕiaʔ3	khu33tciaq3	
+source_clean	result_all_converted.clean.csv	1659		179					裤脚头		khu33ciaq3deu33	khu33ciaq3deu33				roundtrip_mismatch	kʰu33tɕiaʔ3dɤ33	khu33tciaq3deu33	
+source_clean	result_all_converted.clean.csv	1667		179					垫肩		dien11cien11	dien11cien11				roundtrip_mismatch	diẽ11tɕiẽ11	dien11tcien11	
+source_clean	result_all_converted.clean.csv	1676		180					风纪扣		fon33ci55kheu52	fon33ci55kheu52				roundtrip_mismatch	foŋ33tɕi55kʰɤ52	fon33tci55kheu52	
+source_clean	result_all_converted.clean.csv	1683		180					油豆腐帽		yeu11deu55vu55ma52	yeu11deu55vu55ma52				roundtrip_mismatch	ɦiɤ11dɤ55vu55ma52	yieu11deu55vu55ma52	
+source_clean	result_all_converted.clean.csv	1687		180					头巾		deu11cin52	deu11cin52				roundtrip_mismatch	dɤ11tɕiŋ52	deu11tcin52	
+source_clean	result_all_converted.clean.csv	1689		180					围巾		yu11cin52	yu11cin52				roundtrip_mismatch	ɦy11tɕiŋ52	yu11tcin52	
+source_clean	result_all_converted.clean.csv	1703		181					洋袜		yan11maeq5	yan11maeq5				roundtrip_mismatch	ɦiaŋ11mæʔ5	yian11maeq5	
+source_clean	result_all_converted.clean.csv	1706		181					宽紧带		khuoen33cin55ta52	khuoen33cin55ta52				roundtrip_mismatch	kʰuø̃33tɕiŋ55ta52	khuoen33tcin55ta52	
+source_clean	result_all_converted.clean.csv	1707		181					吊脚襻		tiau33ciaq3phaen33	tiau33ciaq3phaen33				roundtrip_mismatch	tiɒ33tɕiaʔ3pʰæ̃33	tiau33tciaq3phaen33	
+source_clean	result_all_converted.clean.csv	1708		181					洋巾		yan11cin52	yan11cin52				roundtrip_mismatch	ɦiaŋ11tɕiŋ52	yian11tcin52	
+source_clean	result_all_converted.clean.csv	1710		181					洋绢		yan11cioen55	yan11cioen55				roundtrip_mismatch	ɦiaŋ11tɕiø̃55	yian11tcioen55	
+source_clean	result_all_converted.clean.csv	1747		182					脚镯		ciaq3dzoq5	ciaq3dzoq5				roundtrip_mismatch	tɕiaʔ3dzoʔ5	tciaq3dzoq5	
+source_clean	result_all_converted.clean.csv	1753		182					红骨签		won11kueq5chien52	won11kueq5chien52				roundtrip_mismatch	ɦuoŋ11kueʔ5tɕʰiẽ52	wuon11kueq5chien52	
+source_clean	result_all_converted.clean.csv	1754		182					蝴蝶结		wu11diaq5ciq54	wu11diaq5ciq54				roundtrip_mismatch	ɦu11diaʔ5tɕieʔ54	wu11diaq5tciq54	
+source_clean	result_all_converted.clean.csv	1762		183					羊角辫子		yan11koq5bien55tsy52	yan11koq5bien55tsy52				roundtrip_mismatch	ɦiaŋ11koʔ5biẽ55tsɿ52	yian11koq5bien55tsy52	
+source_clean	result_all_converted.clean.csv	1766		183					朝前髻		tsau33jien55ci52	tsau33jien55ci52				roundtrip_mismatch	tsɒ33dʑiẽ55tɕi52	tsau33jien55tci52	
+source_clean	result_all_converted.clean.csv	1771		183					人家		zeen11cia52	zeen11cia52				roundtrip_mismatch	zẽ11tɕia52	zeen11tcia52	
+source_clean	result_all_converted.clean.csv	1772		183					人家屋里		zeen11cia55uoq5li52	zeen11cia55uoq5li52				roundtrip_mismatch	zẽ11tɕia55uoʔ5li52	zeen11tcia55uoq5li52	
+source_clean	result_all_converted.clean.csv	1774		183					住家		jiu11cia11	jiu11cia11				roundtrip_mismatch	dʑy11tɕia11	jiu11tcia11	
+source_clean	result_all_converted.clean.csv	1780		183					天井		thien33cin55	thien33cin55				roundtrip_mismatch	tʰiẽ33tɕiŋ55	thien33tcin55	
+source_clean	result_all_converted.clean.csv	1782		183					疆步		cian33bu55	cian33bu55				roundtrip_mismatch	tɕiaŋ33bu55	tcian33bu55	
+source_clean	result_all_converted.clean.csv	1783		183					疆蹋档		cian33thaeq5taon52	cian33thaeq5taon52				roundtrip_mismatch	tɕiaŋ33tʰæʔ5tɒŋ52	tcian33thaeq5taon52	
+source_clean	result_all_converted.clean.csv	1806		184					间架		kaen33cia55	kaen33cia55				roundtrip_mismatch	kæ̃33tɕia55	kaen33tcia55	
+source_clean	result_all_converted.clean.csv	1807		184					进		cin33	cin33				roundtrip_mismatch	tɕiŋ33	tcin33	
+source_clean	result_all_converted.clean.csv	1827		185					卫生间		we115san55kaen52	we115san55kaen52				roundtrip_mismatch	ɦuᴇ115saŋ55kæ̃52	wue115san55kaen52	
+source_clean	result_all_converted.clean.csv	1831		185					屋脊		uoq3ciq5	uoq3ciq5				roundtrip_mismatch	uoʔ3tɕieʔ5	uoq3tciq5	
+source_clean	result_all_converted.clean.csv	1838		185					柱脚		jiu115ciaq54	jiu115ciaq54				roundtrip_mismatch	dʑy115tɕiaʔ54	jiu115tciaq54	
+source_clean	result_all_converted.clean.csv	1847		185					墙脚		jian11ciaq5	jian11ciaq5				roundtrip_mismatch	dʑiaŋ11tɕiaʔ5	jian11tciaq5	
+source_clean	result_all_converted.clean.csv	1871		186					阳台		yan11the52	yan11the52				roundtrip_mismatch	ɦiaŋ11tʰᴇ52	yian11the52	
+source_clean	result_all_converted.clean.csv	1879		186					烟肉		ien33gnio55	ien33gnio55				roundtrip_mismatch	iẽ33ȵiɒ55	ien33gniau55	
+source_clean	result_all_converted.clean.csv	1880		186					井		cin335	cin335				roundtrip_mismatch	tɕiŋ335	tcin335	
+source_clean	result_all_converted.clean.csv	1881		186					井栏		cin335laen52	cin335laen52				roundtrip_mismatch	tɕiŋ335læ̃52	tcin335laen52	
+source_clean	result_all_converted.clean.csv	1882		186					井口的石栏		cin335kheu55tiq5zaq5laen52	cin335kheu55tiq5zaq5laen52				roundtrip_mismatch	tɕiŋ335kʰɤ55tieʔ5zaʔ5læ̃52	tcin335kheu55tiq5zaq5laen52	
+source_clean	result_all_converted.clean.csv	1883		186					井台		cin335the52	cin335the52				roundtrip_mismatch	tɕiŋ335tʰᴇ52	tcin335the52	
+source_clean	result_all_converted.clean.csv	1884		187					地容子		di11yon11tsy11	di11yon11tsy11				roundtrip_mismatch	di11ɦioŋ11tsɿ11	di11yion11tsy11	
+source_clean	result_all_converted.clean.csv	1887		187					阳沟		yan11keu52	yan11keu52				roundtrip_mismatch	ɦiaŋ11kɤ52	yian11keu52	
+source_clean	result_all_converted.clean.csv	1892		187					鸡窠		ci33kho52	ci33kho52				roundtrip_mismatch	tɕi33kʰo52	tci33kho52	
+source_clean	result_all_converted.clean.csv	1893		187					鸡笼		ci33lon52	ci33lon52				roundtrip_mismatch	tɕi33loŋ52	tci33lon52	
+source_clean	result_all_converted.clean.csv	1894		187					鸡		ci52	ci52				roundtrip_mismatch	tɕi52	tci52	
+source_clean	result_all_converted.clean.csv	1896		188					用首		yon11seu11	yon11seu11				roundtrip_mismatch	ɦioŋ11sɤ11	yion11seu11	
+source_clean	result_all_converted.clean.csv	1897		188					硬木家生		ngan11moq1cia11san11	ngan11moq1cia11san11				roundtrip_mismatch	ŋaŋ11moʔ1tɕia11saŋ11	ngan11moq1tcia11san11	
+source_clean	result_all_converted.clean.csv	1898		188					硬头家生		ngan11deu11cia11san11	ngan11deu11cia11san11				roundtrip_mismatch	ŋaŋ11dɤ11tɕia11saŋ11	ngan11deu11tcia11san11	
+source_clean	result_all_converted.clean.csv	1918		189					茶几		dzo11ci52	dzo11ci52				roundtrip_mismatch	dzo11tɕi52	dzo11tci52	
+source_clean	result_all_converted.clean.csv	1950		190					书架		shiu33cia55	shiu33cia55				roundtrip_mismatch	ɕy33tɕia55	shiu33tcia55	
+source_clean	result_all_converted.clean.csv	1956		190					床脚柜		zaon11ciaq5jiu52	zaon11ciaq5jiu52				roundtrip_mismatch	zɒŋ11tɕiaʔ5dʑy52	zaon11tciaq5jiu52	
+source_clean	result_all_converted.clean.csv	1963		190					踏脚		daeq1ciaq5	daeq1ciaq5				roundtrip_mismatch	dæʔ1tɕiaʔ5	daeq1tciaq5	
+source_clean	result_all_converted.clean.csv	1973		190					凳上使用		teon33zan33sy33yon33	teon33zan33sy33yon33				roundtrip_mismatch	təŋ33zaŋ33sɿ33ɦioŋ33	teon33zan33sy33yion33	
+source_clean	result_all_converted.clean.csv	1979		191					夜壶箱		ya11wu11shian11	ya11wu11shian11				roundtrip_mismatch	ɦia11ɦu11ɕiaŋ11	yia11wu11shian11	
+source_clean	result_all_converted.clean.csv	2017		192					枕巾		tseen335cin52	tseen335cin52				roundtrip_mismatch	tsẽ335tɕiŋ52	tseen335tcin52	
+source_clean	result_all_converted.clean.csv	2035		192					稿荐		kau335cien52	kau335cien52				roundtrip_mismatch	kɒ335tɕiẽ52	kau335tcien52	
+source_clean	result_all_converted.clean.csv	2036		193					生活笑		san33weq5shiau52	san33weq5shiau52				roundtrip_mismatch	saŋ33ɦueʔ5ɕiɒ52	san33wueq5shiau52	
+source_clean	result_all_converted.clean.csv	2041		193					坐车		zo115ciu52	zo115ciu52				roundtrip_mismatch	zo115tɕy52	zo115tciu52	
+source_clean	result_all_converted.clean.csv	2060		193					镬		woq23	woq23				roundtrip_mismatch	ɦuoʔ23	wuoq23	
+source_clean	result_all_converted.clean.csv	2061		193					饭镬		vaen11woq5	vaen11woq5				roundtrip_mismatch	væ̃11ɦuoʔ5	vaen11wuoq5	
+source_clean	result_all_converted.clean.csv	2063		193					镬		woq23	woq23				roundtrip_mismatch	ɦuoʔ23	wuoq23	
+source_clean	result_all_converted.clean.csv	2075		194					饭架		vaen11cia55	vaen11cia55				roundtrip_mismatch	væ̃11tɕia55	vaen11tcia55	
+source_clean	result_all_converted.clean.csv	2077		194					高脚		kau33ciaq5	kau33ciaq5				roundtrip_mismatch	kɒ33tɕiaʔ5	kau33tciaq5	
+source_clean	result_all_converted.clean.csv	2079		194					镬抢		woq1chian55	woq1chian55				roundtrip_mismatch	ɦuoʔ1tɕʰiaŋ55	wuoq1chian55	
+source_clean	result_all_converted.clean.csv	2088		194					筲箕		sau33ci52	sau33ci52				roundtrip_mismatch	sɒ33tɕi52	sau33tci52	
+source_clean	result_all_converted.clean.csv	2095		194					高脚碗		kau33ciaq5uoen52	kau33ciaq5uoen52				roundtrip_mismatch	kɒ33tɕiaʔ5uø̃52	kau33tciaq5uoen52	
+source_clean	result_all_converted.clean.csv	2100		195					酒盅		cieu335tson52	cieu335tson52				roundtrip_mismatch	tɕiɤ335tsoŋ52	tcieu335tson52	
+source_clean	result_all_converted.clean.csv	2101		195					老酒壶		lau115cieu55wu52	lau115cieu55wu52				roundtrip_mismatch	lɒ115tɕiɤ55ɦu52	lau115tcieu55wu52	
+source_clean	result_all_converted.clean.csv	2102		195					急苏壶		ciq3su55wu52	ciq3su55wu52				roundtrip_mismatch	tɕieʔ3su55ɦu52	tciq3su55wu52	
+source_clean	result_all_converted.clean.csv	2103		195					酒呷		cieu335haeq54	cieu335haeq54				roundtrip_mismatch	tɕiɤ335hæʔ54	tcieu335haeq54	
+source_clean	result_all_converted.clean.csv	2111		195					碗架		uoen335cia52	uoen335cia52				roundtrip_mismatch	uø̃335tɕia52	uoen335tcia52	
+source_clean	result_all_converted.clean.csv	2133		196					油墩		yeu11toen52	yeu11toen52				roundtrip_mismatch	ɦiɤ11tø̃52	yieu11toen52	
+source_clean	result_all_converted.clean.csv	2150		196					鸡槽		ci33za52	ci33za52				roundtrip_mismatch	tɕi33za52	tci33za52	
+source_clean	result_all_converted.clean.csv	2152		196					接近取食		ciq3jin55chiu55zeoq54	ciq3jin55chiu55zeoq54				roundtrip_mismatch	tɕieʔ3dʑiŋ55tɕʰy55zəʔ54	tciq3jin55chiu55zeoq54	
+source_clean	result_all_converted.clean.csv	2173		197					煤油		me11yeu52	me11yeu52				roundtrip_mismatch	mᴇ11ɦiɤ52	me11yieu52	
+source_clean	result_all_converted.clean.csv	2174		197					洋油		yan11yeu52	yan11yeu52				roundtrip_mismatch	ɦiaŋ11ɦiɤ52	yian11yieu52	
+source_clean	result_all_converted.clean.csv	2175		197					火油		hu335yeu52	hu335yeu52				roundtrip_mismatch	hu335ɦiɤ52	hu335yieu52	
+source_clean	result_all_converted.clean.csv	2176		197					汽油		chi33yeu33	chi33yeu33				roundtrip_mismatch	tɕʰi33ɦiɤ33	chi33yieu33	
+source_clean	result_all_converted.clean.csv	2179		197					鉴来火		cien33le33hu33	cien33le33hu33				roundtrip_mismatch	tɕiẽ33lᴇ33hu33	tcien33le33hu33	
+source_clean	result_all_converted.clean.csv	2185		197					镬灰		woq1hue52	woq1hue52				roundtrip_mismatch	ɦuoʔ1huᴇ52	wuoq1hue52	
+source_clean	result_all_converted.clean.csv	2189		197					油灯盏		yeu11teon55tsaen52	yeu11teon55tsaen52				roundtrip_mismatch	ɦiɤ11təŋ55tsæ̃52	yieu11teon55tsaen52	
+source_clean	result_all_converted.clean.csv	2193		198					洋油灯		yan11yeu55teon52	yan11yeu55teon52				roundtrip_mismatch	ɦiaŋ11ɦiɤ55təŋ52	yian11yieu55teon52	
+source_clean	result_all_converted.clean.csv	2210		198					电油		dien11yeu11	dien11yeu11				roundtrip_mismatch	diẽ11ɦiɤ11	dien11yieu11	
+source_clean	result_all_converted.clean.csv	2212		198					洋蜡烛		yan11laeq5tsoq54	yan11laeq5tsoq54				roundtrip_mismatch	ɦiaŋ11læʔ5tsoʔ54	yian11laeq5tsoq54	
+source_clean	result_all_converted.clean.csv	2221		199					脸盆架		lien115been55cia52	lien115been55cia52				roundtrip_mismatch	liẽ115bẽ55tɕia52	lien115been55tcia52	
+source_clean	result_all_converted.clean.csv	2222		199					脚桶		ciaq3don55	ciaq3don55				roundtrip_mismatch	tɕiaʔ3doŋ55	tciaq3don55	
+source_clean	result_all_converted.clean.csv	2224		199					手巾		seu335cin52	seu335cin52				roundtrip_mismatch	sɤ335tɕiŋ52	seu335tcin52	
+source_clean	result_all_converted.clean.csv	2225		199					脚布		ciaq3pu55	ciaq3pu55				roundtrip_mismatch	tɕiaʔ3pu55	tciaq3pu55	
+source_clean	result_all_converted.clean.csv	2226		199					擦脚布		tshaeq3ciaq5pu52	tshaeq3ciaq5pu52				roundtrip_mismatch	tsʰæʔ3tɕiaʔ5pu52	tshaeq3tciaq5pu52	
+source_clean	result_all_converted.clean.csv	2228		199					洋肥皂		yan11bi55zau52	yan11bi55zau52				roundtrip_mismatch	ɦiaŋ11bi55zɒ52	yian11bi55zau52	
+source_clean	result_all_converted.clean.csv	2230		199					药水肥皂		yaq1sy55bi55zau52	yaq1sy55bi55zau52				roundtrip_mismatch	ɦiaʔ1sɿ55bi55zɒ52	yiaq1sy55bi55zau52	
+source_clean	result_all_converted.clean.csv	2233		199					生发油		san33faeq5yeu52	san33faeq5yeu52				roundtrip_mismatch	saŋ33fæʔ5ɦiɤ52	san33faeq5yieu52	
+source_clean	result_all_converted.clean.csv	2238		199					浇水壶		ciau33sy55wu52	ciau33sy55wu52				roundtrip_mismatch	tɕiɒ33sɿ55ɦu52	tciau33sy55wu52	
+source_clean	result_all_converted.clean.csv	2245		199					梳头家生		su33deu55cia55san52	su33deu55cia55san52				roundtrip_mismatch	su33dɤ55tɕia55saŋ52	su33deu55tcia55san52	
+source_clean	result_all_converted.clean.csv	2246		199					镜		cin33	cin33				roundtrip_mismatch	tɕiŋ33	tcin33	
+source_clean	result_all_converted.clean.csv	2248		199					篦箕		bi11ci11	bi11ci11				roundtrip_mismatch	bi11tɕi11	bi11tci11	
+source_clean	result_all_converted.clean.csv	2259		200					三脚		saen33ciaq5	saen33ciaq5				roundtrip_mismatch	sæ̃33tɕiaʔ5	saen33tciaq5	
+source_clean	result_all_converted.clean.csv	2270		200					筲箕奋斗		sau33ci55feen55teu52	sau33ci55feen55teu52				roundtrip_mismatch	sɒ33tɕi55fẽ55tɤ52	sau33tci55feen55teu52	
+source_clean	result_all_converted.clean.csv	2279		200					夜壶		ya11wu11	ya11wu11				roundtrip_mismatch	ɦia11ɦu11	yia11wu11	
+source_clean	result_all_converted.clean.csv	2286		201					洋车		yan11ciu52	yan11ciu52				roundtrip_mismatch	ɦiaŋ11tɕy52	yian11tciu52	
+source_clean	result_all_converted.clean.csv	2296		201					花车		huo33ciu52	huo33ciu52				roundtrip_mismatch	huo33tɕy52	huo33tciu52	
+source_clean	result_all_converted.clean.csv	2297		201					纬绩头		yu11ciq1deu11	yu11ciq1deu11				roundtrip_mismatch	ɦy11tɕieʔ1dɤ11	yu11tciq1deu11	
+source_clean	result_all_converted.clean.csv	2298		201					结头		ciq3deu52	ciq3deu52				roundtrip_mismatch	tɕieʔ3dɤ52	tciq3deu52	
+source_clean	result_all_converted.clean.csv	2299		201					结		ciq45	ciq45				roundtrip_mismatch	tɕieʔ45	tciq45	
+source_clean	result_all_converted.clean.csv	2300		201					抽股结		tsheu33ku55ciq54	tsheu33ku55ciq54				roundtrip_mismatch	tsʰɤ33ku55tɕieʔ54	tsheu33ku55tciq54	
+source_clean	result_all_converted.clean.csv	2301		201					线脚		shien33ciaq3	shien33ciaq3				roundtrip_mismatch	ɕiẽ33tɕiaʔ3	shien33tciaq3	
+source_clean	result_all_converted.clean.csv	2316		202					近视眼镜		jin115zy55ngaen55cin52	jin115zy55ngaen55cin52				roundtrip_mismatch	dʑiŋ115zɿ55ŋæ̃55tɕiŋ52	jin115zy55ngaen55tcin52	
+source_clean	result_all_converted.clean.csv	2318		202					太阳眼镜		tha33yan33ngaen33cin33	tha33yan33ngaen33cin33				roundtrip_mismatch	tʰa33ɦiaŋ33ŋæ̃33tɕiŋ33	tha33yian33ngaen33tcin33	
+source_clean	result_all_converted.clean.csv	2319		202					太阳镜		tha33yan33cin33	tha33yan33cin33				roundtrip_mismatch	tʰa33ɦiaŋ33tɕiŋ33	tha33yian33tcin33	
+source_clean	result_all_converted.clean.csv	2320		202					茶视眼镜		dzo11zy55ngaen55cin52	dzo11zy55ngaen55cin52				roundtrip_mismatch	dzo11zɿ55ŋæ̃55tɕiŋ52	dzo11zy55ngaen55tcin52	
+source_clean	result_all_converted.clean.csv	2321		202					风镜		fon33cin55	fon33cin55				roundtrip_mismatch	foŋ33tɕiŋ55	fon33tcin55	
+source_clean	result_all_converted.clean.csv	2322		202					望远镜		man11yoen11cin11	man11yoen11cin11				roundtrip_mismatch	maŋ11ɦiø̃11tɕiŋ11	man11yoen11tcin11	
+source_clean	result_all_converted.clean.csv	2323		202					穿衣镜		tsheen33i55cin52	tsheen33i55cin52				roundtrip_mismatch	tsʰẽ33i55tɕiŋ52	tsheen33i55tcin52	
+source_clean	result_all_converted.clean.csv	2325		202					阳伞		yan11saen55	yan11saen55				roundtrip_mismatch	ɦiaŋ11sæ̃55	yian11saen55	
+source_clean	result_all_converted.clean.csv	2327		202					油布伞		yeu11pu55saen52	yeu11pu55saen52				roundtrip_mismatch	ɦiɤ11pu55sæ̃52	yieu11pu55saen52	
+source_clean	result_all_converted.clean.csv	2331		202					芭蕉扇		po33ciau55seen52	po33ciau55seen52				roundtrip_mismatch	po33tɕiɒ55sẽ52	po33tciau55seen52	
+source_clean	result_all_converted.clean.csv	2332		202					油纸扇		yeu11tsy55seen52	yeu11tsy55seen52				roundtrip_mismatch	ɦiɤ11tsɿ55sẽ52	yieu11tsy55seen52	
+source_clean	result_all_converted.clean.csv	2336		202					钥匙		yaq1zy52	yaq1zy52				roundtrip_mismatch	ɦiaʔ1zɿ52	yiaq1zy52	
+source_clean	result_all_converted.clean.csv	2342		203					电视机		dien11zy11ci11	dien11zy11ci11				roundtrip_mismatch	diẽ11zɿ11tɕi11	dien11zy11tci11	
+source_clean	result_all_converted.clean.csv	2351		203					摇皮		yau11bi52	yau11bi52				roundtrip_mismatch	ɦiɒ11bi52	yiau11bi52	
+source_clean	result_all_converted.clean.csv	2358		203					剪刀		cien335tau52	cien335tau52				roundtrip_mismatch	tɕiẽ335tɒ52	tcien335tau52	
+source_clean	result_all_converted.clean.csv	2367		203					轧剪		gaeq1cien55	gaeq1cien55				roundtrip_mismatch	ɡæʔ1tɕiẽ55	gaeq1tcien55	
+source_clean	result_all_converted.clean.csv	2371		204					锯		ciu33	ciu33				roundtrip_mismatch	tɕy33	tciu33	
+source_clean	result_all_converted.clean.csv	2389		204					井轴头		cin335jioeq5deu52	cin335jioeq5deu52				roundtrip_mismatch	tɕiŋ335dʑiøʔ5dɤ52	tcin335jioeq5deu52	
+source_clean	result_all_converted.clean.csv	2393		204					指滑轮		tsy335waeq5leen52	tsy335waeq5leen52				roundtrip_mismatch	tsɿ335ɦuæʔ5lẽ52	tsy335wuaeq5leen52	
+source_clean	result_all_converted.clean.csv	2413		205					斗斛		teu335woq54	teu335woq54				roundtrip_mismatch	tɤ335ɦuoʔ54	teu335wuoq54	
+source_clean	result_all_converted.clean.csv	2414		205					车梦		ciu33mon55	ciu33mon55				roundtrip_mismatch	tɕy33moŋ55	tciu33mon55	
+source_clean	result_all_converted.clean.csv	2419		205					犁镜		li11cin55	li11cin55				roundtrip_mismatch	li11tɕiŋ55	li11tcin55	
+source_clean	result_all_converted.clean.csv	2429		206					洋镐		yan11kau52	yan11kau52				roundtrip_mismatch	ɦiaŋ11kɒ52	yian11kau52	
+source_clean	result_all_converted.clean.csv	2430		206					洋三角		yan11saen55koq54	yan11saen55koq54				roundtrip_mismatch	ɦiaŋ11sæ̃55koʔ54	yian11saen55koq54	
+source_clean	result_all_converted.clean.csv	2448		206					簸箕		po33ci52	po33ci52				roundtrip_mismatch	po33tɕi52	po33tci52	
+source_clean	result_all_converted.clean.csv	2449		206					土箕		thu335ci52	thu335ci52				roundtrip_mismatch	tʰu335tɕi52	thu335tci52	
+source_clean	result_all_converted.clean.csv	2450		206					粪箕		feen33ci33	feen33ci33				roundtrip_mismatch	fẽ33tɕi33	feen33tci33	
+source_clean	result_all_converted.clean.csv	2453		206					等箕		teon335ci52	teon335ci52				roundtrip_mismatch	təŋ335tɕi52	teon335tci52	
+source_clean	result_all_converted.clean.csv	2467		207					脚碓		ciaq3te55	ciaq3te55				roundtrip_mismatch	tɕiaʔ3tᴇ55	tciaq3te55	
+source_clean	result_all_converted.clean.csv	2469		207					电动机		dien11don11ci11	dien11don11ci11				roundtrip_mismatch	diẽ11doŋ11tɕi11	dien11don11tci11	
+source_clean	result_all_converted.clean.csv	2471		207					抽水机		tsheu33sy55ci52	tsheu33sy55ci52				roundtrip_mismatch	tsʰɤ33sɿ55tɕi52	tsheu33sy55tci52	
+source_clean	result_all_converted.clean.csv	2483		207					油漆		yeu11chiq5	yeu11chiq5				roundtrip_mismatch	ɦiɤ11tɕʰieʔ5	yieu11chiq5	
+source_clean	result_all_converted.clean.csv	2502		208					鹰架		in33cia55	in33cia55				roundtrip_mismatch	iŋ33tɕia55	in33tcia55	
+source_clean	result_all_converted.clean.csv	2522		209					长脚鹭鸶		tsan335ciaq5lu55sy52	tsan335ciaq5lu55sy52				roundtrip_mismatch	tsaŋ335tɕiaʔ5lu55sɿ52	tsan335tciaq5lu55sy52	
+source_clean	result_all_converted.clean.csv	2530		209					油墩		yeu11toen52	yeu11toen52				roundtrip_mismatch	ɦiɤ11tø̃52	yieu11toen52	
+source_clean	result_all_converted.clean.csv	2532		209					鸡骨头人		ci33kueq5deu55zeen52	ci33kueq5deu55zeen52				roundtrip_mismatch	tɕi33kueʔ5dɤ55zẽ52	tci33kueq5deu55zeen52	
+source_clean	result_all_converted.clean.csv	2542		209					肉里眼		gnio11li11ngaen11	gnio11li11ngaen11				roundtrip_mismatch	ȵiɒ11li11ŋæ̃11	gniau11li11ngaen11	
+source_clean	result_all_converted.clean.csv	2548		210					美女肩		me115gniu55cien52	me115gniu55cien52				roundtrip_mismatch	mᴇ115ȵy55tɕiẽ52	me115gniu55tcien52	
+source_clean	result_all_converted.clean.csv	2572		210					太阳穴		tha33yan33yoeq3	tha33yan33yoeq3				roundtrip_mismatch	tʰa33ɦiaŋ33ɦiøʔ3	tha33yian33yoeq3	
+source_clean	result_all_converted.clean.csv	2573		210					太阳疤		tha33yan33po33	tha33yan33po33				roundtrip_mismatch	tʰa33ɦiaŋ33po33	tha33yian33po33	
+source_clean	result_all_converted.clean.csv	2574		211					酒窪		cieu335uo5552	cieu335uo5552				roundtrip_mismatch	tɕiɤ335uo5552	tcieu335uo5552	
+source_clean	result_all_converted.clean.csv	2581		211					眼睛		ngaen115cin52	ngaen115cin52				roundtrip_mismatch	ŋæ̃115tɕiŋ52	ngaen115tcin52	
+source_clean	result_all_converted.clean.csv	2585		211					眼睛乌珠		ngaen115cin55u55ciu52	ngaen115cin55u55ciu52				roundtrip_mismatch	ŋæ̃115tɕiŋ55u55tɕy52	ngaen115tcin55u55tciu52	
+source_clean	result_all_converted.clean.csv	2586		211					乌珠		u33ciu52	u33ciu52				roundtrip_mismatch	u33tɕy52	u33tciu52	
+source_clean	result_all_converted.clean.csv	2610		212					喉结		gheu11ciq5	gheu11ciq5				roundtrip_mismatch	ɦɤ11tɕieʔ5	gheu11tciq5	
+source_clean	result_all_converted.clean.csv	2618		212					舌尖		zeq1cien52	zeq1cien52				roundtrip_mismatch	zeʔ1tɕiẽ52	zeq1tcien52	
+source_clean	result_all_converted.clean.csv	2621		212					肌中		ci33tson52	ci33tson52				roundtrip_mismatch	tɕi33tsoŋ52	tci33tson52	
+source_clean	result_all_converted.clean.csv	2635		212					牙床肉		ngo11zaon55gnio52	ngo11zaon55gnio52				roundtrip_mismatch	ŋo11zɒŋ55ȵiɒ52	ngo11zaon55gniau52	
+source_clean	result_all_converted.clean.csv	2636		213					项颈		ghaon115cin52	ghaon115cin52				roundtrip_mismatch	ɦɒŋ115tɕiŋ52	ghaon115tcin52	
+source_clean	result_all_converted.clean.csv	2638		213					肩胛		cien33kaeq5	cien33kaeq5				roundtrip_mismatch	tɕiẽ33kæʔ5	tcien33kaeq5	
+source_clean	result_all_converted.clean.csv	2639		213					肩肿窝		cien33tson55u52	cien33tson55u52				roundtrip_mismatch	tɕiẽ33tsoŋ55u52	tcien33tson55u52	
+source_clean	result_all_converted.clean.csv	2648		213					奶珠头		na115ciu55deu52	na115ciu55deu52				roundtrip_mismatch	na115tɕy55dɤ52	na115tciu55deu52	
+source_clean	result_all_converted.clean.csv	2649		213					背脊		pe33ciq5	pe33ciq5				roundtrip_mismatch	pᴇ33tɕieʔ5	pe33tciq5	
+source_clean	result_all_converted.clean.csv	2650		213					背脊骨		pe33ciq5kueq54	pe33ciq5kueq54				roundtrip_mismatch	pᴇ33tɕieʔ5kueʔ54	pe33tciq5kueq54	
+source_clean	result_all_converted.clean.csv	2651		213					脊梁骨		ciq3lian55kueq54	ciq3lian55kueq54				roundtrip_mismatch	tɕieʔ3liaŋ55kueʔ54	tciq3lian55kueq54	
+source_clean	result_all_converted.clean.csv	2666		213					麻油壶		mo11yeu55wu52	mo11yeu55wu52				roundtrip_mismatch	mo11ɦiɤ55ɦu52	mo11yieu55wu52	
+source_clean	result_all_converted.clean.csv	2673		214					屁股肉		phi33ku33gnio33	phi33ku33gnio33				roundtrip_mismatch	pʰi33ku33ȵiɒ33	phi33ku33gniau33	
+source_clean	result_all_converted.clean.csv	2689		214					借手		cia33seu33	cia33seu33				roundtrip_mismatch	tɕia33sɤ33	tcia33seu33	
+source_clean	result_all_converted.clean.csv	2705		215					野猫手指头		ya115mau55seu55tsy55deu52	ya115mau55seu55tsy55deu52				roundtrip_mismatch	ɦia115mɒ55sɤ55tsɿ55dɤ52	yia115mau55seu55tsy55deu52	
+source_clean	result_all_converted.clean.csv	2710		215					箕		ci52	ci52				roundtrip_mismatch	tɕi52	tci52	
+source_clean	result_all_converted.clean.csv	2713		215					脚		ciaq45	ciaq45				roundtrip_mismatch	tɕiaʔ45	tciaq45	
+source_clean	result_all_converted.clean.csv	2714		215					脚		ciaq45	ciaq45				roundtrip_mismatch	tɕiaʔ45	tciaq45	
+source_clean	result_all_converted.clean.csv	2715		215					大脚膀		da11ciaq1paon11	da11ciaq1paon11				roundtrip_mismatch	da11tɕiaʔ1pɒŋ11	da11tciaq1paon11	
+source_clean	result_all_converted.clean.csv	2716		215					小脚臂		shiau335ciaq5pi52	shiau335ciaq5pi52				roundtrip_mismatch	ɕiɒ335tɕiaʔ5pi52	shiau335tciaq5pi52	
+source_clean	result_all_converted.clean.csv	2720		215					脚骨头		ciaq3kueq5deu52	ciaq3kueq5deu52				roundtrip_mismatch	tɕiaʔ3kueʔ5dɤ52	tciaq3kueq5deu52	
+source_clean	result_all_converted.clean.csv	2722		215					脚弯头		ciaq3uaen55deu52	ciaq3uaen55deu52				roundtrip_mismatch	tɕiaʔ3uæ̃55dɤ52	tciaq3uaen55deu52	
+source_clean	result_all_converted.clean.csv	2723		215					脚瞅弯		ciaq3uaen52	ciaq3uaen52				roundtrip_mismatch	tɕiaʔ3uæ̃52	tciaq3uaen52	
+source_clean	result_all_converted.clean.csv	2725		215					小脚骨		shiau335ciaq5kueq54	shiau335ciaq5kueq54				roundtrip_mismatch	ɕiɒ335tɕiaʔ5kueʔ54	shiau335tciaq5kueq54	
+source_clean	result_all_converted.clean.csv	2727		215					脚善肚		ciaq3zeen55tu52	ciaq3zeen55tu52				roundtrip_mismatch	tɕiaʔ3zẽ55tu52	tciaq3zeen55tu52	
+source_clean	result_all_converted.clean.csv	2728		215					脚娘肚		ciaq3gnian55tu52	ciaq3gnian55tu52				roundtrip_mismatch	tɕiaʔ3ȵiaŋ55tu52	tciaq3gnian55tu52	
+source_clean	result_all_converted.clean.csv	2729		215					脚腕		ciaq3uoen55	ciaq3uoen55				roundtrip_mismatch	tɕiaʔ3uø̃55	tciaq3uoen55	
+source_clean	result_all_converted.clean.csv	2730		215					脚掌		ciaq3tsan55	ciaq3tsan55				roundtrip_mismatch	tɕiaʔ3tsaŋ55	tciaq3tsan55	
+source_clean	result_all_converted.clean.csv	2731		215					脚底板		ciaq3ti55paen52	ciaq3ti55paen52				roundtrip_mismatch	tɕiaʔ3ti55pæ̃52	tciaq3ti55paen52	
+source_clean	result_all_converted.clean.csv	2732		215					脚底心		ciaq3ti55shin52	ciaq3ti55shin52				roundtrip_mismatch	tɕiaʔ3ti55ɕiŋ52	tciaq3ti55shin52	
+source_clean	result_all_converted.clean.csv	2734		216					脚后跟		ciaq3gheu55keon52	ciaq3gheu55keon52				roundtrip_mismatch	tɕiaʔ3ɦɤ55kəŋ52	tciaq3gheu55keon52	
+source_clean	result_all_converted.clean.csv	2735		216					脚背		ciaq3pe52	ciaq3pe52				roundtrip_mismatch	tɕiaʔ3pᴇ52	tciaq3pe52	
+source_clean	result_all_converted.clean.csv	2736		216					平脚底		bin11ciaq5ti52	bin11ciaq5ti52				roundtrip_mismatch	biŋ11tɕiaʔ5ti52	bin11tciaq5ti52	
+source_clean	result_all_converted.clean.csv	2737		216					平底脚		bin11ti55ciaq54	bin11ti55ciaq54				roundtrip_mismatch	biŋ11ti55tɕiaʔ54	bin11ti55tciaq54	
+source_clean	result_all_converted.clean.csv	2738		216					菩萨脚		bu11saeq5ciaq54	bu11saeq5ciaq54				roundtrip_mismatch	bu11sæʔ5tɕiaʔ54	bu11saeq5tciaq54	
+source_clean	result_all_converted.clean.csv	2739		216					脚趾头		ciaq3tsy55deu52	ciaq3tsy55deu52				roundtrip_mismatch	tɕiaʔ3tsɿ55dɤ52	tciaq3tsy55deu52	
+source_clean	result_all_converted.clean.csv	2740		216					大脚趾头		da11ciaq1tsy11deu11	da11ciaq1tsy11deu11				roundtrip_mismatch	da11tɕiaʔ1tsɿ11dɤ11	da11tciaq1tsy11deu11	
+source_clean	result_all_converted.clean.csv	2741		216					小脚趾头		shiau335ciaq5tsy55deu52	shiau335ciaq5tsy55deu52				roundtrip_mismatch	ɕiɒ335tɕiaʔ5tsɿ55dɤ52	shiau335tciaq5tsy55deu52	
+source_clean	result_all_converted.clean.csv	2742		216					脚趾丫缝		ciaq3tsy55ia55von52	ciaq3tsy55ia55von52				roundtrip_mismatch	tɕiaʔ3tsɿ55ia55voŋ52	tciaq3tsy55ia55von52	
+source_clean	result_all_converted.clean.csv	2743		216					脚趾指		ciaq3tsy55tsy52	ciaq3tsy55tsy52				roundtrip_mismatch	tɕiaʔ3tsɿ55tsɿ52	tciaq3tsy55tsy52	
+source_clean	result_all_converted.clean.csv	2744		216					脚印		ciaq3in55	ciaq3in55				roundtrip_mismatch	tɕiaʔ3iŋ55	tciaq3in55	
+source_clean	result_all_converted.clean.csv	2745		216					肉		gnio11	gnio11				roundtrip_mismatch	ȵiɒ11	gniau11	
+source_clean	result_all_converted.clean.csv	2749		216					筋		cin52	cin52				roundtrip_mismatch	tɕiŋ52	tcin52	
+source_clean	result_all_converted.clean.csv	2751		216					筋脉		cin33maq5	cin33maq5				roundtrip_mismatch	tɕiŋ33maʔ5	tcin33maq5	
+source_clean	result_all_converted.clean.csv	2763		216					胃		we11	we11				roundtrip_mismatch	ɦuᴇ11	wue11	
+source_clean	result_all_converted.clean.csv	2785		217					月经		gnioeq1cin52	gnioeq1cin52				roundtrip_mismatch	ȵiøʔ1tɕiŋ52	gnioeq1tcin52	
+source_clean	result_all_converted.clean.csv	2789		217					老朋友		lau115ban55yeu52	lau115ban55yeu52				roundtrip_mismatch	lɒ115baŋ55ɦiɤ52	lau115ban55yieu52	
+source_clean	result_all_converted.clean.csv	2790		217					例假		li11cia11	li11cia11				roundtrip_mismatch	li11tɕia11	li11tcia11	
+source_clean	result_all_converted.clean.csv	2796		218					韵的残迹		yoen11tiq1dzaen11ciq1	yoen11tiq1dzaen11ciq1				roundtrip_mismatch	ɦiø̃11tieʔ1dzæ̃11tɕieʔ1	yoen11tiq1dzaen11tciq1	
+source_clean	result_all_converted.clean.csv	2833		219					大项颈		da11ghaon11cin11	da11ghaon11cin11				roundtrip_mismatch	da11ɦɒŋ11tɕiŋ11	da11ghaon11tcin11	
+source_clean	result_all_converted.clean.csv	2862		220					大脚疯		da11ciaq1fon11	da11ciaq1fon11				roundtrip_mismatch	da11tɕiaʔ1foŋ11	da11tciaq1fon11	
+source_clean	result_all_converted.clean.csv	2864		220					鸡爪疯		ci33tsau55fon52	ci33tsau55fon52				roundtrip_mismatch	tɕi33tsɒ55foŋ52	tci33tsau55fon52	
+source_clean	result_all_converted.clean.csv	2883		221					鸡皮		ci33bi52	ci33bi52				roundtrip_mismatch	tɕi33bi52	tci33bi52	
+source_clean	result_all_converted.clean.csv	2888		221					红眼睛		won11ngaen55cin52	won11ngaen55cin52				roundtrip_mismatch	ɦuoŋ11ŋæ̃55tɕiŋ52	wuon11ngaen55tcin52	
+source_clean	result_all_converted.clean.csv	2897		221					鸡盲眼		ci33ban55ngaen52	ci33ban55ngaen52				roundtrip_mismatch	tɕi33baŋ55ŋæ̃52	tci33ban55ngaen52	
+source_clean	result_all_converted.clean.csv	2898		221					夜盲症		ya11ban11tseon11	ya11ban11tseon11				roundtrip_mismatch	ɦia11baŋ11tsəŋ11	yia11ban11tseon11	
+source_clean	result_all_converted.clean.csv	2899		221					羊白眼		yan11baq5ngaen52	yan11baq5ngaen52				roundtrip_mismatch	ɦiaŋ11baʔ5ŋæ̃52	yian11baq5ngaen52	
+source_clean	result_all_converted.clean.csv	2902		221					斗鸡眼		teu335ci55ngaen52	teu335ci55ngaen52				roundtrip_mismatch	tɤ335tɕi55ŋæ̃52	teu335tci55ngaen52	
+source_clean	result_all_converted.clean.csv	2904		221					鬼睡眼		ciu335dze55ngaen52	ciu335dze55ngaen52				roundtrip_mismatch	tɕy335dzᴇ55ŋæ̃52	tciu335dze55ngaen52	
+source_clean	result_all_converted.clean.csv	2910		221					借团牙		cia33doen33ngo33	cia33doen33ngo33				roundtrip_mismatch	tɕia33dø̃33ŋo33	tcia33doen33ngo33	
+source_clean	result_all_converted.clean.csv	2912		222					蛀牙		ciu33ngo33	ciu33ngo33				roundtrip_mismatch	tɕy33ŋo33	tciu33ngo33	
+source_clean	result_all_converted.clean.csv	2914		222					红鼻头		won11beq5deu52	won11beq5deu52				roundtrip_mismatch	ɦuoŋ11beʔ5dɤ52	wuon11beq5deu52	
+source_clean	result_all_converted.clean.csv	2915		222					酒渣鼻		cieu335tso55beq54	cieu335tso55beq54				roundtrip_mismatch	tɕiɤ335tso55beʔ54	tcieu335tso55beq54	
+source_clean	result_all_converted.clean.csv	2931		222					疤迹		po33ciq5	po33ciq5				roundtrip_mismatch	po33tɕieʔ5	po33tciq5	
+source_clean	result_all_converted.clean.csv	2934		222					脚上的鸡眼		ciaq3zan55tiq5ci55ngaen52	ciaq3zan55tiq5ci55ngaen52				roundtrip_mismatch	tɕiaʔ3zaŋ55tieʔ5tɕi55ŋæ̃52	tciaq3zan55tiq5tci55ngaen52	
+source_clean	result_all_converted.clean.csv	2935		222					脚		ciaq45	ciaq45				roundtrip_mismatch	tɕiaʔ45	tciaq45	
+source_clean	result_all_converted.clean.csv	2938		222					新肉		shin33gnio55	shin33gnio55				roundtrip_mismatch	ɕiŋ33ȵiɒ55	shin33gniau55	
+source_clean	result_all_converted.clean.csv	2941		223					药		yaq23	yaq23				roundtrip_mismatch	ɦiaʔ23	yiaq23	
+source_clean	result_all_converted.clean.csv	2942		223					补药		pu335yaq54	pu335yaq54				roundtrip_mismatch	pu335ɦiaʔ54	pu335yiaq54	
+source_clean	result_all_converted.clean.csv	2944		223					中药		tson33yaq5	tson33yaq5				roundtrip_mismatch	tsoŋ33ɦiaʔ5	tson33yiaq5	
+source_clean	result_all_converted.clean.csv	2945		223					草药		tshau335yaq54	tshau335yaq54				roundtrip_mismatch	tsʰɒ335ɦiaʔ54	tshau335yiaq54	
+source_clean	result_all_converted.clean.csv	2946		223					西药		shi33yaq5	shi33yaq5				roundtrip_mismatch	ɕi33ɦiaʔ5	shi33yiaq5	
+source_clean	result_all_converted.clean.csv	2947		223					丸药		woen11yaq5	woen11yaq5				roundtrip_mismatch	ɦuø̃11ɦiaʔ5	wuoen11yiaq5	
+source_clean	result_all_converted.clean.csv	2948		223					药丸		yaq1woen52	yaq1woen52				roundtrip_mismatch	ɦiaʔ1ɦuø̃52	yiaq1wuoen52	
+source_clean	result_all_converted.clean.csv	2949		223					药片		yaq1phien55	yaq1phien55				roundtrip_mismatch	ɦiaʔ1pʰiẽ55	yiaq1phien55	
+source_clean	result_all_converted.clean.csv	2950		223					药水		yaq1sy55	yaq1sy55				roundtrip_mismatch	ɦiaʔ1sɿ55	yiaq1sy55	
+source_clean	result_all_converted.clean.csv	2951		223					药粉		yaq1feen55	yaq1feen55				roundtrip_mismatch	ɦiaʔ1fẽ55	yiaq1feen55	
+source_clean	result_all_converted.clean.csv	2952		223					药膏		yaq1kau52	yaq1kau52				roundtrip_mismatch	ɦiaʔ1kɒ52	yiaq1kau52	
+source_clean	result_all_converted.clean.csv	2953		223					膏药		kau33yaq5	kau33yaq5				roundtrip_mismatch	kɒ33ɦiaʔ5	kau33yiaq5	
+source_clean	result_all_converted.clean.csv	2955		223					药方		yaq1faon52	yaq1faon52				roundtrip_mismatch	ɦiaʔ1fɒŋ52	yiaq1faon52	
+source_clean	result_all_converted.clean.csv	2957		223					药店		yaq1tien55	yaq1tien55				roundtrip_mismatch	ɦiaʔ1tiẽ55	yiaq1tien55	
+source_clean	result_all_converted.clean.csv	2958		223					药房		yaq1vaon52	yaq1vaon52				roundtrip_mismatch	ɦiaʔ1vɒŋ52	yiaq1vaon52	
+source_clean	result_all_converted.clean.csv	2959		223					药店		yaq1tien55	yaq1tien55				roundtrip_mismatch	ɦiaʔ1tiẽ55	yiaq1tien55	
+source_clean	result_all_converted.clean.csv	2962		223					卫生院		we115san55yoen52	we115san55yoen52				roundtrip_mismatch	ɦuᴇ115saŋ55ɦiø̃52	wue115san55yoen52	
+source_clean	result_all_converted.clean.csv	2964		223					药砂罐		yaq1so55kuoen52	yaq1so55kuoen52				roundtrip_mismatch	ɦiaʔ1so55kuø̃52	yiaq1so55kuoen52	
+source_clean	result_all_converted.clean.csv	2965		223					药罐		yaq1kuoen55	yaq1kuoen55				roundtrip_mismatch	ɦiaʔ1kuø̃55	yiaq1kuoen55	
+source_clean	result_all_converted.clean.csv	2966		223					头煎		deu11cien52	deu11cien52				roundtrip_mismatch	dɤ11tɕiẽ52	deu11tcien52	
+source_clean	result_all_converted.clean.csv	2967		223					二煎		gni11cien11	gni11cien11				roundtrip_mismatch	ȵi11tɕiẽ11	gni11tcien11	
+source_clean	result_all_converted.clean.csv	2968		223					药渣		yaq1tso52	yaq1tso52				roundtrip_mismatch	ɦiaʔ1tso52	yiaq1tso52	
+source_clean	result_all_converted.clean.csv	2971		224					男人家		ne11zeen55cia52	ne11zeen55cia52				roundtrip_mismatch	nᴇ11zẽ55tɕia52	ne11zeen55tcia52	
+source_clean	result_all_converted.clean.csv	2973		224					女人家		gniu115zeen55cia52	gniu115zeen55cia52				roundtrip_mismatch	ȵy115zẽ55tɕia52	gniu115zeen55tcia52	
+source_clean	result_all_converted.clean.csv	2976		224					老人家		lau115zeen55cia52	lau115zeen55cia52				roundtrip_mismatch	lɒ115zẽ55tɕia52	lau115zeen55tcia52	
+source_clean	result_all_converted.clean.csv	2983		224					后生家		gheu115san55cia52	gheu115san55cia52				roundtrip_mismatch	ɦɤ115saŋ55tɕia52	gheu115san55tcia52	
+source_clean	result_all_converted.clean.csv	2997		224					肉肉		gnio11gnio11	gnio11gnio11				roundtrip_mismatch	ȵiɒ11ȵiɒ11	gniau11gniau11	
+source_clean	result_all_converted.clean.csv	2998		224					小鬼头		shiau335ciu55deu52	shiau335ciu55deu52				roundtrip_mismatch	ɕiɒ335tɕy55dɤ52	shiau335tciu55deu52	
+source_clean	result_all_converted.clean.csv	3005		225					有铜钱人		yeu115don55dien55zeen52	yeu115don55dien55zeen52				roundtrip_mismatch	ɦiɤ115doŋ55diẽ55zẽ52	yieu115don55dien55zeen52	
+source_clean	result_all_converted.clean.csv	3006		225					有细人		yeu115shi55zeen52	yeu115shi55zeen52				roundtrip_mismatch	ɦiɤ115ɕi55zẽ52	yieu115shi55zeen52	
+source_clean	result_all_converted.clean.csv	3018		225					回头人		we11deu55zeen52	we11deu55zeen52				roundtrip_mismatch	ɦuᴇ11dɤ55zẽ52	wue11deu55zeen52	
+source_clean	result_all_converted.clean.csv	3019		225					活彻头		weq1tsheq5deu52	weq1tsheq5deu52				roundtrip_mismatch	ɦueʔ1tsʰeʔ5dɤ52	wueq1tsheq5deu52	
+source_clean	result_all_converted.clean.csv	3021		225					字为		zy11we11	zy11we11				roundtrip_mismatch	zɿ11ɦuᴇ11	zy11wue11	
+source_clean	result_all_converted.clean.csv	3024		225					拖油瓶		tha33yeu55bin52	tha33yeu55bin52				roundtrip_mismatch	tʰa33ɦiɤ55biŋ52	tha33yieu55bin52	
+source_clean	result_all_converted.clean.csv	3027		225					油摄		yeu11seq5	yeu11seq5				roundtrip_mismatch	ɦiɤ11seʔ5	yieu11seq5	
+source_clean	result_all_converted.clean.csv	3063		227					翘脚		chiau33ciaq3	chiau33ciaq3				roundtrip_mismatch	tɕʰiɒ33tɕiaʔ3	chiau33tciaq3	
+source_clean	result_all_converted.clean.csv	3064		227					折脚佬		tseq3ciaq5lau52	tseq3ciaq5lau52				roundtrip_mismatch	tseʔ3tɕiaʔ5lɒ52	tseq3tciaq5lau52	
+source_clean	result_all_converted.clean.csv	3065		227					脚佬		ciaq3lau55	ciaq3lau55				roundtrip_mismatch	tɕiaʔ3lɒ55	tciaq3lau55	
+source_clean	result_all_converted.clean.csv	3069		227					借手佬		cia33seu33lau33	cia33seu33lau33				roundtrip_mismatch	tɕia33sɤ33lɒ33	tcia33seu33lau33	
+source_clean	result_all_converted.clean.csv	3070		227					用左手的人		yon11cia11seu11tiq1zeen11	yon11cia11seu11tiq1zeen11				roundtrip_mismatch	ɦioŋ11tɕia11sɤ11tieʔ1zẽ11	yion11tcia11seu11tiq1zeen11	
+source_clean	result_all_converted.clean.csv	3072		227					借		cia33	cia33				roundtrip_mismatch	tɕia33	tcia33	
+source_clean	result_all_converted.clean.csv	3073		227					借脚佬		cia33ciaq3lau33	cia33ciaq3lau33				roundtrip_mismatch	tɕia33tɕiaʔ3lɒ33	tcia33tciaq3lau33	
+source_clean	result_all_converted.clean.csv	3085		227					经济头人		cin33ci55deu55zeen52	cin33ci55deu55zeen52				roundtrip_mismatch	tɕiŋ33tɕi55dɤ55zẽ52	tcin33tci55deu55zeen52	
+source_clean	result_all_converted.clean.csv	3095		228					夜新鲜		ya11shin11shien11	ya11shin11shien11				roundtrip_mismatch	ɦia11ɕiŋ11ɕiẽ11	yia11shin11shien11	
+source_clean	result_all_converted.clean.csv	3101		228					坏胚子		wa11phe11tsy11	wa11phe11tsy11				roundtrip_mismatch	ɦua11pʰᴇ11tsɿ11	wua11phe11tsy11	
+source_clean	result_all_converted.clean.csv	3102		228					壁鬼		piq3ciu55	piq3ciu55				roundtrip_mismatch	pieʔ3tɕy55	piq3tciu55	
+source_clean	result_all_converted.clean.csv	3103		228					阴司鬼		in33sy55ciu52	in33sy55ciu52				roundtrip_mismatch	iŋ33sɿ55tɕy52	in33sy55tciu52	
+source_clean	result_all_converted.clean.csv	3105		228					极煞鬼		jiq1saeq5ciu52	jiq1saeq5ciu52				roundtrip_mismatch	dʑieʔ1sæʔ5tɕy52	jiq1saeq5tciu52	
+source_clean	result_all_converted.clean.csv	3106		228					力极鬼		liq1jiq5ciu52	liq1jiq5ciu52				roundtrip_mismatch	lieʔ1dʑieʔ5tɕy52	liq1jiq5tciu52	
+source_clean	result_all_converted.clean.csv	3107		228					性急鬼		shin33ciq3ciu33	shin33ciq3ciu33				roundtrip_mismatch	ɕiŋ33tɕieʔ3tɕy33	shin33tciq3tciu33	
+source_clean	result_all_converted.clean.csv	3108		228					倒醉鬼		tau335tse55ciu52	tau335tse55ciu52				roundtrip_mismatch	tɒ335tsᴇ55tɕy52	tau335tse55tciu52	
+source_clean	result_all_converted.clean.csv	3112		228					责骂人熊样		tseq3mo55zeen55yon55yan52	tseq3mo55zeen55yon55yan52				roundtrip_mismatch	tseʔ3mo55zẽ55ɦioŋ55ɦiaŋ52	tseq3mo55zeen55yion55yian52	
+source_clean	result_all_converted.clean.csv	3120		229					空壳大少爷		khuon33khoq5da55sau55ya52	khuon33khoq5da55sau55ya52				roundtrip_mismatch	kʰuoŋ33kʰoʔ5da55sɒ55ɦia52	khuon33khoq5da55sau55yia52	
+source_clean	result_all_converted.clean.csv	3150		230					破脚骨		pha33ciaq3kueq3	pha33ciaq3kueq3				roundtrip_mismatch	pʰa33tɕiaʔ3kueʔ3	pha33tciaq3kueq3	
+source_clean	result_all_converted.clean.csv	3160		230					地主		di11ciu11	di11ciu11				roundtrip_mismatch	di11tɕy11	di11tciu11	
+source_clean	result_all_converted.clean.csv	3164		230					会计		kue33ci33	kue33ci33				roundtrip_mismatch	kuᴇ33tɕi33	kue33tci33	
+source_clean	result_all_converted.clean.csv	3169		230					手脚		seu335ciaq54	seu335ciaq54				roundtrip_mismatch	sɤ335tɕiaʔ54	seu335tciaq54	
+source_clean	result_all_converted.clean.csv	3172		230					生活		san33weq5	san33weq5				roundtrip_mismatch	saŋ33ɦueʔ5	san33wueq5	
+source_clean	result_all_converted.clean.csv	3187		231					腰机师父		iau33ci55sy55vu52	iau33ci55sy55vu52				roundtrip_mismatch	iɒ33tɕi55sɿ55vu52	iau33tci55sy55vu52	
+source_clean	result_all_converted.clean.csv	3210		232					即指		ciq3tsy55	ciq3tsy55				roundtrip_mismatch	tɕieʔ3tsɿ55	tciq3tsy55	
+source_clean	result_all_converted.clean.csv	3220		232					邮差		yeu11tshy52	yeu11tshy52				roundtrip_mismatch	ɦiɤ11tsʰɿ52	yieu11tshy52	
+source_clean	result_all_converted.clean.csv	3221		232					佣人		yon11zeen11	yon11zeen11				roundtrip_mismatch	ɦioŋ11zẽ11	yion11zeen11	
+source_clean	result_all_converted.clean.csv	3229		232					接生婆		ciq3san55bo52	ciq3san55bo52				roundtrip_mismatch	tɕieʔ3saŋ55bo52	tciq3san55bo52	
+source_clean	result_all_converted.clean.csv	3236		232					荐头		cien33deu33	cien33deu33				roundtrip_mismatch	tɕiẽ33dɤ33	tcien33deu33	
+source_clean	result_all_converted.clean.csv	3241		233					师爷		sy33ya52	sy33ya52				roundtrip_mismatch	sɿ33ɦia52	sy33yia52	
+source_clean	result_all_converted.clean.csv	3250		233					警察		cin335tshaeq54	cin335tshaeq54				roundtrip_mismatch	tɕiŋ335tsʰæʔ54	tcin335tshaeq54	
+source_clean	result_all_converted.clean.csv	3257		233					美食家		me115zeoq5cia52	me115zeoq5cia52				roundtrip_mismatch	mᴇ115zəʔ5tɕia52	me115zeoq5tcia52	
+source_clean	result_all_converted.clean.csv	3269		233					破话作头		pha33wo33tseq3deu33	pha33wo33tseq3deu33				roundtrip_mismatch	pʰa33ɦuo33tseʔ3dɤ33	pha33wuo33tseq3deu33	
+source_clean	result_all_converted.clean.csv	3275		234					阿兴阿旺		o33shin55o55waon52	o33shin55o55waon52				roundtrip_mismatch	o33ɕiŋ55o55ɦuɒŋ52	o33shin55o55wuaon52	
+source_clean	result_all_converted.clean.csv	3276		234					双肌中		saon33ci55tson52	saon33ci55tson52				roundtrip_mismatch	sɒŋ33tɕi55tsoŋ52	saon33tci55tson52	
+source_clean	result_all_converted.clean.csv	3294		234					爷爷		ya11ya52	ya11ya52				roundtrip_mismatch	ɦia11ɦia52	yia11yia52	
+source_clean	result_all_converted.clean.csv	3298		234					姑爷爷		ku33ya55ya52	ku33ya55ya52				roundtrip_mismatch	ku33ɦia55ɦia52	ku33yia55yia52	
+source_clean	result_all_converted.clean.csv	3304		235					太爷爷		tha33ya33ya33	tha33ya33ya33				roundtrip_mismatch	tʰa33ɦia33ɦia33	tha33yia33yia33	
+source_clean	result_all_converted.clean.csv	3320		235					阿姐		o33cia55	o33cia55				roundtrip_mismatch	o33tɕia55	o33tcia55	
+source_clean	result_all_converted.clean.csv	3321		235					几切		ci33chiq5	ci33chiq5				roundtrip_mismatch	tɕi33tɕʰieʔ5	tci33chiq5	
+source_clean	result_all_converted.clean.csv	3322		235					姐姐		cia335cia52	cia335cia52				roundtrip_mismatch	tɕia335tɕia52	tcia335tcia52	
+source_clean	result_all_converted.clean.csv	3344		236					当家人		taon33cia55zeen52	taon33cia55zeen52				roundtrip_mismatch	tɒŋ33tɕia55zẽ52	taon33tcia55zeen52	
+source_clean	result_all_converted.clean.csv	3359		236					养新妇		yan115shin55vu52	yan115shin55vu52				roundtrip_mismatch	ɦiaŋ115ɕiŋ55vu52	yian115shin55vu52	
+source_clean	result_all_converted.clean.csv	3360		236					童养媳		don11yan55shiq54	don11yan55shiq54				roundtrip_mismatch	doŋ11ɦiaŋ55ɕieʔ54	don11yian55shiq54	
+source_clean	result_all_converted.clean.csv	3361		236					养新妇头		yan115shin55vu55deu52	yan115shin55vu55deu52				roundtrip_mismatch	ɦiaŋ115ɕiŋ55vu55dɤ52	yian115shin55vu55deu52	
+source_clean	result_all_converted.clean.csv	3362		236					养亲		yan115chin52	yan115chin52				roundtrip_mismatch	ɦiaŋ115tɕʰiŋ52	yian115chin52	
+source_clean	result_all_converted.clean.csv	3377		237					堂阿姐		daon11o55cia52	daon11o55cia52				roundtrip_mismatch	dɒŋ11o55tɕia52	daon11o55tcia52	
+source_clean	result_all_converted.clean.csv	3388		237					姑爷		ku33ya52	ku33ya52				roundtrip_mismatch	ku33ɦia52	ku33yia52	
+source_clean	result_all_converted.clean.csv	3391		238					垫脚女婿		dien11ciaq1gniu11shi11	dien11ciaq1gniu11shi11				roundtrip_mismatch	diẽ11tɕiaʔ1ȵy11ɕi11	dien11tciaq1gniu11shi11	
+source_clean	result_all_converted.clean.csv	3392		238					进舍女婿		cin33se33gniu33shi33	cin33se33gniu33shi33				roundtrip_mismatch	tɕiŋ33sᴇ33ȵy33ɕi33	tcin33se33gniu33shi33	
+source_clean	result_all_converted.clean.csv	3394		238					姐夫		cia335fu52	cia335fu52				roundtrip_mismatch	tɕia335fu52	tcia335fu52	
+source_clean	result_all_converted.clean.csv	3395		238					姐丈		cia335dzan52	cia335dzan52				roundtrip_mismatch	tɕia335dzaŋ52	tcia335dzan52	
+source_clean	result_all_converted.clean.csv	3429		239					表阿姐		piau335o55cia52	piau335o55cia52				roundtrip_mismatch	piɒ335o55tɕia52	piau335o55tcia52	
+source_clean	result_all_converted.clean.csv	3439		239					当面叫名字		taon33mien55ciau55min55zy52	taon33mien55ciau55min55zy52				roundtrip_mismatch	tɒŋ33miẽ55tɕiɒ55miŋ55zɿ52	taon33mien55tciau55min55zy52	
+source_clean	result_all_converted.clean.csv	3456		240					将几切		cian33ci55chiq54	cian33ci55chiq54				roundtrip_mismatch	tɕiaŋ33tɕi55tɕʰieʔ54	tcian33tci55chiq54	
+source_clean	result_all_converted.clean.csv	3460		240					几切		ci33chiq5	ci33chiq5				roundtrip_mismatch	tɕi33tɕʰieʔ5	tci33chiq5	
+source_clean	result_all_converted.clean.csv	3466		240					叔太爷		shioeq3tha55ya52	shioeq3tha55ya52				roundtrip_mismatch	ɕiøʔ3tʰa55ɦia52	shioeq3tha55yia52	
+source_clean	result_all_converted.clean.csv	3467		240					连襟		lien11cin52	lien11cin52				roundtrip_mismatch	liẽ11tɕiŋ52	lien11tcin52	
+source_clean	result_all_converted.clean.csv	3470		240					亲家		chin33cia52	chin33cia52				roundtrip_mismatch	tɕʰiŋ33tɕia52	chin33tcia52	
+source_clean	result_all_converted.clean.csv	3471		240					亲家公		chin33cia55kuon52	chin33cia55kuon52				roundtrip_mismatch	tɕʰiŋ33tɕia55kuoŋ52	chin33tcia55kuon52	
+source_clean	result_all_converted.clean.csv	3472		240					亲家母		chin33cia55mu52	chin33cia55mu52				roundtrip_mismatch	tɕʰiŋ33tɕia55mu52	chin33tcia55mu52	
+source_clean	result_all_converted.clean.csv	3474		240					亲眷		chin33cioen55	chin33cioen55				roundtrip_mismatch	tɕʰiŋ33tɕiø̃55	chin33tcioen55	
+source_clean	result_all_converted.clean.csv	3476		240					娘家		gnian11cia52	gnian11cia52				roundtrip_mismatch	ȵiaŋ11tɕia52	gnian11tcia52	
+source_clean	result_all_converted.clean.csv	3477		240					女家		gniu115cia52	gniu115cia52				roundtrip_mismatch	ȵy115tɕia52	gniu115tcia52	
+source_clean	result_all_converted.clean.csv	3478		240					婆家		bo11cia52	bo11cia52				roundtrip_mismatch	bo11tɕia52	bo11tcia52	
+source_clean	result_all_converted.clean.csv	3479		240					夫家		fu33cia52	fu33cia52				roundtrip_mismatch	fu33tɕia52	fu33tcia52	
+source_clean	result_all_converted.clean.csv	3480		240					男家		ne11cia52	ne11cia52				roundtrip_mismatch	nᴇ11tɕia52	ne11tcia52	
+source_clean	result_all_converted.clean.csv	3482		241					继拜爹		ci33pa33tia33	ci33pa33tia33				roundtrip_mismatch	tɕi33pa33tia33	tci33pa33tia33	
+source_clean	result_all_converted.clean.csv	3484		241					继拜娘		ci33pa33gnian33	ci33pa33gnian33				roundtrip_mismatch	tɕi33pa33ȵiaŋ33	tci33pa33gnian33	
+source_clean	result_all_converted.clean.csv	3485		241					继娘		ci33gnian33	ci33gnian33				roundtrip_mismatch	tɕi33ȵiaŋ33	tci33gnian33	
+source_clean	result_all_converted.clean.csv	3500		241					朋友		ban11yeu55	ban11yeu55				roundtrip_mismatch	baŋ11ɦiɤ55	ban11yieu55	
+source_clean	result_all_converted.clean.csv	3512		242					结拜兄弟		ciq3pa55shion55di52	ciq3pa55shion55di52				roundtrip_mismatch	tɕieʔ3pa55ɕioŋ55di52	tciq3pa55shion55di52	
+source_clean	result_all_converted.clean.csv	3513		242					上级		zan115ciq54	zan115ciq54				roundtrip_mismatch	zaŋ115tɕieʔ54	zan115tciq54	
+source_clean	result_all_converted.clean.csv	3515		242					下级		gho115ciq54	gho115ciq54				roundtrip_mismatch	ɦo115tɕieʔ54	gho115tciq54	
+source_clean	result_all_converted.clean.csv	3530		242					喜酒		shi335cieu52	shi335cieu52				roundtrip_mismatch	ɕi335tɕiɤ52	shi335tcieu52	
+source_clean	result_all_converted.clean.csv	3531		242					指婚庆酒席		tsy335huen55chin55cieu55jiq54	tsy335huen55chin55cieu55jiq54				roundtrip_mismatch	tsɿ335huẽ55tɕʰiŋ55tɕiɤ55dʑieʔ54	tsy335huen55chin55tcieu55jiq54	
+source_clean	result_all_converted.clean.csv	3535		242					红绿帖		won11loq5thiaq54	won11loq5thiaq54				roundtrip_mismatch	ɦuoŋ11loʔ5tʰiaʔ54	wuon11loq5thiaq54	
+source_clean	result_all_converted.clean.csv	3536		242					凤冠霞帧		von11kuoen11ya11	von11kuoen11ya11				roundtrip_mismatch	voŋ11kuø̃11ɦia11	von11kuoen11yia11	
+source_clean	result_all_converted.clean.csv	3576		244					焦头信		ciau33deu55shin52	ciau33deu55shin52				roundtrip_mismatch	tɕiɒ33dɤ55ɕiŋ52	tciau33deu55shin52	
+source_clean	result_all_converted.clean.csv	3587		244					宝卷		pau335cioen52	pau335cioen52				roundtrip_mismatch	pɒ335tɕiø̃52	pau335tcioen52	
+source_clean	result_all_converted.clean.csv	3594		244					天老爷		thien33lau55ya52	thien33lau55ya52				roundtrip_mismatch	tʰiẽ33lɒ55ɦia52	thien33lau55yia52	
+source_clean	result_all_converted.clean.csv	3598		245					灶司爷		tsa33sy33ya33	tsa33sy33ya33				roundtrip_mismatch	tsa33sɿ33ɦia33	tsa33sy33yia33	
+source_clean	result_all_converted.clean.csv	3606		245					包爷爷菩萨		pa33ya55ya55bu55saeq54	pa33ya55ya55bu55saeq54				roundtrip_mismatch	pa33ɦia55ɦia55bu55sæʔ54	pa33yia55yia55bu55saeq54	
+source_clean	result_all_converted.clean.csv	3609		245					地藏王菩萨		di11dzaon11waon11bu11saeq1	di11dzaon11waon11bu11saeq1				roundtrip_mismatch	di11dzɒŋ11ɦuɒŋ11bu11sæʔ1	di11dzaon11wuaon11bu11saeq1	
+source_clean	result_all_converted.clean.csv	3613		245					龙王菩萨		lon11waon55bu55saeq54	lon11waon55bu55saeq54				roundtrip_mismatch	loŋ11ɦuɒŋ55bu55sæʔ54	lon11wuaon55bu55saeq54	
+source_clean	result_all_converted.clean.csv	3614		245					海龙王		he335lon55waon52	he335lon55waon52				roundtrip_mismatch	hᴇ335loŋ55ɦuɒŋ52	he335lon55wuaon52	
+source_clean	result_all_converted.clean.csv	3616		245					活无常		weq1wu55dzaon52	weq1wu55dzaon52				roundtrip_mismatch	ɦueʔ1ɦu55dzɒŋ52	wueq1wu55dzaon52	
+source_clean	result_all_converted.clean.csv	3621		245					活灵		weq1lin52	weq1lin52				roundtrip_mismatch	ɦueʔ1liŋ52	wueq1lin52	
+source_clean	result_all_converted.clean.csv	3623		245					活		weq23	weq23				roundtrip_mismatch	ɦueʔ23	wueq23	
+source_clean	result_all_converted.clean.csv	3624		245					鬼		ciu335	ciu335				roundtrip_mismatch	tɕy335	tciu335	
+source_clean	result_all_converted.clean.csv	3627		245					吊煞鬼		tiau33saeq3ciu33	tiau33saeq3ciu33				roundtrip_mismatch	tiɒ33sæʔ3tɕy33	tiau33saeq3tciu33	
+source_clean	result_all_converted.clean.csv	3629		246					潭煞鬼		deen11saeq5ciu52	deen11saeq5ciu52				roundtrip_mismatch	dẽ11sæʔ5tɕy52	deen11saeq5tciu52	
+source_clean	result_all_converted.clean.csv	3631		246					火烧鬼		hu335sau55ciu52	hu335sau55ciu52				roundtrip_mismatch	hu335sɒ55tɕy52	hu335sau55tciu52	
+source_clean	result_all_converted.clean.csv	3632		246					跌煞鬼		tiq3saeq5ciu52	tiq3saeq5ciu52				roundtrip_mismatch	tieʔ3sæʔ5tɕy52	tiq3saeq5tciu52	
+source_clean	result_all_converted.clean.csv	3633		246					舍五鬼		se335wu55ciu52	se335wu55ciu52				roundtrip_mismatch	sᴇ335ɦu55tɕy52	se335wu55tciu52	
+source_clean	result_all_converted.clean.csv	3634		246					杀头鬼		saeq3deu55ciu52	saeq3deu55ciu52				roundtrip_mismatch	sæʔ3dɤ55tɕy52	saeq3deu55tciu52	
+source_clean	result_all_converted.clean.csv	3635		246					枪毙鬼		chian33bi55ciu52	chian33bi55ciu52				roundtrip_mismatch	tɕʰiaŋ33bi55tɕy52	chian33bi55tciu52	
+source_clean	result_all_converted.clean.csv	3636		246					饿煞鬼		ngo11saeq1ciu11	ngo11saeq1ciu11				roundtrip_mismatch	ŋo11sæʔ1tɕy11	ngo11saeq1tciu11	
+source_clean	result_all_converted.clean.csv	3637		246					哭煞鬼		khoq3saeq5ciu52	khoq3saeq5ciu52				roundtrip_mismatch	kʰoʔ3sæʔ5tɕy52	khoq3saeq5tciu52	
+source_clean	result_all_converted.clean.csv	3638		246					短命鬼		toen335min55ciu52	toen335min55ciu52				roundtrip_mismatch	tø̃335miŋ55tɕy52	toen335min55tciu52	
+source_clean	result_all_converted.clean.csv	3640		246					夜鬼		ya11ciu11	ya11ciu11				roundtrip_mismatch	ɦia11tɕy11	yia11tciu11	
+source_clean	result_all_converted.clean.csv	3641		246					浮尸鬼		veu11sy55ciu52	veu11sy55ciu52				roundtrip_mismatch	vɤ11sɿ55tɕy52	veu11sy55tciu52	
+source_clean	result_all_converted.clean.csv	3643		246					横丧鬼		wan11saon55ciu52	wan11saon55ciu52				roundtrip_mismatch	ɦuaŋ11sɒŋ55tɕy52	wuan11saon55tciu52	
+source_clean	result_all_converted.clean.csv	3645		246					横丧		wan11saon52	wan11saon52				roundtrip_mismatch	ɦuaŋ11sɒŋ52	wuan11saon52	
+source_clean	result_all_converted.clean.csv	3648		246					狐狸精		wu11li55cin52	wu11li55cin52				roundtrip_mismatch	ɦu11li55tɕiŋ52	wu11li55tcin52	
+source_clean	result_all_converted.clean.csv	3649		246					独脚		doq1ciaq5	doq1ciaq5				roundtrip_mismatch	doʔ1tɕiaʔ5	doq1tciaq5	
+source_clean	result_all_converted.clean.csv	3653		246					洋钿		yan231	yan231				roundtrip_mismatch	ɦiaŋ231	yian231	
+source_clean	result_all_converted.clean.csv	3655		246					银洋细		gnin11yan55shi52	gnin11yan55shi52				roundtrip_mismatch	ȵiŋ11ɦiaŋ55ɕi52	gnin11yian55shi52	
+source_clean	result_all_converted.clean.csv	3658		247					鹰洋		in33yan52	in33yan52				roundtrip_mismatch	iŋ33ɦiaŋ52	in33yian52	
+source_clean	result_all_converted.clean.csv	3659		247					龙洋		lon11yan52	lon11yan52				roundtrip_mismatch	loŋ11ɦiaŋ52	lon11yian52	
+source_clean	result_all_converted.clean.csv	3669		247					家事		cia33zy55	cia33zy55				roundtrip_mismatch	tɕia33zɿ55	tcia33zy55	
+source_clean	result_all_converted.clean.csv	3675		247					进账		cin33tsan33	cin33tsan33				roundtrip_mismatch	tɕiŋ33tsaŋ33	tcin33tsan33	
+source_clean	result_all_converted.clean.csv	3678		247					淘窑		dau11ya52	dau11ya52				roundtrip_mismatch	dɒ11ɦia52	dau11yia52	
+source_clean	result_all_converted.clean.csv	3689		247					指生活		tsy335san55weq54	tsy335san55weq54				roundtrip_mismatch	tsɿ335saŋ55ɦueʔ54	tsy335san55wueq54	
+source_clean	result_all_converted.clean.csv	3690		247					日脚		gni11ciaq1	gni11ciaq1				roundtrip_mismatch	ȵi11tɕiaʔ1	gni11tciaq1	
+source_clean	result_all_converted.clean.csv	3730		249					肉店		gnio11tien11	gnio11tien11				roundtrip_mismatch	ȵiɒ11tiẽ11	gniau11tien11	
+source_clean	result_all_converted.clean.csv	3739		249					宿夜店		shieu33ya33tien33	shieu33ya33tien33				roundtrip_mismatch	ɕiɤ33ɦia33tiẽ33	shieu33yia33tien33	
+source_clean	result_all_converted.clean.csv	3755		250					买主		ma115ciu52	ma115ciu52				roundtrip_mismatch	ma115tɕy52	ma115tciu52	
+source_clean	result_all_converted.clean.csv	3759		250					国家		kuoq3cia52	kuoq3cia52				roundtrip_mismatch	kuoʔ3tɕia52	kuoq3tcia52	
+source_clean	result_all_converted.clean.csv	3769		250					家乡		cia33shian52	cia33shian52				roundtrip_mismatch	tɕia33ɕiaŋ52	tcia33shian52	
+source_clean	result_all_converted.clean.csv	3774		250					地脚		di11ciaq1	di11ciaq1				roundtrip_mismatch	di11tɕiaʔ1	di11tciaq1	
+source_clean	result_all_converted.clean.csv	3797		251					火车路		hu335ciu55lu52	hu335ciu55lu52				roundtrip_mismatch	hu335tɕy55lu52	hu335tciu55lu52	
+source_clean	result_all_converted.clean.csv	3799		251					汽车路		chi33ciu33lu33	chi33ciu33lu33				roundtrip_mismatch	tɕʰi33tɕy33lu33	chi33tciu33lu33	
+source_clean	result_all_converted.clean.csv	3807		251					车站		ciu33dzaen55	ciu33dzaen55				roundtrip_mismatch	tɕy33dzæ̃55	tciu33dzaen55	
+source_clean	result_all_converted.clean.csv	3810		252					火车站		hu335ciu55dzaen52	hu335ciu55dzaen52				roundtrip_mismatch	hu335tɕy55dzæ̃52	hu335tciu55dzaen52	
+source_clean	result_all_converted.clean.csv	3811		252					汽车站		chi33ciu33dzaen33	chi33ciu33dzaen33				roundtrip_mismatch	tɕʰi33tɕy33dzæ̃33	chi33tciu33dzaen33	
+source_clean	result_all_converted.clean.csv	3814		252					飞机场		fi33ci55dzan52	fi33ci55dzan52				roundtrip_mismatch	fi33tɕi55dzaŋ52	fi33tci55dzan52	
+source_clean	result_all_converted.clean.csv	3815		252					火车		hu335ciu52	hu335ciu52				roundtrip_mismatch	hu335tɕy52	hu335tciu52	
+source_clean	result_all_converted.clean.csv	3816		252					火车		hu335ciu52	hu335ciu52				roundtrip_mismatch	hu335tɕy52	hu335tciu52	
+source_clean	result_all_converted.clean.csv	3817		252					客车		khaq3ciu52	khaq3ciu52				roundtrip_mismatch	kʰaʔ3tɕy52	khaq3tciu52	
+source_clean	result_all_converted.clean.csv	3818		252					货色车		hu33seoq3ciu33	hu33seoq3ciu33				roundtrip_mismatch	hu33səʔ3tɕy33	hu33seoq3tciu33	
+source_clean	result_all_converted.clean.csv	3819		252					汽车		chi33ciu33	chi33ciu33				roundtrip_mismatch	tɕʰi33tɕy33	chi33tciu33	
+source_clean	result_all_converted.clean.csv	3820		252					轿车		jiau11ciu11	jiau11ciu11				roundtrip_mismatch	dʑiɒ11tɕy11	jiau11tciu11	
+source_clean	result_all_converted.clean.csv	3821		252					小包车		shiau335pa55ciu52	shiau335pa55ciu52				roundtrip_mismatch	ɕiɒ335pa55tɕy52	shiau335pa55tciu52	
+source_clean	result_all_converted.clean.csv	3822		252					救火车		cieu33hu33ciu33	cieu33hu33ciu33				roundtrip_mismatch	tɕiɤ33hu33tɕy33	tcieu33hu33tciu33	
+source_clean	result_all_converted.clean.csv	3823		252					救护车		cieu33wu33ciu33	cieu33wu33ciu33				roundtrip_mismatch	tɕiɤ33ɦu33tɕy33	tcieu33wu33tciu33	
+source_clean	result_all_converted.clean.csv	3824		252					卡车		kha335ciu52	kha335ciu52				roundtrip_mismatch	kʰa335tɕy52	kha335tciu52	
+source_clean	result_all_converted.clean.csv	3828		252					电车		dien11ciu11	dien11ciu11				roundtrip_mismatch	diẽ11tɕy11	dien11tciu11	
+source_clean	result_all_converted.clean.csv	3829		252					有轨电车		yeu115kue55dien55ciu52	yeu115kue55dien55ciu52				roundtrip_mismatch	ɦiɤ115kuᴇ55diẽ55tɕy52	yieu115kue55dien55tciu52	
+source_clean	result_all_converted.clean.csv	3830		252					无轨电车		wu11kue55dien55ciu52	wu11kue55dien55ciu52				roundtrip_mismatch	ɦu11kuᴇ55diẽ55tɕy52	wu11kue55dien55tciu52	
+source_clean	result_all_converted.clean.csv	3831		252					塌车		thaeq3ciu52	thaeq3ciu52				roundtrip_mismatch	tʰæʔ3tɕy52	thaeq3tciu52	
+source_clean	result_all_converted.clean.csv	3832		252					三轮车		saen33leen55ciu52	saen33leen55ciu52				roundtrip_mismatch	sæ̃33lẽ55tɕy52	saen33leen55tciu52	
+source_clean	result_all_converted.clean.csv	3833		252					黄包车		huaon33pa55ciu52	huaon33pa55ciu52				roundtrip_mismatch	huɒŋ33pa55tɕy52	huaon33pa55tciu52	
+source_clean	result_all_converted.clean.csv	3834		252					脚踏车		ciaq3daeq5ciu52	ciaq3daeq5ciu52				roundtrip_mismatch	tɕiaʔ3dæʔ5tɕy52	tciaq3daeq5tciu52	
+source_clean	result_all_converted.clean.csv	3835		252					踏脚车		daeq1ciaq5ciu52	daeq1ciaq5ciu52				roundtrip_mismatch	dæʔ1tɕiaʔ5tɕy52	daeq1tciaq5tciu52	
+source_clean	result_all_converted.clean.csv	3842		253					划船		wo11zeen52	wo11zeen52				roundtrip_mismatch	ɦuo11zẽ52	wuo11zeen52	
+source_clean	result_all_converted.clean.csv	3843		253					用桨划的船		yon11cian11wo11tiq1zeen11	yon11cian11wo11tiq1zeen11				roundtrip_mismatch	ɦioŋ11tɕiaŋ11ɦuo11tieʔ1zẽ11	yion11tcian11wuo11tiq1zeen11	
+source_clean	result_all_converted.clean.csv	3844		253					小划船		shiau335wo55zeen52	shiau335wo55zeen52				roundtrip_mismatch	ɕiɒ335ɦuo55zẽ52	shiau335wuo55zeen52	
+source_clean	result_all_converted.clean.csv	3845		253					戳桨船		tshoq3cian55zeen52	tshoq3cian55zeen52				roundtrip_mismatch	tsʰoʔ3tɕiaŋ55zẽ52	tshoq3tcian55zeen52	
+source_clean	result_all_converted.clean.csv	3849		253					摇船		yau11zeen52	yau11zeen52				roundtrip_mismatch	ɦiɒ11zẽ52	yiau11zeen52	
+source_clean	result_all_converted.clean.csv	3850		253					摇橹的船		yau11lu55tiq5zeen52	yau11lu55tiq5zeen52				roundtrip_mismatch	ɦiɒ11lu55tieʔ5zẽ52	yiau11lu55tiq5zeen52	
+source_clean	result_all_converted.clean.csv	3852		253					摇四橹的船		yau11sy55lu55tiq5zeen52	yau11sy55lu55tiq5zeen52				roundtrip_mismatch	ɦiɒ11sɿ55lu55tieʔ5zẽ52	yiau11sy55lu55tiq5zeen52	
+source_clean	result_all_converted.clean.csv	3875		254					桨		cian335	cian335				roundtrip_mismatch	tɕiaŋ335	tcian335	
+source_clean	result_all_converted.clean.csv	3876		254					扳桨		paen33cian55	paen33cian55				roundtrip_mismatch	pæ̃33tɕiaŋ55	paen33tcian55	
+source_clean	result_all_converted.clean.csv	3877		254					桨		cian335	cian335				roundtrip_mismatch	tɕiaŋ335	tcian335	
+source_clean	result_all_converted.clean.csv	3878		254					用脚蹬的桨		yon11ciaq1tiq1cian11	yon11ciaq1tiq1cian11				roundtrip_mismatch	ɦioŋ11tɕiaʔ1tieʔ1tɕiaŋ11	yion11tciaq1tiq1tcian11	
+source_clean	result_all_converted.clean.csv	3879		254					桨桩		cian335tsaon52	cian335tsaon52				roundtrip_mismatch	tɕiaŋ335tsɒŋ52	tcian335tsaon52	
+source_clean	result_all_converted.clean.csv	3885		254					飞机		fi33ci52	fi33ci52				roundtrip_mismatch	fi33tɕi52	fi33tci52	
+source_clean	result_all_converted.clean.csv	3886		254					双翼飞机		saon33yiq5fi55ci52	saon33yiq5fi55ci52				roundtrip_mismatch	sɒŋ33ɦieʔ5fi55tɕi52	saon33yiq5fi55tci52	
+source_clean	result_all_converted.clean.csv	3887		254					单翼飞机		taen33yiq5fi55ci52	taen33yiq5fi55ci52				roundtrip_mismatch	tæ̃33ɦieʔ5fi55tɕi52	taen33yiq5fi55tci52	
+source_clean	result_all_converted.clean.csv	3888		254					喷气式飞机		pheen33chi55seq5fi55ci52	pheen33chi55seq5fi55ci52				roundtrip_mismatch	pʰẽ33tɕʰi55seʔ5fi55tɕi52	pheen33chi55seq5fi55tci52	
+source_clean	result_all_converted.clean.csv	3889		254					推进器		the33cin55chi52	the33cin55chi52				roundtrip_mismatch	tʰᴇ33tɕiŋ55tɕʰi52	the33tcin55chi52	
+source_clean	result_all_converted.clean.csv	3893		254					邮政局		yeu11tseon55jioeq54	yeu11tseon55jioeq54				roundtrip_mismatch	ɦiɤ11tsəŋ55dʑiøʔ54	yieu11tseon55jioeq54	
+source_clean	result_all_converted.clean.csv	3896		254					邮票		yeu11phiau55	yeu11phiau55				roundtrip_mismatch	ɦiɤ11pʰiɒ55	yieu11phiau55	
+source_clean	result_all_converted.clean.csv	3909		255					邮筒		yeu11don55	yeu11don55				roundtrip_mismatch	ɦiɤ11doŋ55	yieu11don55	
+source_clean	result_all_converted.clean.csv	3910		255					电话		dien11wo11	dien11wo11				roundtrip_mismatch	diẽ11ɦuo11	dien11wuo11	
+source_clean	result_all_converted.clean.csv	3918		255					年级		gnien11ciq5	gnien11ciq5				roundtrip_mismatch	ȵiẽ11tɕieʔ5	gnien11tciq5	
+source_clean	result_all_converted.clean.csv	3919		255					班级		paen33ciq5	paen33ciq5				roundtrip_mismatch	pæ̃33tɕieʔ5	paen33tciq5	
+source_clean	result_all_converted.clean.csv	3923		255					暑假		shiu335cia52	shiu335cia52				roundtrip_mismatch	ɕy335tɕia52	shiu335tcia52	
+source_clean	result_all_converted.clean.csv	3924		255					寒假		gheen11cia55	gheen11cia55				roundtrip_mismatch	ɦẽ11tɕia55	gheen11tcia55	
+source_clean	result_all_converted.clean.csv	3925		255					农忙假		non11man55cia52	non11man55cia52				roundtrip_mismatch	noŋ11maŋ55tɕia52	non11man55tcia52	
+source_clean	result_all_converted.clean.csv	3926		255					春假		tsheen33cia55	tsheen33cia55				roundtrip_mismatch	tsʰẽ33tɕia55	tsheen33tcia55	
+source_clean	result_all_converted.clean.csv	3940		256					笔记簿		piq3ci55bu52	piq3ci55bu52				roundtrip_mismatch	pieʔ3tɕi55bu52	piq3tci55bu52	
+source_clean	result_all_converted.clean.csv	3941		256					笔记本		piq3ci55peen52	piq3ci55peen52				roundtrip_mismatch	pieʔ3tɕi55pẽ52	piq3tci55peen52	
+source_clean	result_all_converted.clean.csv	3951		256					圆珠笔		yoen11ciu55piq54	yoen11ciu55piq54				roundtrip_mismatch	ɦiø̃11tɕy55pieʔ54	yoen11tciu55piq54	
+source_clean	result_all_converted.clean.csv	3960		257					笔架		piq3cia55	piq3cia55				roundtrip_mismatch	pieʔ3tɕia55	piq3tcia55	
+source_clean	result_all_converted.clean.csv	3962		257					卷笔套		cioen335piq5thau52	cioen335piq5thau52				roundtrip_mismatch	tɕiø̃335pieʔ5tʰɒ52	tcioen335piq5thau52	
+source_clean	result_all_converted.clean.csv	3973		257					红墨水		won11moq5sy52	won11moq5sy52				roundtrip_mismatch	ɦuoŋ11moʔ5sɿ52	wuon11moq5sy52	
+source_clean	result_all_converted.clean.csv	3980		257					橡皮筋		jian115bi55cin52	jian115bi55cin52				roundtrip_mismatch	dʑiaŋ115bi55tɕiŋ52	jian115bi55tcin52	
+source_clean	result_all_converted.clean.csv	3981		257					牛皮筋		gnieu11bi55cin52	gnieu11bi55cin52				roundtrip_mismatch	ȵiɤ11bi55tɕiŋ52	gnieu11bi55tcin52	
+source_clean	result_all_converted.clean.csv	3982		257					图画钉		du11wo55tin52	du11wo55tin52				roundtrip_mismatch	du11ɦuo55tiŋ52	du11wuo55tin52	
+source_clean	result_all_converted.clean.csv	3985		257					回形针		we11yin55tseen52	we11yin55tseen52				roundtrip_mismatch	ɦuᴇ11ɦiŋ55tsẽ52	wue11yin55tseen52	
+source_clean	result_all_converted.clean.csv	3986		257					钉书机		tin33shiu55ci52	tin33shiu55ci52				roundtrip_mismatch	tiŋ33ɕy55tɕi52	tin33shiu55tci52	
+source_clean	result_all_converted.clean.csv	3989		258					浆糊		cian33wu52	cian33wu52				roundtrip_mismatch	tɕiaŋ33ɦu52	tcian33wu52	
+source_clean	result_all_converted.clean.csv	3996		258					考试卷		khau335sy55cioen52	khau335sy55cioen52				roundtrip_mismatch	kʰɒ335sɿ55tɕiø̃52	khau335sy55tcioen52	
+source_clean	result_all_converted.clean.csv	3997		258					测验卷		tsheoq3gniaen55cioen52	tsheoq3gniaen55cioen52				roundtrip_mismatch	tsʰəʔ3ȵiæ̃55tɕiø̃52	tsheoq3gniaen55tcioen52	
+source_clean	result_all_converted.clean.csv	4005		258					上话		zan115wo52	zan115wo52				roundtrip_mismatch	zaŋ115ɦuo52	zan115wuo52	
+source_clean	result_all_converted.clean.csv	4006		258					说话		se33wo33	se33wo33				roundtrip_mismatch	sᴇ33ɦuo33	se33wuo33	
+source_clean	result_all_converted.clean.csv	4008		258					大头天话		da11deu11thien11wo11	da11deu11thien11wo11				roundtrip_mismatch	da11dɤ11tʰiẽ11ɦuo11	da11deu11thien11wuo11	
+source_clean	result_all_converted.clean.csv	4010		258					笑话		shiau33wo33	shiau33wo33				roundtrip_mismatch	ɕiɒ33ɦuo33	shiau33wuo33	
+source_clean	result_all_converted.clean.csv	4018		259					话剧		wo11	wo11				roundtrip_mismatch	ɦuo11	wuo11	
+source_clean	result_all_converted.clean.csv	4034		259					鬼戏		ciu335shi52	ciu335shi52				roundtrip_mismatch	tɕy335ɕi52	tciu335shi52	
+source_clean	result_all_converted.clean.csv	4039		259					图画		du11wo55	du11wo55				roundtrip_mismatch	du11ɦuo55	du11wuo55	
+source_clean	result_all_converted.clean.csv	4044		260					叫子		ciau33tsy33	ciau33tsy33				roundtrip_mismatch	tɕiɒ33tsɿ33	tciau33tsy33	
+source_clean	result_all_converted.clean.csv	4045		260					叫比比		ciau33pi33pi33	ciau33pi33pi33				roundtrip_mismatch	tɕiɒ33pi33pi33	tciau33pi33pi33	
+source_clean	result_all_converted.clean.csv	4061		260					洋箫		yan11shiau52	yan11shiau52				roundtrip_mismatch	ɦiaŋ11ɕiɒ52	yian11shiau52	
+source_clean	result_all_converted.clean.csv	4067		260					麻将		mo11cian52	mo11cian52				roundtrip_mismatch	mo11tɕiaŋ52	mo11tcian52	
+source_clean	result_all_converted.clean.csv	4069		260					牌九		ba11cieu55	ba11cieu55				roundtrip_mismatch	ba11tɕiɤ55	ba11tcieu55	
+source_clean	result_all_converted.clean.csv	4074		261					嬉家生		shi33cia55san52	shi33cia55san52				roundtrip_mismatch	ɕi33tɕia55saŋ52	shi33tcia55san52	
+source_clean	result_all_converted.clean.csv	4075		261					摇骨东		yau11kueq5ton52	yau11kueq5ton52				roundtrip_mismatch	ɦiɒ11kueʔ5toŋ52	yiau11kueq5ton52	
+source_clean	result_all_converted.clean.csv	4093		261					用场		yon11dzan11	yon11dzan11				roundtrip_mismatch	ɦioŋ11dzaŋ11	yion11dzan11	
+source_clean	result_all_converted.clean.csv	4094		261					用处		yon11chiu11	yon11chiu11				roundtrip_mismatch	ɦioŋ11tɕʰy11	yion11chiu11	
+source_clean	result_all_converted.clean.csv	4105		262					记号		ci33gha33	ci33gha33				roundtrip_mismatch	tɕi33ɦa33	tci33gha33	
+source_clean	result_all_converted.clean.csv	4106		262					记认		ci33zeen33	ci33zeen33				roundtrip_mismatch	tɕi33zẽ33	tci33zeen33	
+source_clean	result_all_converted.clean.csv	4109		262					样子		yan11tsy11	yan11tsy11				roundtrip_mismatch	ɦiaŋ11tsɿ11	yian11tsy11	
+source_clean	result_all_converted.clean.csv	4112		262					样式		yan11seq1	yan11seq1				roundtrip_mismatch	ɦiaŋ11seʔ1	yian11seq1	
+source_clean	result_all_converted.clean.csv	4113		262					指物的模样		tsy335veq5tiq5mu55yan52	tsy335veq5tiq5mu55yan52				roundtrip_mismatch	tsɿ335veʔ5tieʔ5mu55ɦiaŋ52	tsy335veq5tiq5mu55yian52	
+source_clean	result_all_converted.clean.csv	4116		262					年纪		gnien11ci55	gnien11ci55				roundtrip_mismatch	ȵiẽ11tɕi55	gnien11tci55	
+source_clean	result_all_converted.clean.csv	4118		262					精神		cin33zeen52	cin33zeen52				roundtrip_mismatch	tɕiŋ33zẽ52	tcin33zeen52	
+source_clean	result_all_converted.clean.csv	4124		262					记性		ci33shin33	ci33shin33				roundtrip_mismatch	tɕi33ɕiŋ33	tci33shin33	
+source_clean	result_all_converted.clean.csv	4133		262					脚路		ciaq3lu55	ciaq3lu55				roundtrip_mismatch	tɕiaʔ3lu55	tciaq3lu55	
+source_clean	result_all_converted.clean.csv	4145		263					造话		zau115wo52	zau115wo52				roundtrip_mismatch	zɒ115ɦuo52	zau115wuo52	
+source_clean	result_all_converted.clean.csv	4146		263					炼话		lien11wo11	lien11wo11				roundtrip_mismatch	liẽ11ɦuo11	lien11wuo11	
+source_clean	result_all_converted.clean.csv	4147		263					横话		wan11wo55	wan11wo55				roundtrip_mismatch	ɦuaŋ11ɦuo55	wuan11wuo55	
+source_clean	result_all_converted.clean.csv	4148		263					坏话		wa11wo11	wa11wo11				roundtrip_mismatch	ɦua11ɦuo11	wua11wuo11	
+source_clean	result_all_converted.clean.csv	4149		263					浮话		veu11wo55	veu11wo55				roundtrip_mismatch	vɤ11ɦuo55	veu11wuo55	
+source_clean	result_all_converted.clean.csv	4150		263					破话		pha33wo33	pha33wo33				roundtrip_mismatch	pʰa33ɦuo33	pha33wuo33	
+source_clean	result_all_converted.clean.csv	4151		263					毁谤性的话		hue335paon55shin55tiq5wo52	hue335paon55shin55tiq5wo52				roundtrip_mismatch	huᴇ335pɒŋ55ɕiŋ55tieʔ5ɦuo52	hue335paon55shin55tiq5wuo52	
+source_clean	result_all_converted.clean.csv	4152		263					胀话		tsan33wo33	tsan33wo33				roundtrip_mismatch	tsaŋ33ɦuo33	tsan33wuo33	
+source_clean	result_all_converted.clean.csv	4153		263					气话		chi33wo33	chi33wo33				roundtrip_mismatch	tɕʰi33ɦuo33	chi33wuo33	
+source_clean	result_all_converted.clean.csv	4154		263					揉话		dzeu11wo55	dzeu11wo55				roundtrip_mismatch	dzɤ11ɦuo55	dzeu11wuo55	
+source_clean	result_all_converted.clean.csv	4155		263					刁话		tiau33wo55	tiau33wo55				roundtrip_mismatch	tiɒ33ɦuo55	tiau33wuo55	
+source_clean	result_all_converted.clean.csv	4156		263					邓话		deon11wo11	deon11wo11				roundtrip_mismatch	dəŋ11ɦuo11	deon11wuo11	
+source_clean	result_all_converted.clean.csv	4157		263					宕话		dan11wo11	dan11wo11				roundtrip_mismatch	daŋ11ɦuo11	dan11wuo11	
+source_clean	result_all_converted.clean.csv	4158		263					冷话		lan115wo52	lan115wo52				roundtrip_mismatch	laŋ115ɦuo52	lan115wuo52	
+source_clean	result_all_converted.clean.csv	4160		264					亮话		lian11wo11	lian11wo11				roundtrip_mismatch	liaŋ11ɦuo11	lian11wuo11	
+source_clean	result_all_converted.clean.csv	4161		264					凡话		vaen11wo55	vaen11wo55				roundtrip_mismatch	væ̃11ɦuo55	vaen11wuo55	
+source_clean	result_all_converted.clean.csv	4162		264					杜话		du115wo52	du115wo52				roundtrip_mismatch	du115ɦuo52	du115wuo52	
+source_clean	result_all_converted.clean.csv	4163		264					懈话		ga115wo52	ga115wo52				roundtrip_mismatch	ɡa115ɦuo52	ga115wuo52	
+source_clean	result_all_converted.clean.csv	4164		264					呆话		te33wo55	te33wo55				roundtrip_mismatch	tᴇ33ɦuo55	te33wuo55	
+source_clean	result_all_converted.clean.csv	4165		264					绝话		jiq1wo55	jiq1wo55				roundtrip_mismatch	dʑieʔ1ɦuo55	jiq1wuo55	
+source_clean	result_all_converted.clean.csv	4166		264					海话		he335wo52	he335wo52				roundtrip_mismatch	hᴇ335ɦuo52	he335wuo52	
+source_clean	result_all_converted.clean.csv	4167		264					满话		moen115wo52	moen115wo52				roundtrip_mismatch	mø̃115ɦuo52	moen115wuo52	
+source_clean	result_all_converted.clean.csv	4168		264					话把		wo11po11	wo11po11				roundtrip_mismatch	ɦuo11po11	wuo11po11	
+source_clean	result_all_converted.clean.csv	4203		265					左边		cia33pien33	cia33pien33				roundtrip_mismatch	tɕia33piẽ33	tcia33pien33	
+source_clean	result_all_converted.clean.csv	4204		265					左面		cia33mien33	cia33mien33				roundtrip_mismatch	tɕia33miẽ33	tcia33mien33	
+source_clean	result_all_converted.clean.csv	4205		265					借		cia33	cia33				roundtrip_mismatch	tɕia33	tcia33	
+source_clean	result_all_converted.clean.csv	4206		265					右边		yeu115pien52	yeu115pien52				roundtrip_mismatch	ɦiɤ115piẽ52	yieu115pien52	
+source_clean	result_all_converted.clean.csv	4207		265					右面		yeu115mien52	yeu115mien52				roundtrip_mismatch	ɦiɤ115miẽ52	yieu115mien52	
+source_clean	result_all_converted.clean.csv	4232		266					上横头		zan115wan55deu52	zan115wan55deu52				roundtrip_mismatch	zaŋ115ɦuaŋ55dɤ52	zan115wuan55deu52	
+source_clean	result_all_converted.clean.csv	4233		266					下横头		gho115wan55deu52	gho115wan55deu52				roundtrip_mismatch	ɦo115ɦuaŋ55dɤ52	gho115wuan55deu52	
+source_clean	result_all_converted.clean.csv	4245		266					摆角汇头		pa335koq5we55deu52	pa335koq5we55deu52				roundtrip_mismatch	pa335koʔ5ɦuᴇ55dɤ52	pa335koq5wue55deu52	
+source_clean	result_all_converted.clean.csv	4247		266					汇头		we115deu52	we115deu52				roundtrip_mismatch	ɦuᴇ115dɤ52	wue115deu52	
+source_clean	result_all_converted.clean.csv	4252		267					天夜		thien33ya55	thien33ya55				roundtrip_mismatch	tʰiẽ33ɦia55	thien33yia55	
+source_clean	result_all_converted.clean.csv	4257		267					彩色跃动		tshe335seoq5yaq5don52	tshe335seoq5yaq5don52				roundtrip_mismatch	tsʰᴇ335səʔ5ɦiaʔ5doŋ52	tshe335seoq5yiaq5don52	
+source_clean	result_all_converted.clean.csv	4261		267					刮龙卷风		kuaeq3lon55cioen55fon52	kuaeq3lon55cioen55fon52				roundtrip_mismatch	kuæʔ3loŋ55tɕiø̃55foŋ52	kuaeq3lon55tcioen55fon52	
+source_clean	result_all_converted.clean.csv	4285		268					出蛟		tsheq3ciau52	tsheq3ciau52				roundtrip_mismatch	tsʰeʔ3tɕiɒ52	tsheq3tciau52	
+source_clean	result_all_converted.clean.csv	4291		268					结冰		ciq3pin52	ciq3pin52				roundtrip_mismatch	tɕieʔ3piŋ52	tciq3pin52	
+source_clean	result_all_converted.clean.csv	4294		268					夜寒雾冷		ya11gheen11wu11lan11	ya11gheen11wu11lan11				roundtrip_mismatch	ɦia11ɦẽ11ɦu11laŋ11	yia11gheen11wu11lan11	
+source_clean	result_all_converted.clean.csv	4297		268					烊雪		yan11shiq5	yan11shiq5				roundtrip_mismatch	ɦiaŋ11ɕieʔ5	yian11shiq5	
+source_clean	result_all_converted.clean.csv	4300		268					孵太阳		bu11tha11yan11	bu11tha11yan11				roundtrip_mismatch	bu11tʰa11ɦiaŋ11	bu11tha11yian11	
+source_clean	result_all_converted.clean.csv	4302		269					晒太阳		sa33tha33yan33	sa33tha33yan33				roundtrip_mismatch	sa33tʰa33ɦiaŋ33	sa33tha33yian33	
+source_clean	result_all_converted.clean.csv	4319		269					还潮		waen11dzau52	waen11dzau52				roundtrip_mismatch	ɦuæ̃11dzɒ52	wuaen11dzau52	
+source_clean	result_all_converted.clean.csv	4338		270					烊		yan231	yan231				roundtrip_mismatch	ɦiaŋ231	yian231	
+source_clean	result_all_converted.clean.csv	4340		270					逃患		dau11waen55	dau11waen55				roundtrip_mismatch	dɒ11ɦuæ̃55	dau11wuaen55	
+source_clean	result_all_converted.clean.csv	4341		270					看见		kheen33cien33	kheen33cien33				roundtrip_mismatch	kʰẽ33tɕiẽ33	kheen33tcien33	
+source_clean	result_all_converted.clean.csv	4345		270					横		wan231	wan231				roundtrip_mismatch	ɦuaŋ231	wuan231	
+source_clean	result_all_converted.clean.csv	4352		270					听见		thin33cien33	thin33cien33				roundtrip_mismatch	tʰiŋ33tɕiẽ33	thin33tcien33	
+source_clean	result_all_converted.clean.csv	4357		271					食祭		zeoq1ci55	zeoq1ci55				roundtrip_mismatch	zəʔ1tɕi55	zeoq1tci55	
+source_clean	result_all_converted.clean.csv	4388		272					项颈伸直		ghaon115cin55seen55dzeoq54	ghaon115cin55seen55dzeoq54				roundtrip_mismatch	ɦɒŋ115tɕiŋ55sẽ55dzəʔ54	ghaon115tcin55seen55dzeoq54	
+source_clean	result_all_converted.clean.csv	4392		272					摇		yau231	yau231				roundtrip_mismatch	ɦiɒ231	yiau231	
+source_clean	result_all_converted.clean.csv	4395		272					拱		cion335	cion335				roundtrip_mismatch	tɕioŋ335	tcion335	
+source_clean	result_all_converted.clean.csv	4397		272					拱		cion335	cion335				roundtrip_mismatch	tɕioŋ335	tcion335	
+source_clean	result_all_converted.clean.csv	4422		273					卷		cioen335	cioen335				roundtrip_mismatch	tɕiø̃335	tcioen335	
+source_clean	result_all_converted.clean.csv	4425		273					揭		ciq45	ciq45				roundtrip_mismatch	tɕieʔ45	tciq45	
+source_clean	result_all_converted.clean.csv	4451		274					掬		cioeq45	cioeq45				roundtrip_mismatch	tɕiøʔ45	tcioeq45	
+source_clean	result_all_converted.clean.csv	4480		275					鳜		ci33	ci33				roundtrip_mismatch	tɕi33	tci33	
+source_clean	result_all_converted.clean.csv	4488		276					丢患		tieu33waen55	tieu33waen55				roundtrip_mismatch	tiɤ33ɦuæ̃55	tieu33wuaen55	
+source_clean	result_all_converted.clean.csv	4513		277					系		ci33	ci33				roundtrip_mismatch	tɕi33	tci33	
+source_clean	result_all_converted.clean.csv	4534		277					塞进		sa33cin33	sa33cin33				roundtrip_mismatch	sa33tɕiŋ33	sa33tcin33	
+source_clean	result_all_converted.clean.csv	4583		279					汇		we113	we113				roundtrip_mismatch	ɦuᴇ113	wue113	
+source_clean	result_all_converted.clean.csv	4590		279					做生活		tso33san33weq3	tso33san33weq3				roundtrip_mismatch	tso33saŋ33ɦueʔ3	tso33san33wueq3	
+source_clean	result_all_converted.clean.csv	4595		280					上夜班		zan115ya55paen52	zan115ya55paen52				roundtrip_mismatch	zaŋ115ɦia55pæ̃52	zan115yia55paen52	
+source_clean	result_all_converted.clean.csv	4610		280					车水		ciu33sy55	ciu33sy55				roundtrip_mismatch	tɕy33sɿ55	tciu33sy55	
+source_clean	result_all_converted.clean.csv	4623		281					浇水		ciau33sy55	ciau33sy55				roundtrip_mismatch	tɕiɒ33sɿ55	tciau33sy55	
+source_clean	result_all_converted.clean.csv	4671		282					剪		cien335	cien335				roundtrip_mismatch	tɕiẽ335	tcien335	
+source_clean	result_all_converted.clean.csv	4690		283					肩浴		cien33gnioeq5	cien33gnioeq5				roundtrip_mismatch	tɕiẽ33ȵiøʔ5	tcien33gnioeq5	
+source_clean	result_all_converted.clean.csv	4712		284					浇		ciau52	ciau52				roundtrip_mismatch	tɕiɒ52	tciau52	
+source_clean	result_all_converted.clean.csv	4730		284					起油锅		chi335yeu55ku52	chi335yeu55ku52				roundtrip_mismatch	tɕʰi335ɦiɤ55ku52	chi335yieu55ku52	
+source_clean	result_all_converted.clean.csv	4738		285					回陶		we11dau52	we11dau52				roundtrip_mismatch	ɦuᴇ11dɒ52	wue11dau52	
+source_clean	result_all_converted.clean.csv	4739		285					回笼		we11lon52	we11lon52				roundtrip_mismatch	ɦuᴇ11loŋ52	wue11lon52	
+source_clean	result_all_converted.clean.csv	4745		285					缴		ciau52	ciau52				roundtrip_mismatch	tɕiɒ52	tciau52	
+source_clean	result_all_converted.clean.csv	4755		286					患咯		waen11koq1	waen11koq1				roundtrip_mismatch	ɦuæ̃11koʔ1	wuaen11koq1	
+source_clean	result_all_converted.clean.csv	4761		286					剑		cien33	cien33				roundtrip_mismatch	tɕiẽ33	tcien33	
+source_clean	result_all_converted.clean.csv	4777		286					话梦话		wo11mon11wo11	wo11mon11wo11				roundtrip_mismatch	ɦuo11moŋ11ɦuo11	wuo11mon11wuo11	
+source_clean	result_all_converted.clean.csv	4790		287					走阳		tseu335yan52	tseu335yan52				roundtrip_mismatch	tsɤ335ɦiaŋ52	tseu335yian52	
+source_clean	result_all_converted.clean.csv	4792		287					痱迹		fi33ciq3	fi33ciq3				roundtrip_mismatch	fi33tɕieʔ3	fi33tciq3	
+source_clean	result_all_converted.clean.csv	4793		287					搔痱迹		tsau33fi55ciq54	tsau33fi55ciq54				roundtrip_mismatch	tsɒ33fi55tɕieʔ54	tsau33fi55tciq54	
+source_clean	result_all_converted.clean.csv	4798		287					筋绊牢		cin33paen55lau52	cin33paen55lau52				roundtrip_mismatch	tɕiŋ33pæ̃55lɒ52	tcin33paen55lau52	
+source_clean	result_all_converted.clean.csv	4799		287					筋吊牢		cin33tiau55lau52	cin33tiau55lau52				roundtrip_mismatch	tɕiŋ33tiɒ55lɒ52	tcin33tiau55lau52	
+source_clean	result_all_converted.clean.csv	4804		287					见轻		cien33chin33	cien33chin33				roundtrip_mismatch	tɕiẽ33tɕʰiŋ33	tcien33chin33	
+source_clean	result_all_converted.clean.csv	4815		288					气急		chi33ciq3	chi33ciq3				roundtrip_mismatch	tɕʰi33tɕieʔ3	chi33tciq3	
+source_clean	result_all_converted.clean.csv	4816		288					厥起		cioeq3chi55	cioeq3chi55				roundtrip_mismatch	tɕiøʔ3tɕʰi55	tcioeq3chi55	
+source_clean	result_all_converted.clean.csv	4831		288					疰夏		ciu33gho33	ciu33gho33				roundtrip_mismatch	tɕy33ɦo33	tciu33gho33	
+source_clean	result_all_converted.clean.csv	4834		288					胃气痛		we11chi11thon11	we11chi11thon11				roundtrip_mismatch	ɦuᴇ11tɕʰi11tʰoŋ11	wue11chi11thon11	
+source_clean	result_all_converted.clean.csv	4836		288					刮急		kuaeq3ciq5	kuaeq3ciq5				roundtrip_mismatch	kuæʔ3tɕieʔ5	kuaeq3tciq5	
+source_clean	result_all_converted.clean.csv	4837		288					积食		ciq3zeoq5	ciq3zeoq5				roundtrip_mismatch	tɕieʔ3zəʔ5	tciq3zeoq5	
+source_clean	result_all_converted.clean.csv	4847		289					抽筋		tsheu33cin52	tsheu33cin52				roundtrip_mismatch	tsʰɤ33tɕiŋ52	tsheu33tcin52	
+source_clean	result_all_converted.clean.csv	4857		289					结		ciq45	ciq45				roundtrip_mismatch	tɕieʔ45	tciq45	
+source_clean	result_all_converted.clean.csv	4865		289					开药方		khe33yaq5faon52	khe33yaq5faon52				roundtrip_mismatch	kʰᴇ33ɦiaʔ5fɒŋ52	khe33yiaq5faon52	
+source_clean	result_all_converted.clean.csv	4866		289					吃药		keq3yaq5	keq3yaq5				roundtrip_mismatch	keʔ3ɦiaʔ5	keq3yiaq5	
+source_clean	result_all_converted.clean.csv	4867		289					煎药		cien33yaq5	cien33yaq5				roundtrip_mismatch	tɕiẽ33ɦiaʔ5	tcien33yiaq5	
+source_clean	result_all_converted.clean.csv	4868		289					搽药		dzo11yaq5	dzo11yaq5				roundtrip_mismatch	dzo11ɦiaʔ5	dzo11yiaq5	
+source_clean	result_all_converted.clean.csv	4872		290					打针灸		to335tseen55cieu52	to335tseen55cieu52				roundtrip_mismatch	to335tsẽ55tɕiɤ52	to335tseen55tcieu52	
+source_clean	result_all_converted.clean.csv	4873		290					灸		cieu33	cieu33				roundtrip_mismatch	tɕiɤ33	tcieu33	
+source_clean	result_all_converted.clean.csv	4882		290					将息		cian33shiq5	cian33shiq5				roundtrip_mismatch	tɕiaŋ33ɕieʔ5	tcian33shiq5	
+source_clean	result_all_converted.clean.csv	4883		290					将养		cian33yan55	cian33yan55				roundtrip_mismatch	tɕiaŋ33ɦiaŋ55	tcian33yian55	
+source_clean	result_all_converted.clean.csv	4886		290					养		yan113	yan113				roundtrip_mismatch	ɦiaŋ113	yian113	
+source_clean	result_all_converted.clean.csv	4887		290					活		weq23	weq23				roundtrip_mismatch	ɦueʔ23	wueq23	
+source_clean	result_all_converted.clean.csv	4895		290					轧朋友		gaeq1ban55yeu52	gaeq1ban55yeu52				roundtrip_mismatch	ɡæʔ1baŋ55ɦiɤ52	gaeq1ban55yieu52	
+source_clean	result_all_converted.clean.csv	4921		291					回门		we11meen52	we11meen52				roundtrip_mismatch	ɦuᴇ11mẽ52	wue11meen52	
+source_clean	result_all_converted.clean.csv	4932		292					同居		don11ciu52	don11ciu52				roundtrip_mismatch	doŋ11tɕy52	don11tciu52	
+source_clean	result_all_converted.clean.csv	4933		292					妍居		ciu52	ciu52				roundtrip_mismatch	tɕy52	tciu52	
+source_clean	result_all_converted.clean.csv	4934		292					继拜		ci33pa33	ci33pa33				roundtrip_mismatch	tɕi33pa33	tci33pa33	
+source_clean	result_all_converted.clean.csv	4935		292					关系		kuaen33ci55	kuaen33ci55				roundtrip_mismatch	kuæ̃33tɕi55	kuaen33tci55	
+source_clean	result_all_converted.clean.csv	4939		292					有孕哉		yeu115yoen55tsa52	yeu115yoen55tsa52				roundtrip_mismatch	ɦiɤ115ɦiø̃55tsa52	yieu115yoen55tsa52	
+source_clean	result_all_converted.clean.csv	4940		292					有		yeu113	yeu113				roundtrip_mismatch	ɦiɤ113	yieu113	
+source_clean	result_all_converted.clean.csv	4955		293					做肉		tso33gnio33	tso33gnio33				roundtrip_mismatch	tso33ȵiɒ33	tso33gniau33	
+source_clean	result_all_converted.clean.csv	4961		293					抢人家		chian335zeen55cia52	chian335zeen55cia52				roundtrip_mismatch	tɕʰiaŋ335zẽ55tɕia52	chian335zeen55tcia52	
+source_clean	result_all_converted.clean.csv	4964		293					回转		we11tseen55	we11tseen55				roundtrip_mismatch	ɦuᴇ11tsẽ55	wue11tseen55	
+source_clean	result_all_converted.clean.csv	4965		293					归来		ciu33le52	ciu33le52				roundtrip_mismatch	tɕy33lᴇ52	tciu33le52	
+source_clean	result_all_converted.clean.csv	4984		294					念经		gniaen11cin11	gniaen11cin11				roundtrip_mismatch	ȵiæ̃11tɕiŋ11	gniaen11tcin11	
+source_clean	result_all_converted.clean.csv	4986		294					还愿		waen11gnioen55	waen11gnioen55				roundtrip_mismatch	ɦuæ̃11ȵiø̃55	wuaen11gnioen55	
+source_clean	result_all_converted.clean.csv	5011		295					话		wo11	wo11				roundtrip_mismatch	ɦuo11	wuo11	
+source_clean	result_all_converted.clean.csv	5013		295					话说话		wo11se11wo11	wo11se11wo11				roundtrip_mismatch	ɦuo11sᴇ11ɦuo11	wuo11se11wuo11	
+source_clean	result_all_converted.clean.csv	5014		295					讲说话		kaon335se55wo52	kaon335se55wo52				roundtrip_mismatch	kɒŋ335sᴇ55ɦuo52	kaon335se55wuo52	
+source_clean	result_all_converted.clean.csv	5017		295					话白话		wo11baq1wo11	wo11baq1wo11				roundtrip_mismatch	ɦuo11baʔ1ɦuo11	wuo11baq1wuo11	
+source_clean	result_all_converted.clean.csv	5018		295					讲白话		kaon335baq5wo52	kaon335baq5wo52				roundtrip_mismatch	kɒŋ335baʔ5ɦuo52	kaon335baq5wuo52	
+source_clean	result_all_converted.clean.csv	5028		295					回答		we11taeq5	we11taeq5				roundtrip_mismatch	ɦuᴇ11tæʔ5	wue11taeq5	
+source_clean	result_all_converted.clean.csv	5041		296					寿记		zeu11ci11	zeu11ci11				roundtrip_mismatch	zɤ11tɕi11	zeu11tci11	
+source_clean	result_all_converted.clean.csv	5047		296					借		cia33	cia33				roundtrip_mismatch	tɕia33	tcia33	
+source_clean	result_all_converted.clean.csv	5048		296					谢借		zhia11cia11	zhia11cia11				roundtrip_mismatch	ʑia11tɕia11	zhia11tcia11	
+source_clean	result_all_converted.clean.csv	5050		296					还		waen231	waen231				roundtrip_mismatch	ɦuæ̃231	wuaen231	
+source_clean	result_all_converted.clean.csv	5051		296					还杯		waen11pe52	waen11pe52				roundtrip_mismatch	ɦuæ̃11pᴇ52	wuaen11pe52	
+source_clean	result_all_converted.clean.csv	5059		296					敬礼		cin33li33	cin33li33				roundtrip_mismatch	tɕiŋ33li33	tcin33li33	
+source_clean	result_all_converted.clean.csv	5060		296					鞠躬		cioeq3kuon52	cioeq3kuon52				roundtrip_mismatch	tɕiøʔ3kuoŋ52	tcioeq3kuon52	
+source_clean	result_all_converted.clean.csv	5077		297					叫		ciau33	ciau33				roundtrip_mismatch	tɕiɒ33	tciau33	
+source_clean	result_all_converted.clean.csv	5088		297					话勿来		wo11veq1le11	wo11veq1le11				roundtrip_mismatch	ɦuo11veʔ1lᴇ11	wuo11veq1le11	
+source_clean	result_all_converted.clean.csv	5104		298					讲大话		kaon335da55wo52	kaon335da55wo52				roundtrip_mismatch	kɒŋ335da55ɦuo52	kaon335da55wuo52	
+source_clean	result_all_converted.clean.csv	5110		298					呵痒		ho33yan55	ho33yan55				roundtrip_mismatch	ho33ɦiaŋ55	ho33yian55	
+source_clean	result_all_converted.clean.csv	5113		298					瞎话		haeq3wo55	haeq3wo55				roundtrip_mismatch	hæʔ3ɦuo55	haeq3wuo55	
+source_clean	result_all_converted.clean.csv	5120		298					救		cieu33	cieu33				roundtrip_mismatch	tɕiɤ33	tcieu33	
+source_clean	result_all_converted.clean.csv	5127		299					容纵		yon11tson52	yon11tson52				roundtrip_mismatch	ɦioŋ11tsoŋ52	yion11tson52	
+source_clean	result_all_converted.clean.csv	5130		299					回话		we11wo55	we11wo55				roundtrip_mismatch	ɦuᴇ11ɦuo55	wue11wuo55	
+source_clean	result_all_converted.clean.csv	5131		299					回头		we11deu52	we11deu52				roundtrip_mismatch	ɦuᴇ11dɤ52	wue11deu52	
+source_clean	result_all_converted.clean.csv	5132		299					回报		we11pau55	we11pau55				roundtrip_mismatch	ɦuᴇ11pɒ55	wue11pau55	
+source_clean	result_all_converted.clean.csv	5144		299					摆篷径		pa335bon55cin52	pa335bon55cin52				roundtrip_mismatch	pa335boŋ55tɕiŋ52	pa335bon55tcin52	
+source_clean	result_all_converted.clean.csv	5146		299					发呆径		faeq3te55cin52	faeq3te55cin52				roundtrip_mismatch	fæʔ3tᴇ55tɕiŋ52	faeq3te55tcin52	
+source_clean	result_all_converted.clean.csv	5151		299					话要		wo11iau11	wo11iau11				roundtrip_mismatch	ɦuo11iɒ11	wuo11iau11	
+source_clean	result_all_converted.clean.csv	5155		299					惹鬼		gnia115ciu52	gnia115ciu52				roundtrip_mismatch	ȵia115tɕy52	gnia115tciu52	
+source_clean	result_all_converted.clean.csv	5167		300					鬼画符		ciu335wo55vu52	ciu335wo55vu52				roundtrip_mismatch	tɕy335ɦuo55vu52	tciu335wuo55vu52	
+source_clean	result_all_converted.clean.csv	5168		300					戳壁脚		tshoq3piq5ciaq54	tshoq3piq5ciaq54				roundtrip_mismatch	tsʰoʔ3pieʔ5tɕiaʔ54	tshoq3piq5tciaq54	
+source_clean	result_all_converted.clean.csv	5169		300					有数咯		yeu115su55koq54	yeu115su55koq54				roundtrip_mismatch	ɦiɤ115su55koʔ54	yieu115su55koq54	
+source_clean	result_all_converted.clean.csv	5170		300					做手脚		tso33seu33ciaq3	tso33seu33ciaq3				roundtrip_mismatch	tso33sɤ33tɕiaʔ3	tso33seu33tciaq3	
+source_clean	result_all_converted.clean.csv	5172		300					伤阴骘		saon33in55ciq54	saon33in55ciq54				roundtrip_mismatch	sɒŋ33iŋ55tɕieʔ54	saon33in55tciq54	
+source_clean	result_all_converted.clean.csv	5189		301					叹苦经		thaen33khu33cin33	thaen33khu33cin33				roundtrip_mismatch	tʰæ̃33kʰu33tɕiŋ33	thaen33khu33tcin33	
+source_clean	result_all_converted.clean.csv	5190		301					结仇寇		ciq3dzeu55kheu52	ciq3dzeu55kheu52				roundtrip_mismatch	tɕieʔ3dzɤ55kʰɤ52	tciq3dzeu55kheu52	
+source_clean	result_all_converted.clean.csv	5192		301					做规矩		tso33kue33ciu33	tso33kue33ciu33				roundtrip_mismatch	tso33kuᴇ33tɕy33	tso33kue33tciu33	
+source_clean	result_all_converted.clean.csv	5194		301					吃生活		keq3san55weq54	keq3san55weq54				roundtrip_mismatch	keʔ3saŋ55ɦueʔ54	keq3san55wueq54	
+source_clean	result_all_converted.clean.csv	5196		301					卷铺盖		cioen335phu55ke52	cioen335phu55ke52				roundtrip_mismatch	tɕiø̃335pʰu55kᴇ52	tcioen335phu55ke52	
+source_clean	result_all_converted.clean.csv	5197		301					脚碰脚		ciaq3phan55ciaq54	ciaq3phan55ciaq54				roundtrip_mismatch	tɕiaʔ3pʰaŋ55tɕiaʔ54	tciaq3phan55tciaq54	
+source_clean	result_all_converted.clean.csv	5202		301					卖狗皮膏药		ma11keu11bi11kau11yaq1	ma11keu11bi11kau11yaq1				roundtrip_mismatch	ma11kɤ11bi11kɒ11ɦiaʔ1	ma11keu11bi11kau11yiaq1	
+source_clean	result_all_converted.clean.csv	5203		301					挖墙脚		uaeq3jian55ciaq54	uaeq3jian55ciaq54				roundtrip_mismatch	uæʔ3dʑiaŋ55tɕiaʔ54	uaeq3jian55tciaq54	
+source_clean	result_all_converted.clean.csv	5206		301					变坏		pien33wa33	pien33wa33				roundtrip_mismatch	piẽ33ɦua33	pien33wua33	
+source_clean	result_all_converted.clean.csv	5210		301					挖脚底板		uaeq3ciaq5ti55paen52	uaeq3ciaq5ti55paen52				roundtrip_mismatch	uæʔ3tɕiaʔ5ti55pæ̃52	uaeq3tciaq5ti55paen52	
+source_clean	result_all_converted.clean.csv	5211		301					揭短		ciq3toen55	ciq3toen55				roundtrip_mismatch	tɕieʔ3tø̃55	tciq3toen55	
+source_clean	result_all_converted.clean.csv	5218		302					压肩胛		aeq3cien55kaeq54	aeq3cien55kaeq54				roundtrip_mismatch	æʔ3tɕiẽ55kæʔ54	aeq3tcien55kaeq54	
+source_clean	result_all_converted.clean.csv	5219		302					伸后脚		seen33gheu55ciaq54	seen33gheu55ciaq54				roundtrip_mismatch	sẽ33ɦɤ55tɕiaʔ54	seen33gheu55tciaq54	
+source_clean	result_all_converted.clean.csv	5223		302					话说话只好		wo11se11wo11tsy11hau11	wo11se11wo11tsy11hau11				roundtrip_mismatch	ɦuo11sᴇ11ɦuo11tsɿ11hɒ11	wuo11se11wuo11tsy11hau11	
+source_clean	result_all_converted.clean.csv	5229		302					毅结头		gni115ciq5deu52	gni115ciq5deu52				roundtrip_mismatch	ȵi115tɕieʔ5dɤ52	gni115tciq5deu52	
+source_clean	result_all_converted.clean.csv	5247		303					借		cia33	cia33				roundtrip_mismatch	tɕia33	tcia33	
+source_clean	result_all_converted.clean.csv	5262		303					节剥节		ciq3poq5ciq54	ciq3poq5ciq54				roundtrip_mismatch	tɕieʔ3poʔ5tɕieʔ54	tciq3poq5tciq54	
+source_clean	result_all_converted.clean.csv	5264		303					分家		feen33cia52	feen33cia52				roundtrip_mismatch	fẽ33tɕia52	feen33tcia52	
+source_clean	result_all_converted.clean.csv	5265		303					拆家		tshaq3cia52	tshaq3cia52				roundtrip_mismatch	tsʰaʔ3tɕia52	tshaq3tcia52	
+source_clean	result_all_converted.clean.csv	5266		303					好咯几兄弟		hau335koq5ci55shion55di52	hau335koq5ci55shion55di52				roundtrip_mismatch	hɒ335koʔ5tɕi55ɕioŋ55di52	hau335koq5tci55shion55di52	
+source_clean	result_all_converted.clean.csv	5269		303					撮药		tseq3yaq5	tseq3yaq5				roundtrip_mismatch	tseʔ3ɦiaʔ5	tseq3yiaq5	
+source_clean	result_all_converted.clean.csv	5270		303					拷油		khau33yeu52	khau33yeu52				roundtrip_mismatch	kʰɒ33ɦiɤ52	khau33yieu52	
+source_clean	result_all_converted.clean.csv	5272		304					舀油		yau115yeu52	yau115yeu52				roundtrip_mismatch	ɦiɒ115ɦiɤ52	yiau115yieu52	
+source_clean	result_all_converted.clean.csv	5275		304					肉		gnio11	gnio11				roundtrip_mismatch	ȵiɒ11	gniau11	
+source_clean	result_all_converted.clean.csv	5277		304					鸡		ci52	ci52				roundtrip_mismatch	tɕi52	tci52	
+source_clean	result_all_converted.clean.csv	5280		304					讨价		thau335cia52	thau335cia52				roundtrip_mismatch	tʰɒ335tɕia52	thau335tcia52	
+source_clean	result_all_converted.clean.csv	5281		304					还价		waen11cia55	waen11cia55				roundtrip_mismatch	ɦuæ̃11tɕia55	wuaen11tcia55	
+source_clean	result_all_converted.clean.csv	5284		304					节省		ciq3san55	ciq3san55				roundtrip_mismatch	tɕieʔ3saŋ55	tciq3san55	
+source_clean	result_all_converted.clean.csv	5286		304					告将		ka33cian33	ka33cian33				roundtrip_mismatch	ka33tɕiaŋ33	ka33tcian33	
+source_clean	result_all_converted.clean.csv	5293		304					开车		khe33ciu52	khe33ciu52				roundtrip_mismatch	kʰᴇ33tɕy52	khe33tciu52	
+source_clean	result_all_converted.clean.csv	5296		304					划船		wo11zeen52	wo11zeen52				roundtrip_mismatch	ɦuo11zẽ52	wuo11zeen52	
+source_clean	result_all_converted.clean.csv	5300		304					骑踏脚车		ji11daeq5ciaq5ciu52	ji11daeq5ciaq5ciu52				roundtrip_mismatch	dʑi11dæʔ5tɕiaʔ5tɕy52	ji11daeq5tciaq5tciu52	
+source_clean	result_all_converted.clean.csv	5301		304					骑脚踏车		ji11ciaq5daeq5ciu52	ji11ciaq5daeq5ciu52				roundtrip_mismatch	dʑi11tɕiaʔ5dæʔ5tɕy52	ji11tciaq5daeq5tciu52	
+source_clean	result_all_converted.clean.csv	5302		305					坐车		zo115ciu52	zo115ciu52				roundtrip_mismatch	zo115tɕy52	zo115tciu52	
+source_clean	result_all_converted.clean.csv	5303		305					趁车		tsheen33ciu33	tsheen33ciu33				roundtrip_mismatch	tsʰẽ33tɕy33	tsheen33tciu33	
+source_clean	result_all_converted.clean.csv	5305		305					坐飞机		zo115fi55ci52	zo115fi55ci52				roundtrip_mismatch	zo115fi55tɕi52	zo115fi55tci52	
+source_clean	result_all_converted.clean.csv	5328		305					升级		seon33ciq5	seon33ciq5				roundtrip_mismatch	səŋ33tɕieʔ5	seon33tciq5	
+source_clean	result_all_converted.clean.csv	5330		306					留级		lieu11ciq5	lieu11ciq5				roundtrip_mismatch	liɤ11tɕieʔ5	lieu11tciq5	
+source_clean	result_all_converted.clean.csv	5333		306					放假		faon33cia33	faon33cia33				roundtrip_mismatch	fɒŋ33tɕia33	faon33tcia33	
+source_clean	result_all_converted.clean.csv	5334		306					告假		ka33cia33	ka33cia33				roundtrip_mismatch	ka33tɕia33	ka33tcia33	
+source_clean	result_all_converted.clean.csv	5335		306					请假		chin335cia52	chin335cia52				roundtrip_mismatch	tɕʰiŋ335tɕia52	chin335tcia52	
+source_clean	result_all_converted.clean.csv	5340		306					关夜学		kuaen33ya55yoeq54	kuaen33ya55yoeq54				roundtrip_mismatch	kuæ̃33ɦia55ɦiøʔ54	kuaen33yia55yoeq54	
+source_clean	result_all_converted.clean.csv	5343		306					记笔记		ci33piq3ci33	ci33piq3ci33				roundtrip_mismatch	tɕi33pieʔ3tɕi33	tci33piq3tci33	
+source_clean	result_all_converted.clean.csv	5344		306					摘笔记		tsaq3piq5ci52	tsaq3piq5ci52				roundtrip_mismatch	tsaʔ3pieʔ5tɕi52	tsaq3piq5tci52	
+source_clean	result_all_converted.clean.csv	5345		306					画图画		wo11du11wo11	wo11du11wo11				roundtrip_mismatch	ɦuo11du11ɦuo11	wuo11du11wuo11	
+source_clean	result_all_converted.clean.csv	5347		306					描红		miau11won52	miau11won52				roundtrip_mismatch	miɒ11ɦuoŋ52	miau11wuon52	
+source_clean	result_all_converted.clean.csv	5361		307					办人家		baen11zeen11cia11	baen11zeen11cia11				roundtrip_mismatch	bæ̃11zẽ11tɕia11	baen11zeen11tcia11	
+source_clean	result_all_converted.clean.csv	5379		307					老鹰拖小鸡		lau115in55tha55shiau55ci52	lau115in55tha55shiau55ci52				roundtrip_mismatch	lɒ115iŋ55tʰa55ɕiɒ55tɕi52	lau115in55tha55shiau55tci52	
+source_clean	result_all_converted.clean.csv	5380		307					为胜		we11seen11	we11seen11				roundtrip_mismatch	ɦuᴇ11sẽ11	wue11seen11	
+source_clean	result_all_converted.clean.csv	5408		308					叉麻将		tsha33mo55cian52	tsha33mo55cian52				roundtrip_mismatch	tsʰa33mo55tɕiaŋ52	tsha33mo55tcian52	
+source_clean	result_all_converted.clean.csv	5409		308					游九和		yeu11cieu55wu52	yeu11cieu55wu52				roundtrip_mismatch	ɦiɤ11tɕiɤ55ɦu52	yieu11tcieu55wu52	
+source_clean	result_all_converted.clean.csv	5410		308					推牌九		the33ba55cieu52	the33ba55cieu52				roundtrip_mismatch	tʰᴇ33ba55tɕiɤ52	the33ba55tcieu52	
+source_clean	result_all_converted.clean.csv	5422		309					容		yon231	yon231				roundtrip_mismatch	ɦioŋ231	yion231	
+source_clean	result_all_converted.clean.csv	5425		309					肉痛		gnio11thon11	gnio11thon11				roundtrip_mismatch	ȵiɒ11tʰoŋ11	gniau11thon11	
+source_clean	result_all_converted.clean.csv	5446		310					见情		cien33jin33	cien33jin33				roundtrip_mismatch	tɕiẽ33dʑiŋ33	tcien33jin33	
+source_clean	result_all_converted.clean.csv	5452		310					难为情		naen11we55jin52	naen11we55jin52				roundtrip_mismatch	næ̃11ɦuᴇ55dʑiŋ52	naen11wue55jin52	
+source_clean	result_all_converted.clean.csv	5453		310					难为情相		naen11we55jin55shian52	naen11we55jin55shian52				roundtrip_mismatch	næ̃11ɦuᴇ55dʑiŋ55ɕiaŋ52	naen11wue55jin55shian52	
+source_clean	result_all_converted.clean.csv	5455		310					对胃口		te33we33kheu33	te33we33kheu33				roundtrip_mismatch	tᴇ33ɦuᴇ33kʰɤ33	te33wue33kheu33	
+source_clean	result_all_converted.clean.csv	5459		310					急		ciq45	ciq45				roundtrip_mismatch	tɕieʔ45	tciq45	
+source_clean	result_all_converted.clean.csv	5470		310					有数		yeu115su52	yeu115su52				roundtrip_mismatch	ɦiɤ115su52	yieu115su52	
+source_clean	result_all_converted.clean.csv	5471		310					接头		ciq3deu52	ciq3deu52				roundtrip_mismatch	tɕieʔ3dɤ52	tciq3deu52	
+source_clean	result_all_converted.clean.csv	5479		311					记		ci33	ci33				roundtrip_mismatch	tɕi33	tci33	
+source_clean	result_all_converted.clean.csv	5482		311					记挂		ci33kuo33	ci33kuo33				roundtrip_mismatch	tɕi33kuo33	tci33kuo33	
+source_clean	result_all_converted.clean.csv	5485		311					疑疑惑惑		gni11gni55woq5woq54	gni11gni55woq5woq54				roundtrip_mismatch	ȵi11ȵi55ɦuoʔ5ɦuoʔ54	gni11gni55wuoq5wuoq54	
+source_clean	result_all_converted.clean.csv	5498		311					有		yeu113	yeu113				roundtrip_mismatch	ɦiɤ113	yieu113	
+source_clean	result_all_converted.clean.csv	5513		312					进		cin33	cin33				roundtrip_mismatch	tɕiŋ33	tcin33	
+source_clean	result_all_converted.clean.csv	5521		312					进来		cin33le33	cin33le33				roundtrip_mismatch	tɕiŋ33lᴇ33	tcin33le33	
+source_clean	result_all_converted.clean.csv	5522		312					进去		cin33chi33	cin33chi33				roundtrip_mismatch	tɕiŋ33tɕʰi33	tcin33chi33	
+source_clean	result_all_converted.clean.csv	5527		312					回来		we11le52	we11le52				roundtrip_mismatch	ɦuᴇ11lᴇ52	wue11le52	
+source_clean	result_all_converted.clean.csv	5528		312					回去		we11chi55	we11chi55				roundtrip_mismatch	ɦuᴇ11tɕʰi55	wue11chi55	
+source_clean	result_all_converted.clean.csv	5530		313					勾肩搭背		keu33cien55taeq5pe52	keu33cien55taeq5pe52				roundtrip_mismatch	kɤ33tɕiẽ55tæʔ5pᴇ52	keu33tcien55taeq5pe52	
+source_clean	result_all_converted.clean.csv	5537		313					做死做活		tso33sy33tso33weq3	tso33sy33tso33weq3				roundtrip_mismatch	tso33sɿ33tso33ɦueʔ3	tso33sy33tso33wueq3	
+source_clean	result_all_converted.clean.csv	5539		313					活脱活像		weq1theq5weq5jian52	weq1theq5weq5jian52				roundtrip_mismatch	ɦueʔ1tʰeʔ5ɦueʔ5dʑiaŋ52	wueq1theq5wueq5jian52	
+source_clean	result_all_converted.clean.csv	5540		313					看样学样		kheen33yan33yoeq3yan33	kheen33yan33yoeq3yan33				roundtrip_mismatch	kʰẽ33ɦiaŋ33ɦiøʔ3ɦiaŋ33	kheen33yian33yoeq3yian33	
+source_clean	result_all_converted.clean.csv	5544		313					塞祭揉饱		sa33ci33dzeu33pau33	sa33ci33dzeu33pau33				roundtrip_mismatch	sa33tɕi33dzɤ33pɒ33	sa33tci33dzeu33pau33	
+source_clean	result_all_converted.clean.csv	5551		313					个过老酒呐		ko33ku33lau33cieu33naeq3	ko33ku33lau33cieu33naeq3				roundtrip_mismatch	ko33ku33lɒ33tɕiɤ33næʔ3	ko33ku33lau33tcieu33naeq3	
+source_clean	result_all_converted.clean.csv	5552		313					形容词		yin11yon55dzy52	yin11yon55dzy52				roundtrip_mismatch	ɦiŋ11ɦioŋ55dzɿ52	yin11yion55dzy52	
+source_clean	result_all_converted.clean.csv	5557		314					只鸡		tsy335ci52	tsy335ci52				roundtrip_mismatch	tsɿ335tɕi52	tsy335tci52	
+source_clean	result_all_converted.clean.csv	5589		315					尖		cien52	cien52				roundtrip_mismatch	tɕiẽ52	tcien52	
+source_clean	result_all_converted.clean.csv	5597		315					横		wan231	wan231				roundtrip_mismatch	ɦuaŋ231	wuan231	
+source_clean	result_all_converted.clean.csv	5605		315					红		won231	won231				roundtrip_mismatch	ɦuoŋ231	wuon231	
+source_clean	result_all_converted.clean.csv	5606		315					橘红		cioeq3won52	cioeq3won52				roundtrip_mismatch	tɕiøʔ3ɦuoŋ52	tcioeq3wuon52	
+source_clean	result_all_converted.clean.csv	5614		315					紫红		tsy335won52	tsy335won52				roundtrip_mismatch	tsɿ335ɦuoŋ52	tsy335wuon52	
+source_clean	result_all_converted.clean.csv	5632		316					指酒或粥浓		tsy335cieu55woq5tsoq5non52	tsy335cieu55woq5tsoq5non52				roundtrip_mismatch	tsɿ335tɕiɤ55ɦuoʔ5tsoʔ5noŋ52	tsy335tcieu55wuoq5tsoq5non52	
+source_clean	result_all_converted.clean.csv	5641		316					滑		waeq23	waeq23				roundtrip_mismatch	ɦuæʔ23	wuaeq23	
+source_clean	result_all_converted.clean.csv	5642		316					紧		cin335	cin335				roundtrip_mismatch	tɕiŋ335	tcin335	
+source_clean	result_all_converted.clean.csv	5661		317					仔洁		tsy335ciq54	tsy335ciq54				roundtrip_mismatch	tsɿ335tɕieʔ54	tsy335tciq54	
+source_clean	result_all_converted.clean.csv	5682		318					推为		the33we55	the33we55				roundtrip_mismatch	tʰᴇ33ɦuᴇ55	the33wue55	
+source_clean	result_all_converted.clean.csv	5683		318					楚脚		tshu335ciaq54	tshu335ciaq54				roundtrip_mismatch	tsʰu335tɕiaʔ54	tshu335tciaq54	
+source_clean	result_all_converted.clean.csv	5691		318					假		cia335	cia335				roundtrip_mismatch	tɕia335	tcia335	
+source_clean	result_all_converted.clean.csv	5694		318					夜		ya11	ya11				roundtrip_mismatch	ɦia11	yia11	
+source_clean	result_all_converted.clean.csv	5709		319					加工废品		cia33kuon55fi55phin52	cia33kuon55fi55phin52				roundtrip_mismatch	tɕia33kuoŋ55fi55pʰiŋ52	tcia33kuon55fi55phin52	
+source_clean	result_all_converted.clean.csv	5716		319					容易		yon11yi55	yon11yi55				roundtrip_mismatch	ɦioŋ11ɦi55	yion11yi55	
+source_clean	result_all_converted.clean.csv	5717		319					贵		ciu33	ciu33				roundtrip_mismatch	tɕy33	tciu33	
+source_clean	result_all_converted.clean.csv	5722		319					考究		khau335cieu52	khau335cieu52				roundtrip_mismatch	kʰɒ335tɕiɤ52	khau335tcieu52	
+source_clean	result_all_converted.clean.csv	5741		320					油腻		yeu11gni52	yeu11gni52				roundtrip_mismatch	ɦiɤ11ȵi52	yieu11gni52	
+source_clean	result_all_converted.clean.csv	5757		320					有些		yeu115soeq54	yeu115soeq54				roundtrip_mismatch	ɦiɤ115søʔ54	yieu115soeq54	
+source_clean	result_all_converted.clean.csv	5758		320					肚饥		tu335ci52	tu335ci52				roundtrip_mismatch	tu335tɕi52	tu335tci52	
+source_clean	result_all_converted.clean.csv	5771		321					痒		yan113	yan113				roundtrip_mismatch	ɦiaŋ113	yian113	
+source_clean	result_all_converted.clean.csv	5772		321					迹		ciq45	ciq45				roundtrip_mismatch	tɕieʔ45	tciq45	
+source_clean	result_all_converted.clean.csv	5778		321					落胃		loq1we55	loq1we55				roundtrip_mismatch	loʔ1ɦuᴇ55	loq1wue55	
+source_clean	result_all_converted.clean.csv	5787		321					有什相		yeu115zeq5shian52	yeu115zeq5shian52				roundtrip_mismatch	ɦiɤ115zeʔ5ɕiaŋ52	yieu115zeq5shian52	
+source_clean	result_all_converted.clean.csv	5790		322					精		cin52	cin52				roundtrip_mismatch	tɕiŋ52	tcin52	
+source_clean	result_all_converted.clean.csv	5794		322					结实		ciq3zeq5	ciq3zeq5				roundtrip_mismatch	tɕieʔ3zeʔ5	tciq3zeq5	
+source_clean	result_all_converted.clean.csv	5803		322					年纪轻		gnien11ci55chin52	gnien11ci55chin52				roundtrip_mismatch	ȵiẽ11tɕi55tɕʰiŋ52	gnien11tci55chin52	
+source_clean	result_all_converted.clean.csv	5807		322					登样		teon33yan55	teon33yan55				roundtrip_mismatch	təŋ33ɦiaŋ55	teon33yian55	
+source_clean	result_all_converted.clean.csv	5808		322					细洁		shi33ciq3	shi33ciq3				roundtrip_mismatch	ɕi33tɕieʔ3	shi33tciq3	
+source_clean	result_all_converted.clean.csv	5816		322					是生得有些		zy115san55teq5yeu55soeq54	zy115san55teq5yeu55soeq54				roundtrip_mismatch	zɿ115saŋ55teʔ5ɦiɤ55søʔ54	zy115san55teq5yieu55soeq54	
+source_clean	result_all_converted.clean.csv	5817		322					活泛		weq1faen55	weq1faen55				roundtrip_mismatch	ɦueʔ1fæ̃55	wueq1faen55	
+source_clean	result_all_converted.clean.csv	5819		323					勿活泛		veq1weq5faen52	veq1weq5faen52				roundtrip_mismatch	veʔ1ɦueʔ5fæ̃52	veq1wueq5faen52	
+source_clean	result_all_converted.clean.csv	5827		323					活要活得		weq1iau55weq5teq54	weq1iau55weq5teq54				roundtrip_mismatch	ɦueʔ1iɒ55ɦueʔ5teʔ54	wueq1iau55wueq5teq54	
+source_clean	result_all_converted.clean.csv	5829		323					精		cin52	cin52				roundtrip_mismatch	tɕiŋ52	tcin52	
+source_clean	result_all_converted.clean.csv	5837		323					滑头		waeq1deu52	waeq1deu52				roundtrip_mismatch	ɦuæʔ1dɤ52	wuaeq1deu52	
+source_clean	result_all_converted.clean.csv	5860		324					搭浆		taeq3cian52	taeq3cian52				roundtrip_mismatch	tæʔ3tɕiaŋ52	taeq3tcian52	
+source_clean	result_all_converted.clean.csv	5861		324					勤谨		jin11cin55	jin11cin55				roundtrip_mismatch	dʑiŋ11tɕiŋ55	jin11tcin55	
+source_clean	result_all_converted.clean.csv	5863		324					无结煞		wu11ciq5saeq54	wu11ciq5saeq54				roundtrip_mismatch	ɦu11tɕieʔ5sæʔ54	wu11tciq5saeq54	
+source_clean	result_all_converted.clean.csv	5876		325					活络		weq1loq5	weq1loq5				roundtrip_mismatch	ɦueʔ1loʔ5	wueq1loq5	
+source_clean	result_all_converted.clean.csv	5915		326					日长世久		gni11tsan11sy11cieu11	gni11tsan11sy11cieu11				roundtrip_mismatch	ȵi11tsaŋ11sɿ11tɕiɤ11	gni11tsan11sy11tcieu11	
+source_clean	result_all_converted.clean.csv	5917		326					滑塌精光		waeq1thaeq5cin55kuaon52	waeq1thaeq5cin55kuaon52				roundtrip_mismatch	ɦuæʔ1tʰæʔ5tɕiŋ55kuɒŋ52	wuaeq1thaeq5tcin55kuaon52	
+source_clean	result_all_converted.clean.csv	5920		326					精干巴瘦		cin33keen55po55seu52	cin33keen55po55seu52				roundtrip_mismatch	tɕiŋ33kẽ55po55sɤ52	tcin33keen55po55seu52	
+source_clean	result_all_converted.clean.csv	5921		326					或俸剔塔		woq1fon55thiq5thaeq54	woq1fon55thiq5thaeq54				roundtrip_mismatch	ɦuoʔ1foŋ55tʰieʔ5tʰæʔ54	wuoq1fon55thiq5thaeq54	
+source_clean	result_all_converted.clean.csv	5922		326					僵硬骨粒		cian33ngan55kueq5leq54	cian33ngan55kueq5leq54				roundtrip_mismatch	tɕiaŋ33ŋaŋ55kueʔ5leʔ54	tcian33ngan55kueq5leq54	
+source_clean	result_all_converted.clean.csv	5928		327					死样怪气		sy335yan55kua55chi52	sy335yan55kua55chi52				roundtrip_mismatch	sɿ335ɦiaŋ55kua55tɕʰi52	sy335yian55kua55chi52	
+source_clean	result_all_converted.clean.csv	5941		327					管会有咯		kuoen335kue55yeu55koq54	kuoen335kue55yeu55koq54				roundtrip_mismatch	kuø̃335kuᴇ55ɦiɤ55koʔ54	kuoen335kue55yieu55koq54	
+source_clean	result_all_converted.clean.csv	5954		327					带进东		ta33cin33ton33	ta33cin33ton33				roundtrip_mismatch	ta33tɕiŋ33toŋ33	ta33tcin33ton33	
+source_clean	result_all_converted.clean.csv	5959		328					有些		yeu115soeq54	yeu115soeq54				roundtrip_mismatch	ɦiɤ115søʔ54	yieu115soeq54	
+source_clean	result_all_converted.clean.csv	5960		328					乌嘴野猫		u33tsy55ya55mau52	u33tsy55ya55mau52				roundtrip_mismatch	u33tsɿ55ɦia55mɒ52	u33tsy55yia55mau52	
+source_clean	result_all_converted.clean.csv	5976		328					擘脚蚊嫂		phaq3ciaq5meen55sau52	phaq3ciaq5meen55sau52				roundtrip_mismatch	pʰaʔ3tɕiaʔ5mẽ55sɒ52	phaq3tciaq5meen55sau52	
+source_clean	result_all_converted.clean.csv	5977		328					有咽相		yeu115ien55shian52	yeu115ien55shian52				roundtrip_mismatch	ɦiɤ115iẽ55ɕiaŋ52	yieu115ien55shian52	
+source_clean	result_all_converted.clean.csv	5990		329					九		cieu335	cieu335				roundtrip_mismatch	tɕiɤ335	tcieu335	
+source_clean	result_all_converted.clean.csv	6000		329					十九		zeq1cieu55	zeq1cieu55				roundtrip_mismatch	zeʔ1tɕiɤ55	zeq1tcieu55	
+source_clean	result_all_converted.clean.csv	6014		330					九十		cieu335zeq54	cieu335zeq54				roundtrip_mismatch	tɕiɤ335zeʔ54	tcieu335zeq54	
+source_clean	result_all_converted.clean.csv	6041		331					几		ci52	ci52				roundtrip_mismatch	tɕi52	tci52	
+source_clean	result_all_converted.clean.csv	6047		331					凑来为数		tsheu33le33we33su33	tsheu33le33we33su33				roundtrip_mismatch	tsʰɤ33lᴇ33ɦuᴇ33su33	tsheu33le33wue33su33	
+source_clean	result_all_converted.clean.csv	6085		332					家		cia52	cia52				roundtrip_mismatch	tɕia52	tcia52	
+source_clean	result_all_converted.clean.csv	6098		333					给		ciq45	ciq45				roundtrip_mismatch	tɕieʔ45	tciq45	
+source_clean	result_all_converted.clean.csv	6104		333					茱		ciu52	ciu52				roundtrip_mismatch	tɕy52	tciu52	
+source_clean	result_all_converted.clean.csv	6166		335					样		yan11	yan11				roundtrip_mismatch	ɦiaŋ11	yian11	
+source_clean	result_all_converted.clean.csv	6173		336					回		we231	we231				roundtrip_mismatch	ɦuᴇ231	wue231	
+source_clean	result_all_converted.clean.csv	6176		336					记		ci33	ci33				roundtrip_mismatch	tɕi33	tci33	
+source_clean	result_all_converted.clean.csv	6186		336					斤		cin52	cin52				roundtrip_mismatch	tɕiŋ52	tcin52	
+source_clean	result_all_converted.clean.csv	6204		337					倻		ya113	ya113				roundtrip_mismatch	ɦia113	yia113	
+source_clean	result_all_converted.clean.csv	6208		337					别人家		beq1zeen55cia52	beq1zeen55cia52				roundtrip_mismatch	beʔ1zẽ55tɕia52	beq1zeen55tcia52	
+source_clean	result_all_converted.clean.csv	6209		337					人家		zeen11cia52	zeen11cia52				roundtrip_mismatch	zẽ11tɕia52	zeen11tcia52	
+source_clean	result_all_converted.clean.csv	6210		337					大家		da11cia11	da11cia11				roundtrip_mismatch	da11tɕia11	da11tcia11	
+source_clean	result_all_converted.clean.csv	6217		337					倻咯		ya115koq54	ya115koq54				roundtrip_mismatch	ɦia115koʔ54	yia115koq54	
+source_clean	result_all_converted.clean.csv	6265		339					为啥		we11so11	we11so11				roundtrip_mismatch	ɦuᴇ11so11	wue11so11	
+source_clean	result_all_converted.clean.csv	6278		339					已经		yi115cin52	yi115cin52				roundtrip_mismatch	ɦi115tɕiŋ52	yi115tcin52	
+source_clean	result_all_converted.clean.csv	6297		340					有时光		yeu115zy55kuaon52	yeu115zy55kuaon52				roundtrip_mismatch	ɦiɤ115zɿ55kuɒŋ52	yieu115zy55kuaon52	
+source_clean	result_all_converted.clean.csv	6309		341					越加		yoeq1cia52	yoeq1cia52				roundtrip_mismatch	ɦiøʔ1tɕia52	yoeq1tcia52	
+source_clean	result_all_converted.clean.csv	6329		341					还		waen231	waen231				roundtrip_mismatch	ɦuæ̃231	wuaen231	
+source_clean	result_all_converted.clean.csv	6330		341					还要		waen11iau52	waen11iau52				roundtrip_mismatch	ɦuæ̃11iɒ52	wuaen11iau52	
+source_clean	result_all_converted.clean.csv	6332		342					稍为		sau33we55	sau33we55				roundtrip_mismatch	sɒ33ɦuᴇ55	sau33wue55	
+source_clean	result_all_converted.clean.csv	6333		342					有些		yeu115soeq54	yeu115soeq54				roundtrip_mismatch	ɦiɤ115søʔ54	yieu115soeq54	
+source_clean	result_all_converted.clean.csv	6359		343					总究		tson335cieu52	tson335cieu52				roundtrip_mismatch	tsoŋ335tɕiɤ52	tson335tcieu52	
+source_clean	result_all_converted.clean.csv	6360		343					只有		tsy335yeu52	tsy335yeu52				roundtrip_mismatch	tsɿ335ɦiɤ52	tsy335yieu52	
+source_clean	result_all_converted.clean.csv	6365		343					涯		ya231	ya231				roundtrip_mismatch	ɦia231	yia231	
+source_clean	result_all_converted.clean.csv	6366		343					还		waen231	waen231				roundtrip_mismatch	ɦuæ̃231	wuaen231	
+source_clean	result_all_converted.clean.csv	6382		343					到究		ta33cieu33	ta33cieu33				roundtrip_mismatch	ta33tɕiɤ33	ta33tcieu33	
+source_clean	result_all_converted.clean.csv	6388		344					特为		deq1we55	deq1we55				roundtrip_mismatch	deʔ1ɦuᴇ55	deq1wue55	
+source_clean	result_all_converted.clean.csv	6391		344					或是		woq1zy55	woq1zy55				roundtrip_mismatch	ɦuoʔ1zɿ55	wuoq1zy55	
+source_clean	result_all_converted.clean.csv	6399		344					手脚		seu335ciaq54	seu335ciaq54				roundtrip_mismatch	sɤ335tɕiaʔ54	seu335tciaq54	
+source_clean	result_all_converted.clean.csv	6402		344					当假		taon33cia55	taon33cia55				roundtrip_mismatch	tɒŋ33tɕia55	taon33tcia55	
+source_clean	result_all_converted.clean.csv	6412		344					反究		faen335cieu52	faen335cieu52				roundtrip_mismatch	fæ̃335tɕiɤ52	faen335tcieu52	
+source_clean	result_all_converted.clean.csv	6420		345					横竖		wan11zy55	wan11zy55				roundtrip_mismatch	ɦuaŋ11zɿ55	wuan11zy55	
+source_clean	result_all_converted.clean.csv	6421		345					横直		wan11dzeoq5	wan11dzeoq5				roundtrip_mismatch	ɦuaŋ11dzəʔ5	wuan11dzeoq5	
+source_clean	result_all_converted.clean.csv	6422		345					话勿来		wo11veq1le11	wo11veq1le11				roundtrip_mismatch	ɦuo11veʔ1lᴇ11	wuo11veq1le11	
+source_clean	result_all_converted.clean.csv	6424		345					无有数		wu11yeu55su52	wu11yeu55su52				roundtrip_mismatch	ɦu11ɦiɤ55su52	wu11yieu55su52	
+source_clean	result_all_converted.clean.csv	6453		346					患		waen11	waen11				roundtrip_mismatch	ɦuæ̃11	wuaen11	
+source_clean	result_all_converted.clean.csv	6455		346					化为		huo33we33	huo33we33				roundtrip_mismatch	huo33ɦuᴇ33	huo33wue33	
+source_clean	result_all_converted.clean.csv	6473		347					为得		we11teq1	we11teq1				roundtrip_mismatch	ɦuᴇ11teʔ1	wue11teq1	
+source_clean	result_all_converted.clean.csv	6484		347					再话		tse33wo33	tse33wo33				roundtrip_mismatch	tsᴇ33ɦuo33	tse33wuo33	
+source_clean	result_all_converted.clean.csv	6487		347					是话		zy115wo52	zy115wo52				roundtrip_mismatch	zɿ115ɦuo52	zy115wuo52	
+source_clean	result_all_converted.clean.csv	6500		348					叫		ciau33	ciau33				roundtrip_mismatch	tɕiɒ33	tciau33	
+source_clean	result_all_converted.clean.csv	6509		348					患		waen11	waen11				roundtrip_mismatch	ɦuæ̃11	wuaen11	
+source_clean	result_all_converted.clean.csv	6518		349					借		cia33	cia33				roundtrip_mismatch	tɕia33	tcia33	

@@ -1,0 +1,38 @@
+{
+  "manifest": "ipa_ocr_work\\dataset\\shaoxing_pdf136_clean\\ocr_selected_all\\eval_manifest.tsv",
+  "mapping": "G:\\shaoxing_tts\\ipa_ocr_work\\config\\wupin_ipa_map.json",
+  "rows": [
+    {
+      "split": "train",
+      "n": 3288,
+      "roundtrip_exact": 1.0,
+      "standalone_roundtrip_exact": 1.0,
+      "forward_bad": 0,
+      "backward_bad": 0
+    },
+    {
+      "split": "val",
+      "n": 224,
+      "roundtrip_exact": 1.0,
+      "standalone_roundtrip_exact": 1.0,
+      "forward_bad": 0,
+      "backward_bad": 0
+    },
+    {
+      "split": "test",
+      "n": 261,
+      "roundtrip_exact": 1.0,
+      "standalone_roundtrip_exact": 1.0,
+      "forward_bad": 0,
+      "backward_bad": 0
+    },
+    {
+      "split": "all",
+      "n": 3773,
+      "roundtrip_exact": 1.0,
+      "standalone_roundtrip_exact": 1.0,
+      "forward_bad": 0,
+      "backward_bad": 0
+    }
+  ]
+}

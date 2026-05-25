@@ -25,6 +25,7 @@ venv/
 ENV/
 env/
 .venv/
+.venv-*/
 
 # IDE
 .vscode/
@@ -54,6 +55,18 @@ ocr-ipa/
 *.pb
 *.onnx
 *.pkl
+*.pt
+*.pth
+*.safetensors
+
+# Local OCR experiment artifacts
+ipa_ocr_work/models/
+ipa_ocr_work/runs/
+ipa_ocr_work/eval/
+ipa_ocr_work/dataset/*
+ipa_ocr_work/*.zip
+ipa_ocr_work/*.tar.gz
+*.downloading
 
 # Image cache - 排除测试图片
 *.png
